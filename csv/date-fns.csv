@@ -1,0 +1,676 @@
+MemberId,company,createdAt,currency,isActive,lastTransactionAmount,lastTransactionAt,role,tier,totalAmountDonated,type,profile,twitter,github,website
+2798,,2017-01-18 15:04,USD,True,-12000,2024-08-01 12:45,ADMIN,0,0,USER,https://opencollective.com/kossnocorp,https://twitter.com/kossnocorp,https://github.com/kossnocorp,https://koss.nocorp.me/
+2799,,2017-01-18 15:04,USD,True,-5,2024-08-25 20:22,HOST,0,22.68,ORGANIZATION,https://opencollective.com/opensource,https://twitter.com/OpenSourceColl,,https://oscollective.org/
+15580,,2018-04-25 20:39,USD,False,25,2018-11-01 05:21,BACKER,Backers,200,ORGANIZATION,https://opencollective.com/codepilotai,https://twitter.com/codepilotai,https://github.com/CodePilotai/codepilot,https://codepilot.ai
+18472,Aon Cyber Solutions,2018-07-02 14:23,USD,True,5,2020-12-02 00:14,BACKER,0,125,USER,https://opencollective.com/olegchursin,https://twitter.com/ochursin,https://github.com/olegchurin,https://olegchursin.com
+23503,,2018-10-04 15:12,USD,True,-12000,2024-07-02 15:58,CONTRIBUTOR,0,0,USER,https://opencollective.com/kossnocorp,https://twitter.com/kossnocorp,https://github.com/kossnocorp,https://koss.nocorp.me/
+25021,,2018-10-26 12:12,USD,False,10,2019-10-01 05:04,BACKER,Backers,130,USER,https://opencollective.com/anonymous1275,,,
+25247,,2018-10-30 12:54,USD,False,2,2018-11-01 05:15,BACKER,Backers,4,USER,https://opencollective.com/kovetskiy,,https://github.com/kovetskiy,https://samizdat.dev
+25364,,2018-11-01 09:36,USD,False,2,2021-08-01 09:11,BACKER,Backers,68,USER,https://opencollective.com/m-allanson,,https://github.com/m-allanson,
+25432,,2018-11-01 22:03,USD,False,3,2019-07-01 05:04,BACKER,Backers,27,USER,https://opencollective.com/smrkovic-harun,,,
+26936,,2018-11-27 12:30,USD,True,2,2024-08-01 03:03,BACKER,Backers,138,USER,https://opencollective.com/vedadsose,https://twitter.com/vedadsose,,
+26937,,2018-11-27 12:44,USD,False,2,2019-12-02 05:22,BACKER,Backers,28,USER,https://opencollective.com/nikita-luchko,,,
+26938,,2018-11-27 12:48,USD,True,10,2018-11-27 12:48,BACKER,0,10,USER,https://opencollective.com/toptal,,,
+27744,,2018-12-07 08:13,USD,False,3,2022-04-01 09:19,BACKER,Backers,123,USER,https://opencollective.com/darktasevski,https://twitter.com/darktasevski,https://github.com/darktasevski,
+27770,,2018-12-07 14:39,USD,False,20,2019-01-02 16:02,BACKER,Backers,22,USER,https://opencollective.com/hoang-minh-vu,,,
+28058,,2018-12-11 21:48,USD,False,5,2019-04-01 05:22,BACKER,Backers,25,USER,https://opencollective.com/marais,https://twitter.com/codervandal,https://github.com/maraisr,https://marais.io
+28236,,2018-12-14 08:30,USD,False,30,2019-02-05 17:51,BACKER,Backers,34,USER,https://opencollective.com/gerasimos-spyratos,,,
+28494,ProductReview.com.au,2018-12-17 23:42,USD,False,1,2022-02-04 19:09,BACKER,Backers,31,USER,https://opencollective.com/eliseu,https://twitter.com/eliseumds,,https://medium.com/@eliseumds
+29631,,2019-01-06 03:58,USD,True,25,2019-01-06 03:58,BACKER,0,25,USER,https://opencollective.com/veera-kalyanasundaram,,,
+29632,,2019-01-06 03:58,0,True,0,2024-08-27 10:37,BACKER,0,145,ORGANIZATION,https://opencollective.com/triplebyte,https://twitter.com/triple_byte,,https://triplebyte.com/os/opencollective
+30672,,2019-01-21 20:21,USD,False,100,2019-03-01 20:38,BACKER,Silver Sponsors,300,USER,https://opencollective.com/marcushiles,https://twitter.com/MarcusHiles1,https://github.com/marcu-hiles,https://marcus-hiles.com
+31108,,2019-01-27 16:08,USD,True,10,2024-08-01 02:01,BACKER,Backers,680,ORGANIZATION,https://opencollective.com/codefirst,https://twitter.com/code_first,https://github.com/code-first,https://www.codefirst.co.uk
+31303,,2019-01-30 13:51,USD,True,50,2019-01-30 13:51,BACKER,0,50,USER,https://opencollective.com/tejaskumar_,https://twitter.com/tejaskumar_,,
+31653,,2019-02-02 08:07,USD,True,20,2019-02-02 08:07,BACKER,0,20,USER,https://opencollective.com/tristan-letrou,,,
+32277,,2019-02-08 20:23,USD,False,10,2021-07-02 01:06,BACKER,Backers,300,USER,https://opencollective.com/esphen,https://twitter.com/espen_dev,https://github.com/esphen,https://henriksen.is
+32435,,2019-02-10 11:47,USD,False,5,2019-09-11 08:36,BACKER,Backers,40,USER,https://opencollective.com/hexadog,,,
+32918,,2019-02-16 04:59,USD,False,2,2019-05-01 05:29,BACKER,Backers,8,USER,https://opencollective.com/warren-sadler,,,
+33202,,2019-02-20 10:01,USD,False,2,2020-05-02 10:26,BACKER,Backers,32,USER,https://opencollective.com/freddie-ridell,,,
+33770,,2019-02-26 17:19,USD,False,2,2020-06-11 05:00,BACKER,Backers,34,USER,https://opencollective.com/kay0stheory,https://twitter.com/kay0stheory,,https://theymadethat.com
+33906,,2019-02-27 21:31,USD,True,10,2019-02-27 21:31,BACKER,0,10,USER,https://opencollective.com/kaileen-mcculloch,,,
+33907,,2019-02-27 21:31,0,True,0,2024-08-27 10:37,BACKER,0,10,ORGANIZATION,https://opencollective.com/twostoryrobot,https://twitter.com/twostoryrobot,https://github.com/TwoStoryRobot,https://www.twostoryrobot.com
+33942,,2019-02-28 14:48,USD,False,5,2022-04-01 12:34,BACKER,Backers,195,USER,https://opencollective.com/aj-klein,https://twitter.com/jumbleofideas,https://github.com/silenceisgolden,https://twitter.com/jumbleofideas
+34010,,2019-03-01 11:14,USD,False,3,2019-11-01 17:07,BACKER,Backers,27,ORGANIZATION,https://opencollective.com/flatlogic,https://twitter.com/flatlogic,,https://flatlogic.com/templates
+35148,Preeo Software,2019-03-13 13:43,USD,True,20,2019-03-13 13:43,BACKER,0,20,USER,https://opencollective.com/edward-sammut-alessi,,https://github.com/Slesi,https://preeo.software
+35320,,2019-03-15 13:22,USD,False,-450,2021-02-05 00:17,BACKER,Backers,75,USER,https://opencollective.com/leshakoss,,,
+35352,,2019-03-15 21:33,USD,True,5,2019-03-15 21:33,BACKER,0,5,USER,https://opencollective.com/helio-alves,,,
+35644,,2019-03-19 17:23,USD,True,10,2019-03-19 17:23,BACKER,0,10,USER,https://opencollective.com/kris-triplett,,,
+36386,,2019-03-27 18:46,USD,False,2,2019-09-01 05:43,BACKER,Backers,14,USER,https://opencollective.com/dmitry-krylov,,,
+36967,,2019-04-03 07:54,USD,False,2,2019-07-01 05:38,BACKER,Backers,8,USER,https://opencollective.com/chien-vu,,https://github.com/fchienvuhoang,
+37414,,2019-04-08 12:20,USD,False,2,2020-05-02 10:25,BACKER,Backers,28,USER,https://opencollective.com/vaclav-novotny,,,
+37572,,2019-04-10 00:25,USD,False,100,2021-08-01 08:13,BACKER,Silver Sponsors,2900,ORGANIZATION,https://opencollective.com/1password,,,https://1password.com
+37937,,2019-04-15 20:58,USD,False,5,2022-11-01 00:05,BACKER,Backers,181,USER,https://opencollective.com/nicolae,,,
+38108,,2019-04-17 23:58,USD,True,25,2019-04-17 23:58,BACKER,0,25,USER,https://opencollective.com/wyatt-ades,,https://github.com/wyattades,https://wyattades.com
+38683,,2019-04-26 10:49,USD,False,5,2019-07-01 05:24,BACKER,Backers,20,USER,https://opencollective.com/denis-savchuk,,,
+39066,,2019-05-01 18:05,USD,True,2,2024-08-01 00:04,BACKER,Backers,128,USER,https://opencollective.com/falsefalse,,,
+39692,@auto1,2019-05-08 10:52,USD,True,2,2024-08-01 04:02,BACKER,Backers,128,USER,https://opencollective.com/dmytro-lyfarenko,,https://github.com/DimaRGB,
+39938,,2019-05-10 16:22,USD,False,100,2020-09-01 10:30,BACKER,Silver Sponsors,1700,ORGANIZATION,https://opencollective.com/aon-cyber-solutions,,,https://www.aon.com/cyber-solutions
+40079,,2019-05-13 09:57,USD,False,10,2019-12-03 05:08,BACKER,Backers,80,USER,https://opencollective.com/eduard-tsech,,,
+40295,,2019-05-15 13:53,USD,True,10,2024-08-01 05:01,BACKER,Backers,640,USER,https://opencollective.com/andrei-terentev1,,,
+40360,,2019-05-16 12:53,USD,False,2,2019-11-01 15:51,BACKER,Backers,14,USER,https://opencollective.com/oleg-bilyk,https://twitter.com/OlegBilykPro,https://github.com/olegbilyk,https://www.linkedin.com/in/oleg-bilyk-pro/
+40815,,2019-05-22 11:47,USD,False,3,2020-08-03 05:14,BACKER,Backers,69,ORGANIZATION,https://opencollective.com/sharesome,,,https://sharesome.com
+40869,,2019-05-23 04:59,USD,False,2,2020-05-03 05:29,BACKER,Backers,26,ORGANIZATION,https://opencollective.com/reddit-wiki,,,https://subbed.org
+41073,@chrome,2019-05-25 05:59,USD,False,50,2019-09-01 05:10,BACKER,Backers,250,USER,https://opencollective.com/addyosmani,https://twitter.com/addyosmani,https://github.com/addyosmani,https://www.addyosmani.com
+41646,,2019-05-30 17:34,USD,True,20,2019-05-30 17:34,BACKER,0,20,USER,https://opencollective.com/john-knoll,,https://github.com/jpknoll,
+42027,,2019-06-04 02:50,USD,False,2,2022-03-01 02:16,BACKER,Backers,68,USER,https://opencollective.com/artem-malko,,,
+42057,,2019-06-04 12:28,USD,True,2,2024-08-01 00:04,BACKER,Backers,126,USER,https://opencollective.com/bernard-stojanovic,,,
+42392,,2019-06-07 16:46,USD,False,2,2022-09-01 14:09,BACKER,Backers,80,USER,https://opencollective.com/zoltan-szepesi,,,
+43678,,2019-06-21 14:21,USD,False,2,2023-11-01 01:06,BACKER,Backers,108,ORGANIZATION,https://opencollective.com/mediref,,,
+43698,,2019-06-21 15:43,USD,True,2,2024-08-01 00:05,BACKER,Backers,126,USER,https://opencollective.com/carlos-azaustre,,,
+44048,,2019-06-25 09:28,USD,True,5,2024-08-01 06:01,BACKER,Backers,315,USER,https://opencollective.com/jules,,,
+44080,,2019-06-25 15:07,USD,True,20,2019-06-25 15:07,BACKER,0,20,USER,https://opencollective.com/alexey-ryazanov,,,
+44834,,2019-07-02 15:43,USD,False,10,2020-07-01 05:19,BACKER,Backers,130,USER,https://opencollective.com/andrea-costantini,,,
+45242,,2019-07-05 18:13,USD,True,200,2020-04-28 16:59,BACKER,0,220,ORGANIZATION,https://opencollective.com/frontendmasters,https://twitter.com/FrontendMasters,https://github.com/frontendmasters,https://FrontendMasters.com
+48023,,2019-08-02 03:52,USD,True,5,2019-08-02 03:52,BACKER,0,5,USER,https://opencollective.com/nhducit,https://twitter.com/nhducit,https://github.com/nhducit,https://twitter.com/nhducit
+48850,@memrise,2019-08-10 11:28,USD,True,10,2019-08-10 11:28,BACKER,0,10,USER,https://opencollective.com/mulholio,https://twitter.com/mulholio,https://github.com/mulholio,https://jmulholland.com
+49725,,2019-08-20 08:18,USD,True,33.97,2019-08-20 08:18,BACKER,0,33.97,ORGANIZATION,https://opencollective.com/camplight,https://twitter.com/campenlightment,https://github.com/camplight,https://camplight.net/
+50947,,2019-09-01 08:47,USD,False,2,2019-10-01 05:55,BACKER,Backers,4,ORGANIZATION,https://opencollective.com/plagiarismchecker-eu,,,https://plagiarismchecker.eu
+51941,,2019-09-09 10:46,USD,False,3,2022-02-01 01:06,BACKER,Backers,90,ORGANIZATION,https://opencollective.com/vpngorilla-com,,,https://vpngorilla.com
+52394,,2019-09-10 15:40,USD,True,50,2024-08-02 10:23,BACKER,Backers,770,ORGANIZATION,https://opencollective.com/fortunegames,,,https://www.fortunegames.com
+54376,,2019-09-26 17:23,USD,False,2,2020-04-21 05:03,BACKER,Backers,16,ORGANIZATION,https://opencollective.com/0xtracker,https://twitter.com/0xTracker,https://github.com/0xtracker,https://0xtracker.com
+54972,,2019-10-01 06:50,USD,False,2,2023-07-01 04:04,BACKER,Backers,92,ORGANIZATION,https://opencollective.com/cheap-writing-service,,,https://cheapwritingservice.com/
+55029,,2019-10-01 14:47,USD,False,2,2022-04-05 00:06,BACKER,Backers,62,ORGANIZATION,https://opencollective.com/bonus-finder,,,https://www.bonus.ca/
+57943,,2019-10-16 17:55,USD,True,2,2019-10-22 13:56,BACKER,0,3,ORGANIZATION,https://opencollective.com/yoga_kali,https://twitter.com/yoga_kali,,https://yogakali.com
+58076,,2019-10-17 07:58,USD,False,100,2020-01-01 05:25,BACKER,Silver Sponsors,300,ORGANIZATION,https://opencollective.com/edubirdie1,,,https://edubirdie.com/write-my-essay
+58642,,2019-10-21 17:51,USD,False,2,2021-08-31 11:19,BACKER,Backers,1166,ORGANIZATION,https://opencollective.com/casino-topp,,,https://www.casinotopp.net/
+58643,,2019-10-21 17:52,USD,False,140,2021-12-03 11:09,BACKER,Backers,1446,ORGANIZATION,https://opencollective.com/casinotop-com,,,https://www.casinotop.com/
+59005,,2019-10-24 01:59,USD,False,2,2020-08-02 05:25,BACKER,Backers,20,USER,https://opencollective.com/seoyeon-lee,https://twitter.com/ssen1980,https://github.com/iamssen,https://twitter.com/ssen1980
+59227,,2019-10-25 17:08,USD,False,2,2019-10-25 17:08,BACKER,Backers,2,ORGANIZATION,https://opencollective.com/play-rainbow-riches,,,https://www.rainbowrichesfreeplay.co.uk
+59806,,2019-10-30 16:51,USD,False,2,2020-10-18 04:04,BACKER,Backers,24,ORGANIZATION,https://opencollective.com/gamblegenie-co-uk,,,https://gamblegenie.co.uk/
+59962,,2019-10-31 22:27,USD,True,20,2019-10-31 22:27,BACKER,0,20,USER,https://opencollective.com/elias-hernandez,,,
+60554,,2019-11-05 05:14,USD,False,2,2019-11-05 05:14,BACKER,Backers,2,ORGANIZATION,https://opencollective.com/vape,,,
+60888,,2019-11-07 12:36,USD,False,2,2022-04-10 00:02,BACKER,Backers,60,ORGANIZATION,https://opencollective.com/bonusfinder-com-us,,,https://www.bonusfinder.com/casino-bonus
+60890,,2019-11-07 12:39,USD,False,2,2022-06-04 00:05,BACKER,Backers,64,ORGANIZATION,https://opencollective.com/bonusfinder-new-zealand,,,https://www.bonus.net.nz/free-spins-no-deposit
+60892,,2019-11-07 12:41,USD,False,2,2022-04-06 00:04,BACKER,Backers,60,ORGANIZATION,https://opencollective.com/bonusfinder-deutschland,,,https://www.bonus.com.de/freispiele
+61526,,2019-11-12 14:11,USD,False,2,2022-02-16 00:03,BACKER,Backers,56,ORGANIZATION,https://opencollective.com/bonusfinder-casino-en-ligne,,,https://www.bonus.ca/fr/casino-en-ligne
+62817,,2019-11-22 11:38,USD,False,2,2020-12-01 08:06,BACKER,Backers,26,ORGANIZATION,https://opencollective.com/domywriting,,,https://domywriting.com/
+63709,@kualico,2019-12-01 16:15,USD,True,2.29,2020-01-02 05:28,BACKER,0,6.89,USER,https://opencollective.com/matt-miller,,https://github.com/mmiller42,https://mmiller.me/
+64122,Unit Converter,2019-12-04 03:34,USD,False,2,2020-09-01 08:47,BACKER,Backers,20,USER,https://opencollective.com/unitconverter,,,https://converter.net
+64128,@CrosswordKing,2019-12-04 03:57,USD,False,2,2023-05-01 02:12,BACKER,Backers,84,USER,https://opencollective.com/crossword-king,,,https://crosswordking.com
+65513,Inspire Media OOD,2019-12-14 09:06,USD,True,6,2019-12-14 09:06,BACKER,0,6,USER,https://opencollective.com/anton-todorov,,,https://top5hosting.co.uk
+66282,,2019-12-19 10:58,USD,True,51,2019-12-19 10:58,BACKER,0,51,ORGANIZATION,https://opencollective.com/algolia,https://twitter.com/algolia,https://github.com/algolia,https://algolia.com
+66709,Aon Cyber Solutions,2019-12-19 17:13,USD,False,5,2020-11-01 17:12,BACKER,Backers,125,USER,https://opencollective.com/olegchursin,https://twitter.com/ochursin,https://github.com/olegchurin,https://olegchursin.com
+66794,,2019-12-19 17:13,USD,True,2,2018-12-07 14:39,BACKER,0,22,USER,https://opencollective.com/hoang-minh-vu,,,
+66802,,2019-12-19 17:13,USD,True,2,2019-01-01 05:27,BACKER,0,34,USER,https://opencollective.com/gerasimos-spyratos,,,
+67260,,2019-12-20 19:22,USD,False,5,2020-05-03 05:22,BACKER,Backers,25,ORGANIZATION,https://opencollective.com/monetta,,https://github.com/monetta,https://monetta.pl
+67490,,2019-12-23 10:20,USD,False,4,2020-11-01 11:04,BACKER,Backers,44,ORGANIZATION,https://opencollective.com/lanepengerprivat,,,https://xn--lnepengerprivat-hlb.com
+67631,,2019-12-24 16:04,USD,False,10,2021-06-01 18:03,BACKER,Silver Sponsors,270,ORGANIZATION,https://opencollective.com/mobilunity,,,https://mobilunity.com/
+68862,,2020-01-05 17:55,USD,False,5,2020-09-01 09:53,BACKER,Backers,42,ORGANIZATION,https://opencollective.com/kreditvergleich-24,,,https://www.kreditvergleich24.ch/
+70712,,2020-01-15 14:39,USD,False,10,2020-12-01 11:05,BACKER,Backers,54,ORGANIZATION,https://opencollective.com/writemypaper4me,,,https://writemypaper4me.co/
+70855,,2020-01-16 13:11,USD,False,2,2021-01-04 10:12,BACKER,Backers,24,ORGANIZATION,https://opencollective.com/taxfreesnus-com,,,https://taxfreesnus.com/
+71128,https://woorke.com,2020-01-18 15:40,USD,False,2,2021-05-01 04:15,BACKER,Backers,32,USER,https://opencollective.com/woorke,,,https://woorke.com
+71189,,2020-01-19 08:23,USD,False,2,2021-03-01 21:08,BACKER,Backers,28,ORGANIZATION,https://opencollective.com/airtract,,,https://www.airtract.com
+71554,,2020-01-21 15:54,USD,True,75,2020-01-21 15:54,BACKER,0,75,USER,https://opencollective.com/dan-wood,,,
+72470,,2020-01-27 20:15,USD,False,5,2020-09-01 08:23,BACKER,Backers,40,USER,https://opencollective.com/kredit,,,https://www.privatkreditsofort.ch/
+73023,,2020-01-31 17:06,USD,False,2,2021-12-01 06:05,BACKER,Backers,46,ORGANIZATION,https://opencollective.com/banksecrets,,,https://banksecrets.dk/
+73055,,2020-02-01 01:21,USD,False,2,2020-02-01 01:21,BACKER,Backers,2,ORGANIZATION,https://opencollective.com/seowebsitetraffic-net,,,https://seowebsitetraffic.net/
+73670,,2020-02-05 08:30,USD,False,5,2021-01-04 12:12,BACKER,Backers,60,ORGANIZATION,https://opencollective.com/moneezy,,,https://moneezy.com/
+73671,,2020-02-05 08:31,USD,False,5,2020-05-02 10:31,BACKER,Backers,20,ORGANIZATION,https://opencollective.com/forbrugslan,,,https://xn--billigeforbrugsln-orb.dk/
+73672,@evilmartians,2020-02-05 08:38,USD,False,2,2020-09-01 09:48,BACKER,Backers,16,USER,https://opencollective.com/andrey-sitnik,https://twitter.com/sitnikcode,https://github.com/ai,https://sitnik.ru
+74432,,2020-02-10 15:27,USD,False,2,2021-03-01 14:09,BACKER,Backers,28,ORGANIZATION,https://opencollective.com/hotmagma,,,
+75154,,2020-02-14 15:09,USD,False,2,2021-10-01 22:15,BACKER,Backers,42,ORGANIZATION,https://opencollective.com/coffee-corner1,,,https://coffeecorner.com
+76064,,2020-02-20 11:27,USD,False,2,2023-01-01 03:12,BACKER,Backers,70,ORGANIZATION,https://opencollective.com/moneyarcher,,,https://moneyarcher.com/de/
+76205,,2020-02-21 15:13,USD,False,100,2020-07-01 05:23,BACKER,Backers,502,ORGANIZATION,https://opencollective.com/nettikasinot-org,,,https://www.nettikasinot.org
+76933,,2020-02-27 13:41,USD,False,2,2020-02-27 13:41,BACKER,Backers,2,ORGANIZATION,https://opencollective.com/betacalendars,https://twitter.com/betacalendars,,https://www.betacalendars.com/october-calendar.html
+76952,,2020-02-27 16:51,USD,False,100,2020-06-04 05:02,BACKER,Silver Sponsors,502,ORGANIZATION,https://opencollective.com/nettikasinot-org,,,https://www.nettikasinot.org
+78350,,2020-03-06 13:28,USD,False,10,2022-07-01 02:03,BACKER,Backers,290,ORGANIZATION,https://opencollective.com/lifex-aps,,https://github.com/joinlifex,https://www.joinlifex.com/
+78617,,2020-03-08 22:07,USD,False,2,2021-10-01 19:06,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/doxford,,,https://doxford.net
+78845,,2020-03-10 13:28,USD,False,2,2024-01-01 02:06,BACKER,Backers,94,ORGANIZATION,https://opencollective.com/reach-digital-agency,,,https://www.reachdigital.nl/
+78858,,2020-03-10 14:39,USD,False,2,2021-01-04 14:11,BACKER,Backers,22,ORGANIZATION,https://opencollective.com/investingreviews-co-uk,,,https://investingreviews.co.uk/
+80279,,2020-03-18 14:18,USD,False,5,2020-05-03 05:17,BACKER,Backers,15,USER,https://opencollective.com/thebeastreviews,,,https://thebeastreviews.com/
+80799,,2020-03-21 08:19,USD,True,2,2021-01-04 20:15,BACKER,0,20,ORGANIZATION,https://opencollective.com/how2removestains,,,https://how2removestains.com
+80830,@PortableBeasts,2020-03-21 11:40,USD,False,10,2020-07-03 05:26,BACKER,Backers,40,USER,https://opencollective.com/portablebeasts,,,https://portablebeasts.com/
+80977,,2020-03-22 02:20,USD,True,5,2020-03-22 02:20,BACKER,0,5,ORGANIZATION,https://opencollective.com/wisergamblers,,,https://www.wisergamblers.com/ca/
+80979,,2020-03-22 02:24,USD,True,5,2020-03-22 02:24,BACKER,0,5,ORGANIZATION,https://opencollective.com/bestonlinecasinos-nz,,,https://bestonlinecasinos.nz/
+81383,,2020-03-24 08:09,USD,False,10,2022-12-01 03:20,BACKER,Backers,330,ORGANIZATION,https://opencollective.com/weclub88,,,https://www.weclub88.cc
+81468,,2020-03-24 16:11,USD,False,10,2020-07-02 05:24,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/pelisivut,,,https://www.pelisivut.com
+81469,,2020-03-24 16:12,USD,False,10,2020-07-02 05:24,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/kasinot-fi,,,https://www.kasinot.fi
+81569,,2020-03-24 22:54,USD,False,10,2023-09-01 02:09,BACKER,Backers,420,ORGANIZATION,https://opencollective.com/theme-divi,,,https://wptheme.fr/theme-wordpress-divi/
+83144,,2020-03-31 14:58,USD,False,10,2020-07-03 05:20,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/nopeustesti-fi,,,https://www.nopeustesti.fi
+83145,,2020-03-31 14:59,USD,False,10,2020-07-02 05:25,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/superflies,,,https://www.superflies.com
+83148,,2020-03-31 14:59,USD,False,10,2020-07-03 05:04,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/paraskasino,,,https://www.paraskasino.fi
+83492,,2020-04-01 18:11,USD,False,10,2022-12-01 04:02,BACKER,Backers,330,ORGANIZATION,https://opencollective.com/casino-online,,,https://casinoonline.casino/
+84083,,2020-04-03 10:00,USD,False,100,2020-07-03 05:10,BACKER,Silver Sponsors,400,ORGANIZATION,https://opencollective.com/casinot-net,,,https://www.casinot.net
+84163,,2020-04-03 14:28,USD,False,10,2020-07-06 05:02,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/vpnyhteys,,,https://www.vpnyhteys.fi
+84628,,2020-04-05 13:23,USD,False,10,2020-05-05 05:02,BACKER,Backers,20,ORGANIZATION,https://opencollective.com/all-time-list,,https://github.com/alltimelist,https://alltimelist.com
+85539,,2020-04-08 09:39,USD,False,10,2021-06-01 20:02,BACKER,Backers,90,ORGANIZATION,https://opencollective.com/trust-my-paper,,,https://www.trustmypaper.com/write-my-paper-for-me
+86200,,2020-04-10 02:16,USD,False,10,2020-04-10 02:16,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/alvenda,,,https://alvenda.com
+86589,,2020-04-11 12:51,USD,True,5,2020-04-11 12:51,BACKER,0,5,USER,https://opencollective.com/nawok,https://twitter.com/nawok,,https://pavel.codes
+86807,,2020-04-12 12:04,USD,True,10,2024-07-31 10:39,BACKER,Backers,530,ORGANIZATION,https://opencollective.com/loc8nearme,,,https://www.loc8nearme.com/
+87150,,2020-04-13 17:01,USD,False,10,2020-08-03 05:17,BACKER,Backers,50,ORGANIZATION,https://opencollective.com/supplementsreviews,,,https://supplementsreviews.co.uk/
+87288,,2020-04-14 07:34,USD,True,70,2024-08-01 06:03,BACKER,0,3522,ORGANIZATION,https://opencollective.com/kasinohai-com,,,https://www.kasinohai.com/nettikasinot
+87927,@onlinecasinoinformatie.com,2020-04-15 18:02,USD,False,10,2021-11-01 16:22,BACKER,Backers,200,USER,https://opencollective.com/ricardo-goncalves,,,https://onlinecasinoinformatie.com/
+87940,,2020-04-15 18:22,USD,False,10,2021-04-01 05:10,BACKER,Backers,130,ORGANIZATION,https://opencollective.com/onlinecasinoplatz-com,,,https://Onlinecasinoplatz.com
+88123,,2020-04-16 09:28,USD,False,50,2020-09-01 09:25,BACKER,Backers,260,ORGANIZATION,https://opencollective.com/best-bingo-websites,https://twitter.com/WebsitesBingo,https://github.com/betbingowebsites,https://www.bestbingowebsites.com/
+89319,,2020-04-19 12:49,USD,False,10,2021-05-01 14:08,BACKER,Backers,130,ORGANIZATION,https://opencollective.com/instapromote1,,,https://instapromoteme.com
+89842,,2020-04-20 20:46,USD,False,50,2022-08-21 00:03,BACKER,Backers,880,ORGANIZATION,https://opencollective.com/parhaatnettikasinot-com,,,https://www.parhaatnettikasinot.com
+89843,,2020-04-20 20:47,USD,False,10,2021-02-01 10:15,BACKER,Backers,100,ORGANIZATION,https://opencollective.com/neueonlinecasinos-de,,,https://www.neueonlinecasinos.de
+89845,,2020-04-20 20:47,USD,False,10,2023-03-01 03:21,BACKER,Backers,350,ORGANIZATION,https://opencollective.com/natcasinon-com,,,https://www.natcasinon.com
+89913,,2020-04-20 23:42,USD,True,50,2024-07-01 06:02,BACKER,Backers,2020,ORGANIZATION,https://opencollective.com/turtlebet-nettikasinot,,,https://www.turtlebet.com/fi/kaikki-nettikasinot.html
+89993,,2020-04-21 07:35,USD,True,70,2024-07-01 11:01,BACKER,Backers,3522,ORGANIZATION,https://opencollective.com/kasinohai-com,,,https://www.kasinohai.com/nettikasinot
+90028,,2020-04-21 09:24,USD,False,10,2022-12-01 04:08,BACKER,Backers,320,ORGANIZATION,https://opencollective.com/nettikasinolista,,,https://nettikasinolista.com
+90029,,2020-04-21 09:43,USD,False,10,2022-12-01 04:08,BACKER,Backers,320,ORGANIZATION,https://opencollective.com/list-casino,,,https://list.casino
+92560,http://pennhillswiki.com,2020-04-29 00:06,0,True,0,2024-08-27 10:37,CONTRIBUTOR,0,0,USER,https://opencollective.com/targetedtraffic,,,https://pennhillswiki.com
+93322,,2020-05-01 01:09,USD,False,10,2020-05-01 01:09,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/cool-things-to-buy,,,https://coolestthingstobuy.com/
+95131,,2020-05-06 09:58,USD,True,20,2024-08-01 00:07,BACKER,Backers,1040,ORGANIZATION,https://opencollective.com/sailor-bingo,https://twitter.com/Sailor_Bingo,https://github.com/SailorBingo,https://www.sailorbingo.com/
+95137,,2020-05-06 10:09,USD,False,50,2020-08-03 05:19,BACKER,Bronze Sponsors,260,ORGANIZATION,https://opencollective.com/best-bingo-websites,https://twitter.com/WebsitesBingo,https://github.com/betbingowebsites,https://www.bestbingowebsites.com/
+95831,,2020-05-08 05:55,USD,False,100,2020-10-01 05:07,BACKER,Silver Sponsors,600,ORGANIZATION,https://opencollective.com/invision-ag,,,https://www.ivx.com/
+96823,,2020-05-12 09:33,USD,True,2,2024-07-01 02:05,BACKER,0,138,USER,https://opencollective.com/vedadsose,https://twitter.com/vedadsose,,
+96906,,2020-05-12 14:45,USD,False,100,2020-08-03 05:20,BACKER,Silver Sponsors,400,ORGANIZATION,https://opencollective.com/edubirdie2,,,https://edubirdie.com/
+97186,,2020-05-13 13:57,USD,False,50,2020-09-01 09:26,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/netticasinot247-com,,,https://netticasinot247.com/
+98523,,2020-05-18 15:06,USD,False,50,2020-11-01 10:07,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/io_ats,https://twitter.com/io_ats,,https://ats.io
+99918,,2020-05-23 12:00,USD,False,70,2021-08-31 11:08,BACKER,Bronze Sponsors,1166,ORGANIZATION,https://opencollective.com/casino-topp,,,https://www.casinotopp.net/
+99919,,2020-05-23 12:00,USD,False,140,2021-10-08 10:19,BACKER,Bronze Sponsors,1446,ORGANIZATION,https://opencollective.com/casinotop-com,,,https://www.casinotop.com/
+102209,,2020-06-01 17:25,USD,False,10,2020-07-02 05:21,BACKER,Backers,20,ORGANIZATION,https://opencollective.com/paraphrase-tool,,,https://paraphrasetools.com
+108512,,2020-06-25 17:27,USD,False,10,2020-06-25 17:27,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/portable-guide,,,https://portable.guide/
+109361,,2020-06-27 07:22,USD,False,10,2020-06-27 07:22,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/clipartlove,,,https://www.clipartlove.com/
+110547,,2020-07-02 07:42,USD,False,50,2021-07-01 12:15,BACKER,Bronze Sponsors,650,ORGANIZATION,https://opencollective.com/capitalbaynews,https://twitter.com/CapitalbayNews,,https://www.capitalbay.news/
+111096,,2020-07-04 14:04,USD,False,50,2021-09-30 13:31,BACKER,Bronze Sponsors,800,ORGANIZATION,https://opencollective.com/coinnewsspan,https://twitter.com/CoinNewsSpan,,https://www.coinnewsspan.com
+111102,,2020-07-04 14:16,USD,False,50,2021-09-30 14:11,BACKER,Bronze Sponsors,800,ORGANIZATION,https://opencollective.com/cryptomoonpress,,,https://cryptomoonpress.com/
+111509,,2020-07-06 19:30,USD,False,50,2021-02-01 21:09,BACKER,Backers,180,ORGANIZATION,https://opencollective.com/nettcasinobonus-com1,,,https://nettcasinobonus.com/
+112133,,2020-07-09 10:24,USD,False,10,2020-09-01 09:35,BACKER,Backers,30,ORGANIZATION,https://opencollective.com/baocasino,https://twitter.com/baocasino1,,https://www.baocasino.com/
+112618,,2020-07-11 08:03,USD,True,20,2020-07-11 08:03,BACKER,0,20,USER,https://opencollective.com/christoph-wanja,,,
+113943,,2020-07-17 07:29,USD,False,70,2024-06-01 12:00,BACKER,Bronze Sponsors,3522,ORGANIZATION,https://opencollective.com/kasinohai-com,,,https://www.kasinohai.com/nettikasinot
+114550,,2020-07-20 10:19,USD,False,10,2020-07-20 10:19,BACKER,Backers,10,USER,https://opencollective.com/pillarwm,,,https://pillarwm.com/
+114594,,2020-07-20 13:50,USD,True,50,2024-08-01 06:03,BACKER,Bronze Sponsors,2450,ORGANIZATION,https://opencollective.com/casinogringos,,,https://casinogringos.se
+116623,,2020-07-31 11:06,USD,False,50,2021-08-01 19:22,BACKER,Backers,650,USER,https://opencollective.com/rajbet,,,https://rajbet.in/
+117680,,2020-08-04 19:18,USD,False,10,2022-02-05 00:02,BACKER,Backers,150,ORGANIZATION,https://opencollective.com/kajino-com,,,https://kajino.com/
+118223,,2020-08-07 09:20,USD,True,50,2021-07-02 05:06,BACKER,0,650,USER,https://opencollective.com/rajbet,,,https://rajbet.in/
+119610,,2020-08-14 10:43,USD,False,10,2021-05-01 02:11,BACKER,Backers,100,ORGANIZATION,https://opencollective.com/japancasino_net,https://twitter.com/japancasino_net,https://github.com/ShotaJapan,
+121528,,2020-08-24 08:15,USD,False,50,2024-02-01 03:10,BACKER,Bronze Sponsors,2100,ORGANIZATION,https://opencollective.com/casinopilot24,,,https://casinopilot24.com/echtgeld-casino
+122090,,2020-08-26 08:50,USD,True,100,2023-08-01 09:08,BACKER,0,3500,ORGANIZATION,https://opencollective.com/papersowl2,,,https://papersowl.com/
+123816,,2020-09-03 11:07,USD,True,2,2021-05-01 06:13,BACKER,0,18,ORGANIZATION,https://opencollective.com/broker-cex-io,,,https://broker.cex.io/
+127016,,2020-09-17 14:24,USD,False,50,2021-01-05 05:04,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/casinofiables-com,,,https://casinofiables.com/
+127883,,2020-09-22 07:00,USD,False,50,2020-09-22 07:00,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/current-bitcoin-news,,,https://currentbitcoinnews.com/
+128951,,2020-09-27 18:28,USD,False,50,2022-10-01 07:17,BACKER,Bronze Sponsors,1250,ORGANIZATION,https://opencollective.com/cryptogambletip,https://twitter.com/cryptogambletip,,https://cryptogamble.tips
+130004,,2020-10-02 09:19,USD,False,50,2021-01-04 17:06,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/helppovertailu-fi-lainaa,,,http://helppovertailu.fi/lainaa/
+130632,,2020-10-05 16:21,USD,False,70,2024-02-01 04:05,BACKER,Bronze Sponsors,2870,ORGANIZATION,https://opencollective.com/newcasinosites1,,,https://www.newcasinosites.me.uk/
+130996,,2020-10-06 14:50,USD,False,50,2020-11-01 08:05,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/masonslots,,,https://masonslots.com/
+131580,,2020-10-08 10:53,USD,False,50,2020-10-08 10:53,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/college-paper-world,,,https://www.collegepaperworld.com/research-paper.html
+133487,,2020-10-16 05:07,USD,False,100,2024-06-01 16:04,BACKER,Bronze Sponsors,2650,ORGANIZATION,https://opencollective.com/writersperhour,https://twitter.com/writersperhour,https://github.com/writersperhour,https://writersperhour.com
+133635,,2020-10-16 18:35,USD,False,50,2023-02-01 06:14,BACKER,Bronze Sponsors,1360,ORGANIZATION,https://opencollective.com/real-time-communications-world,,,https://www.realtimecommunicationsworld.com
+135324,,2020-10-23 13:22,USD,False,50,2023-01-01 07:07,BACKER,Bronze Sponsors,1350,ORGANIZATION,https://opencollective.com/casinofox,,,https://casinofox.se/casino-utan-svensk-licens
+135999,,2020-10-26 18:40,USD,True,50,2024-08-01 05:03,BACKER,Bronze Sponsors,2300,ORGANIZATION,https://opencollective.com/goread_io,https://twitter.com/goread_io,,https://goread.io/buy-instagram-followers
+136157,,2020-10-27 07:36,USD,False,10,2023-08-01 05:08,BACKER,Backers,340,ORGANIZATION,https://opencollective.com/customwritings-com,,,https://www.customwritings.com/
+141806,,2020-11-19 14:26,USD,False,50,2020-11-19 14:26,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/incognito-ac67ace1,,,
+141813,,2020-11-19 14:35,USD,False,50,2022-07-01 08:08,BACKER,Bronze Sponsors,1000,ORGANIZATION,https://opencollective.com/casinosohnedeutschelizenz-com,,,
+142092,,2020-11-20 10:07,USD,False,50,2020-11-20 10:07,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/kapil-anand,,,https://www.discovermagazine.com/sponsored/top-best-dating-sites-of-2020-dating-sites-apps-are-best-way-to-find
+142178,,2020-11-20 13:58,USD,True,5,2021-03-01 07:10,BACKER,0,20,ORGANIZATION,https://opencollective.com/kiirlaenud,,,
+142445,,2020-11-21 09:58,USD,True,50,2024-08-02 04:01,BACKER,Bronze Sponsors,1100,ORGANIZATION,https://opencollective.com/cryptonewsz,https://twitter.com/cryptonewsz_,,https://www.cryptonewsz.com/
+142919,,2020-11-23 11:47,USD,True,50,2022-07-01 03:17,BACKER,0,880,ORGANIZATION,https://opencollective.com/book-of-ra-german,,,https://book-of-ra-spielautomaten.de/
+142938,,2020-11-23 13:20,USD,False,10,2023-02-01 07:14,BACKER,Backers,270,ORGANIZATION,https://opencollective.com/kasiinod,,,https://www.kasiinod.net
+142940,,2020-11-23 13:21,USD,False,10,2023-02-01 07:14,BACKER,Backers,270,ORGANIZATION,https://opencollective.com/vedonlyoentibonukset-org,,,https://www.vedonlyöntibonukset.org
+145235,,2020-11-30 08:08,USD,False,50,2022-07-19 13:03,BACKER,Backers,110,ORGANIZATION,https://opencollective.com/realcasinoscanada-com,,,https://realcasinoscanada.com
+145237,,2020-11-30 08:14,USD,False,50,2021-02-16 10:36,BACKER,Backers,60,ORGANIZATION,https://opencollective.com/nederlandscasinos-net,,,https://nederlandscasinos.net
+145316,,2020-11-30 12:52,USD,False,1,2021-04-01 09:07,BACKER,Bronze Sponsors,51,ORGANIZATION,https://opencollective.com/gomage,,,https://www.gomage.com/
+146851,,2020-12-04 08:01,USD,False,50,2022-02-01 14:12,BACKER,Backers,630,ORGANIZATION,https://opencollective.com/wayofleaf,https://twitter.com/wayofleaf,,https://wayofleaf.com/
+147093,,2020-12-04 22:23,USD,False,50,2022-10-02 11:08,BACKER,Bronze Sponsors,1210,ORGANIZATION,https://opencollective.com/anbefaltcasino-com,,,https://anbefaltcasino.com/
+147094,,2020-12-04 22:23,USD,False,70,2021-02-01 11:14,BACKER,Bronze Sponsors,210,ORGANIZATION,https://opencollective.com/hollandsegokken-nl,,,https://hollandsegokken.nl/
+147095,,2020-12-04 22:24,USD,False,50,2021-01-05 04:06,BACKER,Bronze Sponsors,180,ORGANIZATION,https://opencollective.com/nettcasinobonus-com1,,,https://nettcasinobonus.com/
+147664,,2020-12-07 00:48,USD,False,-50,2021-12-09 19:24,BACKER,Bronze Sponsors,550,ORGANIZATION,https://opencollective.com/indiagamblers-com,,,https://indiagamblers.com
+148411,,2020-12-08 23:14,USD,False,50,2021-02-01 09:08,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/nfl-thursday,,,https://nflthursday.com
+148874,,2020-12-10 14:25,USD,False,100,2023-04-01 07:06,BACKER,Silver Sponsors,2900,ORGANIZATION,https://opencollective.com/aussiecasinohex,,,https://online-aussie-casino.com/
+149312,,2020-12-12 00:00,USD,False,50,2021-01-05 06:15,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/nfl-sunday,,,https://nfl-sunday.com
+149501,,2020-12-12 23:55,USD,False,50,2021-02-01 13:08,BACKER,Bronze Sponsors,150,USER,https://opencollective.com/casinogaroocom,,,https://casinogaroo.com/
+149723,,2020-12-14 10:11,USD,True,2,2020-12-14 10:11,BACKER,0,2,ORGANIZATION,https://opencollective.com/bestpayoutcasino,,,https://bestpayout.casino/
+149908,,2020-12-14 20:18,USD,False,100,2021-03-01 16:15,BACKER,Silver Sponsors,400,ORGANIZATION,https://opencollective.com/draftbit,https://twitter.com/draftbit,https://github.com/draftbit,http://draftb.it/2IMJ5Bp
+150846,,2020-12-16 21:49,USD,True,20,2020-12-16 21:49,BACKER,0,20,ORGANIZATION,https://opencollective.com/intersellerapp,https://twitter.com/intersellerapp,https://github.com/interseller,https://www.interseller.io
+152988,,2020-12-23 17:13,USD,False,50,2020-12-23 17:13,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/nysj,,,https://nysportsjournal.com
+152993,,2020-12-23 17:28,USD,False,50,2020-12-23 17:28,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/njsj1,,,https://njsportsjournal.com
+153180,,2020-12-24 08:51,USD,False,50,2022-06-01 04:04,BACKER,Backers,880,ORGANIZATION,https://opencollective.com/book-of-ra-german,,,https://book-of-ra-spielautomaten.de/
+153474,casino-wise,2020-12-25 12:42,USD,True,50,2024-08-01 06:05,BACKER,Bronze Sponsors,2100,USER,https://opencollective.com/casino-wise,https://twitter.com/casino_wise,,https://casino-wise.com/
+153625,,2020-12-26 11:13,USD,False,50,2021-05-01 08:17,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/followerspromotion-com,,,https://followerspromotion.com/buy-instagram-likes/
+155335,,2021-01-01 18:33,USD,True,2,2021-05-01 11:10,BACKER,0,10,USER,https://opencollective.com/sashasushko,https://twitter.com/sashasushko,https://github.com/sashasushko,https://sushko.me
+156257,,2021-01-05 12:33,USD,False,-50,2021-03-08 04:15,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/bao-canada,,,https://www.baocasino.com/en-CA
+156447,,2021-01-05 22:34,USD,False,-50,2021-02-02 01:30,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/siti-streaming,,,https://sitistreaming.it
+156463,,2021-01-05 23:00,USD,False,-50,2021-12-09 19:23,BACKER,Bronze Sponsors,500,ORGANIZATION,https://opencollective.com/casinotalk,,,https://casinotalk.com
+157721,,2021-01-08 10:27,USD,False,100,2023-03-01 13:23,BACKER,Silver Sponsors,3600,ORGANIZATION,https://opencollective.com/netticasinohex-com,,,https://netticasinohex.com/
+158310,,2021-01-10 23:33,USD,False,-50,2021-12-09 19:23,BACKER,Bronze Sponsors,500,ORGANIZATION,https://opencollective.com/ussportsbonus,,,https://ussportsbonus.com
+159028,,2021-01-12 21:35,USD,False,-50,2021-03-03 21:52,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/boekonomi,,,https://boekonomi.se
+159573,,2021-01-14 16:04,USD,False,-50,2021-07-06 23:51,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/stavki-na-sport,,,https://www.favbet.ua/uk/
+160373,,2021-01-18 00:54,USD,True,5000,2021-01-18 00:54,BACKER,0,5000,ORGANIZATION,https://opencollective.com/truecar,https://twitter.com/TrueCar,https://github.com/TrueCar,https://www.truecar.com/
+161123,,2021-01-20 11:34,USD,False,50,2021-06-01 16:10,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/nj-sports-betting,,,https://sportsbetting-newjersey.com
+161124,,2021-01-20 11:42,USD,False,50,2021-06-01 16:10,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/sports-betting-pa,,,http://sportsbetting-pennsylvania.com/
+161125,,2021-01-20 11:44,USD,False,50,2021-06-01 16:10,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/sports-betting-california,,,https://sportsbetting-california.com
+161558,,2021-01-21 21:16,USD,True,2,2021-01-21 21:16,BACKER,0,2,ORGANIZATION,https://opencollective.com/leadscanner,,,https://leadscanner.com.ua/
+162361,,2021-01-25 12:59,USD,True,50,2021-01-25 12:59,BACKER,0,50,USER,https://opencollective.com/illyism,https://twitter.com/ilylism,https://github.com/illyism,https://il.ly/
+162675,,2021-01-26 10:01,USD,False,50,2021-01-26 10:01,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/netpositive,,,https://najlepsibukmacherzy.pl/ranking-legalnych-bukmacherow/
+164769,,2021-02-02 08:44,USD,False,50,2021-05-01 09:10,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/leafletcasino-com,,,https://leafletcasino.com/
+165363,,2021-02-04 08:42,USD,False,10,2021-02-04 08:42,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/aubinaryoptions-com,,,https://aubinaryoptions.com/
+165372,,2021-02-04 10:07,USD,False,-50,2021-03-03 21:57,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/filmer,,,https://filmer.nu
+167269,,2021-02-08 02:45,USD,True,5,2021-02-08 02:45,BACKER,0,5,ORGANIZATION,https://opencollective.com/dltxio,https://twitter.com/dltxio,https://github.com/dltxio,https://dltx.io/
+169982,,2021-02-16 09:59,USD,False,50,2021-02-16 09:59,BACKER,Bronze Sponsors,110,ORGANIZATION,https://opencollective.com/realcasinoscanada-com,,,https://realcasinoscanada.com
+169994,,2021-02-16 10:36,USD,False,10,2020-11-30 08:14,BACKER,Bronze Sponsors,60,ORGANIZATION,https://opencollective.com/nederlandscasinos-net,,,https://nederlandscasinos.net
+170750,,2021-02-18 10:58,USD,False,-50,2021-12-09 19:22,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/awiseads,https://twitter.com/awiseads,,https://awisee.com
+171211,,2021-02-19 16:01,USD,False,50,2021-08-15 00:05,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/vpn-service3,,,https://www.vpnservice.com/free-vpn/
+171212,,2021-02-19 16:02,USD,False,50,2021-02-19 16:02,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/vpn-client,,,https://www.vpnclient.de/was-ist-vpn/
+173327,,2016-01-01 00:00,USD,True,-500.01,2023-04-05 05:38,CONTRIBUTOR,0,0,USER,https://opencollective.com/785-te,,,
+173419,,2016-01-01 00:00,USD,True,-850,2021-06-08 03:29,CONTRIBUTOR,0,0,USER,https://opencollective.com/anastasia-lopatina,,,
+173907,,2016-01-01 00:00,USD,True,-775,2021-01-07 20:55,CONTRIBUTOR,0,75,USER,https://opencollective.com/leshakoss,,,
+174881,,2021-02-27 19:55,USD,True,100,2024-08-01 04:08,BACKER,Silver Sponsors,4200,ORGANIZATION,https://opencollective.com/auscasinos,,,https://www.auscasinos.org/
+175488,,2021-03-02 01:16,USD,False,10,2022-09-01 22:17,BACKER,Backers,190,ORGANIZATION,https://opencollective.com/tripwire,,https://github.com/tripwire,https://tripwire.com
+175607,,2021-03-02 13:27,USD,True,10,2021-03-02 13:27,BACKER,0,10,USER,https://opencollective.com/tu4mo,https://twitter.com/tu4mo,https://github.com/tu4mo,https://tu4mo.com
+175655,,2021-03-02 15:39,USD,True,20,2024-08-01 04:08,BACKER,Backers,840,ORGANIZATION,https://opencollective.com/evilmartians,https://twitter.com/evilmartians,https://github.com/evilmartians,https://evilmartians.com/
+176014,,2021-03-03 20:41,USD,False,50,2021-08-01 21:12,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/casino-en-vivo,,,https://www.casinoenvivo.com/blackjack
+176133,Krootez,2021-03-04 10:05,USD,False,50,2021-10-01 21:17,BACKER,Bronze Sponsors,400,USER,https://opencollective.com/krootez,,,https://krootez.com/buy-instagram-likes/
+176155,,2021-03-04 12:37,USD,False,50,2021-06-02 02:05,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/leo-boost1,,,https://www.leoboost.com/buy-instagram-likes
+177966,Friendlylikes,2021-03-11 10:10,USD,False,10,2021-03-11 10:10,BACKER,Backers,10,USER,https://opencollective.com/friendlylikes,,,https://friendlylikes.com/buy-instagram-likes/
+178968,,2021-03-15 12:47,USD,False,50,2023-03-01 10:16,BACKER,Bronze Sponsors,1250,ORGANIZATION,https://opencollective.com/casino_canada_,https://twitter.com/casino_canada_,,https://www.stashbird.com/online-casinos/
+179947,,2021-03-18 11:22,USD,True,10,2021-03-18 11:22,BACKER,0,10,USER,https://opencollective.com/guest-c1141015,,,
+180264,,2021-03-18 21:48,USD,True,20,2021-03-18 21:48,BACKER,0,20,USER,https://opencollective.com/guest-4072b376,,,
+183190,,2021-03-29 02:44,USD,False,10,2021-03-29 02:44,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/clouddevs,https://twitter.com/clouddevs,,https://clouddevs.com/react
+183594,,2021-03-30 14:18,USD,False,10,2021-03-30 14:18,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/btcasino-info,,,https://btcasino.info/
+184119,,2021-04-01 09:07,USD,True,-50,2021-01-06 22:00,BACKER,0,51,ORGANIZATION,https://opencollective.com/gomage,,,https://www.gomage.com/
+184132,,2021-04-01 09:19,USD,False,50,2021-10-01 17:15,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/bitcoinbuster-com,,,https://www.bitcoinbuster.com/
+186328,,2021-04-08 06:05,USD,True,5,2024-01-01 08:03,BACKER,0,170,ORGANIZATION,https://opencollective.com/balsa,https://twitter.com/balsa,https://github.com/balsa,https://balsa.com/
+188275,,2021-04-15 21:20,USD,True,-200,2021-04-15 21:20,CONTRIBUTOR,0,0,USER,https://opencollective.com/maximtop,https://twitter.com/maximtop,https://github.com/maximtop,
+188380,,2021-04-16 07:56,USD,False,50,2022-04-02 04:23,BACKER,Bronze Sponsors,600,ORGANIZATION,https://opencollective.com/reddit-bests,,,https://redditbests.com
+188389,,2021-04-16 08:34,USD,False,100,2023-07-01 08:05,BACKER,Silver Sponsors,3500,ORGANIZATION,https://opencollective.com/papersowl2,,,https://papersowl.com/
+188891,Poprey,2021-04-18 19:10,USD,False,50,2021-08-06 00:06,BACKER,Bronze Sponsors,300,USER,https://opencollective.com/jean4,,,https://poprey.com/buy-instagram-views
+189245,,2021-04-20 08:28,USD,False,10,2021-04-20 08:28,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/ukrainian-online-casinos,,,https://www.c.com.ua
+191575,,2021-04-27 16:43,USD,False,50,2021-07-02 08:13,BACKER,Backers,210,USER,https://opencollective.com/slotxo,,,https://slot-xo888.com/
+191596,,2021-04-27 17:21,USD,False,70,2021-06-02 03:14,BACKER,Bronze Sponsors,140,USER,https://opencollective.com/ufabet,,,https://ufa96bet.com
+191597,,2021-04-27 17:23,USD,False,50,2021-07-02 08:13,BACKER,Backers,210,USER,https://opencollective.com/slotbar,,,https://www.slotbar888.com/
+191926,,2021-04-28 12:06,USD,False,20,2021-07-02 08:12,BACKER,Bronze Sponsors,210,USER,https://opencollective.com/slotbar,,,https://www.slotbar888.com/
+191928,,2021-04-28 12:10,USD,False,20,2021-07-02 08:12,BACKER,Bronze Sponsors,210,USER,https://opencollective.com/slotxo,,,https://slot-xo888.com/
+193067,,2021-05-01 21:05,USD,False,50,2022-01-06 01:16,BACKER,Bronze Sponsors,450,ORGANIZATION,https://opencollective.com/casinos-hunter-bitcoin,,,https://casinoshunter.com/online-casinos/bitcoin/
+193394,,2021-05-03 11:24,USD,False,50,2022-06-01 13:22,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/privacysharks,https://twitter.com/privacysharks,,https://www.privacysharks.com/
+195281,,2021-05-11 00:36,USD,True,-950,2021-05-11 00:35,CONTRIBUTOR,0,0,USER,https://opencollective.com/pete-macleod,,,
+195884,,2021-05-13 07:00,USD,True,5,2021-05-13 07:00,BACKER,0,5,USER,https://opencollective.com/fratzinger,,,
+196024,,2021-05-13 13:47,USD,True,50,2021-05-13 13:47,BACKER,0,50,USER,https://opencollective.com/coni2k,https://twitter.com/coni2k,https://github.com/coni2k,
+196030,,2021-05-13 13:57,USD,True,20,2021-05-13 13:57,BACKER,0,20,USER,https://opencollective.com/guest-5ff5b1e5,,,
+197225,casinoexpo,2021-05-18 18:53,USD,True,50,2024-08-01 03:07,BACKER,Bronze Sponsors,1950,USER,https://opencollective.com/casinoexpo,https://twitter.com/CasinoExpo,,https://casinoexpo.se/
+197673,,2021-05-15 15:40,USD,False,50,2024-04-06 10:08,BACKER,Bronze Sponsors,1550,ORGANIZATION,https://opencollective.com/cryptocasinos,,,https://cryptocasinos.com/
+197760,,2021-05-03 09:00,USD,False,50,2022-06-03 11:49,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/vpnsurfers,https://twitter.com/vpnsurfers,,https://vpnsurfers.com/
+198589,,2021-05-24 08:04,USD,False,100,2021-05-24 08:04,BACKER,Silver Sponsors,100,ORGANIZATION,https://opencollective.com/mtl-times,,,https://mtltimes.ca/life/11-best-real-money-canadian-online-casinos-revealed-after-months-of-testing/
+199173,,2021-05-26 08:53,USD,False,50,2024-06-01 07:03,BACKER,Bronze Sponsors,2020,ORGANIZATION,https://opencollective.com/turtlebet-nettikasinot,,,https://www.turtlebet.com/fi/kaikki-nettikasinot.html
+201094,,2021-06-02 16:15,USD,True,50,2024-08-01 03:08,BACKER,Bronze Sponsors,1950,ORGANIZATION,https://opencollective.com/jdlt,https://twitter.com/jdlt_tech,https://github.com/JDLT-Ltd,https://jdlt.co.uk
+202169,,2021-06-07 10:50,USD,True,10,2021-06-07 10:50,BACKER,0,10,USER,https://opencollective.com/guest-1d687dc3,,,
+202724,,2021-06-09 14:13,USD,False,50,2022-07-11 00:09,BACKER,Bronze Sponsors,880,ORGANIZATION,https://opencollective.com/parhaatnettikasinot-com,,,https://www.parhaatnettikasinot.com
+202852,,2021-06-09 22:02,USD,True,10,2024-08-01 07:06,BACKER,Backers,390,ORGANIZATION,https://opencollective.com/storis,,,https://www.storis.com/
+203825,,2021-06-14 14:00,USD,True,50,2024-08-14 10:39,BACKER,Bronze Sponsors,1950,ORGANIZATION,https://opencollective.com/inkedin,,,https://inkedin.com
+204348,,2021-06-16 11:54,USD,False,100,2021-08-02 02:07,BACKER,Silver Sponsors,200,ORGANIZATION,https://opencollective.com/eldinamo,,,https://www.eldinamo.cl/entretencion/2021/06/08/los-cinco-mejores-casinos-online-en-chile-para-2021/
+205842,,2021-06-23 07:09,USD,True,300,2022-06-23 10:55,BACKER,0,600,ORGANIZATION,https://opencollective.com/bestbitcoincasinonet,,,https://bestbitcoincasino.net/
+205862,,2021-06-23 07:51,USD,True,200,2021-06-23 07:51,BACKER,Promote your JavaScript job,200,USER,https://opencollective.com/emmy-suzuki-harris,,,
+206221,,2021-06-24 10:10,USD,False,50,2022-07-02 06:07,BACKER,Bronze Sponsors,650,ORGANIZATION,https://opencollective.com/mimy899167121,https://twitter.com/mimy89916712,,https://mimy.online
+206327,,2021-06-24 19:23,USD,True,25,2024-08-01 03:09,BACKER,Backers,950,ORGANIZATION,https://opencollective.com/strand-communications,,https://github.com/strandcom,https://www.strand-uk.com
+206947,,2021-06-28 12:15,USD,False,100,2021-06-28 12:15,BACKER,Silver Sponsors,100,ORGANIZATION,https://opencollective.com/espectador,,,https://www.elespectador.com/contenido-patrocinado/ruleta-en-vivo-en-espana-los-mejores-casinos-segun-su-popularidad/
+207129,,2021-06-29 07:50,USD,False,50,2021-09-13 11:47,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/casino_sters,,,https://casinosters.com/1-pound-deposit-casinos/
+207699,,2021-07-01 09:03,USD,False,50,2021-10-02 04:06,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/noaccountcasinos,,,https://noaccountcasinos.io
+208923,,2021-07-07 08:51,USD,True,50,2024-08-02 02:01,BACKER,Bronze Sponsors,1850,ORGANIZATION,https://opencollective.com/uudetkasinot-com,,,https://www.uudetkasinot.com
+208924,,2021-07-07 08:54,USD,False,50,2023-05-02 11:06,BACKER,Bronze Sponsors,540,ORGANIZATION,https://opencollective.com/new-casinos,,,https://www.spinsify.com/uk/new-casinos
+209687,,2021-07-10 04:23,USD,True,-0.5,2021-07-14 01:20,BACKER,0,0,USER,https://opencollective.com/guest-9913c414,,,
+210243,,2021-07-13 10:44,USD,False,100,2023-08-01 11:03,BACKER,Silver Sponsors,2600,ORGANIZATION,https://opencollective.com/polskiekasynohex,,,https://pl.polskiekasynohex.org/
+211247,,2021-07-16 23:26,USD,True,5,2021-07-16 23:26,BACKER,0,5,USER,https://opencollective.com/roger-ordonez,,,
+211532,,2021-07-18 08:12,USD,False,100,2023-01-03 00:11,BACKER,Silver Sponsors,1800,ORGANIZATION,https://opencollective.com/bonusfinder-uk,,,https://www.bonusfinder.co.uk/
+214587,,2021-07-31 22:00,USD,False,100,2021-09-02 03:10,BACKER,Silver Sponsors,200,ORGANIZATION,https://opencollective.com/nfl-sverige,,,https://nfl.nu
+214597,,2021-07-31 22:41,USD,False,50,2021-11-02 01:13,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/odlandet,,,https://odlandet.se
+214602,,2021-07-31 22:49,USD,False,50,2021-11-02 01:13,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/fordon,,,https://fordon.nu
+217061,,2021-08-11 11:07,USD,False,50,2021-10-02 01:19,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/slotoking,,,https://slotoking.org.ua/
+218996,,2021-08-18 14:07,USD,False,50,2022-08-21 00:03,BACKER,Bronze Sponsors,600,ORGANIZATION,https://opencollective.com/aapeli,,,https://aapeli.net
+221523,,2021-08-29 06:20,USD,True,20,2021-08-29 06:20,BACKER,0,20,USER,https://opencollective.com/andrew-goldis,,https://github.com/agoldis,https://agoldis.dev/
+224826,,2021-09-09 09:56,USD,True,100,2021-09-09 09:56,BACKER,0,100,USER,https://opencollective.com/penalty,,,https://penalty.com
+225130,,2021-09-10 10:45,USD,False,50,2021-10-11 00:06,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/poprey-likes,,,https://poprey.com/buy-youtube-views
+227308,,2021-09-20 21:50,USD,False,100,2023-08-01 12:05,BACKER,Silver Sponsors,2300,ORGANIZATION,https://opencollective.com/hexcasinoca,https://twitter.com/HEXCasinoCA,,https://casinohex.org/canada/
+227697,,2021-09-22 16:23,USD,True,50,2021-09-22 22:17,BACKER,0,70,ORGANIZATION,https://opencollective.com/targeted-web-traffic,https://twitter.com/TrafficPackages,,https://www.targetedwebtraffic.com
+229321,,2021-09-30 09:08,USD,False,50,2023-11-30 12:07,BACKER,Bronze Sponsors,1350,ORGANIZATION,https://opencollective.com/rapidseedbox,,,https://www.rapidseedbox.com
+229816,,2021-10-02 11:11,USD,False,10,2021-10-02 11:11,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/immigrationsg,,,https://immigration.sg
+229824,,2021-10-02 11:29,USD,False,10,2021-12-02 10:58,BACKER,Backers,30,ORGANIZATION,https://opencollective.com/mobilemall-bangladesh,,,https://mobilemall.com.bd
+230415,,2021-10-05 16:01,USD,False,10,2024-04-01 20:02,BACKER,Backers,310,ORGANIZATION,https://opencollective.com/envpnwelt,,,https://en.vpnwelt.com
+230865,,2021-10-07 00:24,USD,False,50,2022-12-06 10:28,BACKER,Bronze Sponsors,750,ORGANIZATION,https://opencollective.com/targeted-web-traffic1,https://twitter.com/TargetedwebT,,https://www.targetedwebtraffic.com
+231336,,2021-10-09 00:40,USD,True,2,2022-12-08 10:41,BACKER,0,30,ORGANIZATION,https://opencollective.com/seo25-com,https://twitter.com/BuyAdClicks,https://github.com/jrgnuproject,https://www.seo25.com/
+231971,,2021-10-12 10:00,USD,True,50,2024-08-01 06:04,BACKER,Bronze Sponsors,1750,ORGANIZATION,https://opencollective.com/casino-professor,,,https://casino-professor.com/
+232013,,2021-10-12 14:08,USD,False,50,2022-03-12 11:37,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/ebr,,,https://www.europeanbusinessreview.com/5-best-crypto-sports-betting-sites-most-reliable-bitcoin-gambling-sites/
+234221,,2021-10-21 12:54,USD,True,108,2022-10-25 13:47,BACKER,0,208,FUND,https://opencollective.com/sentry,https://twitter.com/getsentry,https://github.com/getsentry/sentry,https://sentry.io/welcome/
+237124,,2021-11-01 23:09,USD,True,50,2024-08-01 22:04,BACKER,Bronze Sponsors,2200,ORGANIZATION,https://opencollective.com/gambledex,,,https://www.gambledex.com
+237128,,2021-11-01 23:14,USD,False,50,2024-03-01 10:06,BACKER,Bronze Sponsors,1450,ORGANIZATION,https://opencollective.com/wagerdex,,,https://www.wagerdex.com/
+239691,,2021-11-09 11:48,USD,True,50,2024-08-01 09:00,BACKER,Bronze Sponsors,1700,ORGANIZATION,https://opencollective.com/instafollowersco,,,https://www.instafollowers.co/
+240034,,2021-11-10 15:58,USD,False,50,2023-06-01 14:04,BACKER,Bronze Sponsors,1000,ORGANIZATION,https://opencollective.com/celltrackingapps,https://twitter.com/river_anjelica,https://github.com/celltrackingapps,https://celltrackingapps.com/
+240137,,2021-11-10 19:13,USD,False,50,2022-01-06 06:04,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/messaged,https://twitter.com/messagedhq,https://github.com/messagedhq,https://messaged.com
+241168,,2021-11-12 19:29,USD,True,5,2021-11-12 19:29,BACKER,0,5,USER,https://opencollective.com/guest-f9da7bb3,,,
+242154,,2021-11-16 08:59,USD,False,-50,2023-03-03 11:38,BACKER,Backers,50,ORGANIZATION,https://opencollective.com/spinparadise,,,https://spin-paradise.com
+245418,,2021-11-24 07:49,USD,False,50,2022-01-06 07:13,BACKER,Bronze Sponsors,150,USER,https://opencollective.com/qulixsystems,,,https://www.qulix.com/
+247603,@winz_io,2021-11-30 12:32,USD,False,50,2023-02-28 11:36,BACKER,Bronze Sponsors,800,USER,https://opencollective.com/winz_io,https://twitter.com/winz_io,,https://winz.io/
+248292,,2021-12-01 11:47,USD,True,513.09,2021-12-01 11:47,BACKER,0,513.09,ORGANIZATION,https://opencollective.com/dtc-innovation,,,
+248318,,2021-12-01 12:51,USD,False,50,2021-12-01 12:51,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/bejamas,https://twitter.com/bejamas_io,https://github.com/bejamas,https://bejamas.io
+248335,Casino.Guide,2021-12-01 13:33,USD,True,50,2024-08-01 11:59,BACKER,Bronze Sponsors,1650,USER,https://opencollective.com/casinoguide,,,https://casino.guide/bitcoin/
+251971,,2021-12-08 12:06,USD,False,10,2022-02-01 17:06,BACKER,Backers,30,ORGANIZATION,https://opencollective.com/canadacasinosonline,,,https://canadacasinosonline.com/
+253296,,2021-12-10 09:08,USD,True,860,2021-12-10 09:08,BACKER,0,860,FUND,https://opencollective.com/ey-doberman,,https://github.com/doberman,https://doberman.co
+254796,,2021-12-13 19:02,USD,False,50,2021-12-13 21:34,BACKER,Backers,60,USER,https://opencollective.com/prointernet,,,https://www.prointernet.in.ua/
+254874,,2021-12-13 21:34,USD,False,10,2021-12-13 19:02,BACKER,Bronze Sponsors,60,USER,https://opencollective.com/prointernet,,,https://www.prointernet.in.ua/
+263213,,2022-01-05 11:39,USD,False,50,2022-02-20 00:08,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/alex-gordunov,,,
+265961,,2022-01-14 15:33,USD,False,13,2023-03-01 18:07,BACKER,Backers,195,ORGANIZATION,https://opencollective.com/gitbook,https://twitter.com/gitbookio,https://github.com/gitbookio,https://www.gitbook.com
+267162,,2022-01-18 12:19,USD,False,50,2023-03-18 11:25,BACKER,Bronze Sponsors,750,ORGANIZATION,https://opencollective.com/casino-sites,,,https://casinosites.ltd.uk/
+267163,,2022-01-18 12:20,USD,False,50,2024-01-18 11:44,BACKER,Bronze Sponsors,1250,ORGANIZATION,https://opencollective.com/freebets,,,https://freebets.ltd.uk/
+267563,,2022-01-19 16:55,USD,True,20,2022-01-19 16:55,BACKER,0,20,USER,https://opencollective.com/riyadhalnur,https://twitter.com/riyadhalnur,https://github.com/riyadhalnur,https://twitter.com/riyadhalnur
+267564,,2022-01-19 16:55,0,True,0,2024-08-27 10:37,BACKER,0,25,ORGANIZATION,https://opencollective.com/digitalocean,https://twitter.com/digitalocean,https://github.com/digitalocean,https://www.digitalocean.com/?utm_source=opencollective&utm_medium=oss_sponsorships&utm_campaign=opencollective
+269589,,2022-01-26 15:30,USD,True,50,2024-08-01 13:02,BACKER,Bronze Sponsors,1550,ORGANIZATION,https://opencollective.com/writing-metier,https://twitter.com/writingmetier,,https://writingmetier.com
+270328,,2022-01-29 12:10,USD,False,50,2022-08-15 00:05,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/pikavippicom,,,https://www.pikavippi.com
+271955,,2022-02-04 17:14,USD,True,200,2022-02-04 17:14,BACKER,Promote your JavaScript job,200,USER,https://opencollective.com/guest-7c6c4e0b,,,
+271985,ProductReview.com.au,2022-02-04 19:09,USD,True,5,2019-05-01 05:21,BACKER,0,31,USER,https://opencollective.com/eliseu,https://twitter.com/eliseumds,,https://medium.com/@eliseumds
+276331,,2022-02-22 22:46,USD,False,50,2024-03-25 11:05,BACKER,Bronze Sponsors,900,USER,https://opencollective.com/jpost,,,https://www.outlookindia.com/outlook-spotlight/best-online-casinos-in-canada-for-real-money-gambling-in-2023-news-270733
+277213,,2022-02-26 07:57,USD,False,50,2022-09-25 10:32,BACKER,Bronze Sponsors,400,USER,https://opencollective.com/igamblingsites,https://twitter.com/igamblingsites,,https://www.igamblingsites.com/
+279178,,2022-03-07 13:27,USD,False,50,2023-03-01 19:15,BACKER,Bronze Sponsors,650,ORGANIZATION,https://opencollective.com/boostlikesuk,,,https://boostlikes.uk/buy-tiktok-followers-likes
+279695,,2022-03-09 09:26,USD,False,50,2022-12-01 22:04,BACKER,Bronze Sponsors,500,ORGANIZATION,https://opencollective.com/vpsservercom,https://twitter.com/vpsservercom,,https://www.vpsserver.com
+281257,@iboysoft,2022-03-15 09:48,USD,False,50,2022-03-15 09:48,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/iboysoftsoftware,https://twitter.com/iBoysoft,,https://iboysoft.com
+281688,,2022-03-16 19:39,USD,False,-50,2022-08-16 14:38,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/my-sports-injury-ltd,https://twitter.com/rayy_ho,,https://www.mysportsinjury.co.uk
+283260,,2022-03-22 13:48,USD,True,10,2022-03-22 13:48,BACKER,0,10,USER,https://opencollective.com/vinay3,,,
+283261,,2022-03-22 13:48,0,True,0,2024-08-27 10:37,BACKER,0,20,ORGANIZATION,https://opencollective.com/strapijs,https://twitter.com/strapijs,https://github.com/strapi/strapi,https://strapi.io/
+283352,Correct Casinos LTD,2022-03-22 14:55,USD,True,50,2024-08-01 08:06,BACKER,Bronze Sponsors,1450,USER,https://opencollective.com/correct-casinos,,,https://www.correctcasinos.com/
+283641,,2022-03-23 08:45,USD,True,10,2022-03-23 08:45,BACKER,0,10,USER,https://opencollective.com/santi,,,
+284909,1394TA,2022-03-27 17:33,USD,False,50,2022-10-01 12:03,BACKER,Bronze Sponsors,350,USER,https://opencollective.com/1394ta-org,,,https://1394ta.org
+284942,@bestforandroid,2022-03-27 21:04,USD,False,10,2022-03-27 21:04,BACKER,Backers,10,USER,https://opencollective.com/bestforandroid,https://twitter.com/bestforandroid_,,https://bestforandroid.com/
+288388,@thecasinowizard,2022-04-07 09:43,USD,True,50,2024-08-01 08:08,BACKER,Bronze Sponsors,1450,USER,https://opencollective.com/casinowizard,https://twitter.com/thecasinowizard,,https://thecasinowizard.com/
+291381,,2022-04-18 12:24,USD,True,50,2024-08-02 10:37,BACKER,Bronze Sponsors,1400,ORGANIZATION,https://opencollective.com/casinoutankonto-net,,,https://casinoutankonto.net/casino-utan-svensk-licens/
+292077,,2022-04-21 05:51,USD,False,50,2022-07-01 19:11,BACKER,Bronze Sponsors,150,USER,https://opencollective.com/betastic,,,https://www.betastic.com/
+292758,,2022-04-23 18:35,USD,False,50,2022-08-18 11:10,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/onlinemusicpromotion,,,https://onlinemusicpromotion.net/buy-youtube-views/
+293450,,2022-04-26 12:50,USD,False,50,2022-09-02 06:03,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/xoonl,,,https://www.xoo.nl
+293914,,2022-04-27 23:14,USD,False,50,2022-04-27 23:14,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/articlereworder,,,https://articlereword.com/
+294581,,2022-04-29 22:18,USD,True,1.38,2022-04-29 22:18,BACKER,0,1.38,USER,https://opencollective.com/guest-6165902f,,,
+297409,,2022-05-09 11:51,USD,False,50,2023-07-12 11:11,BACKER,Bronze Sponsors,800,ORGANIZATION,https://opencollective.com/new-casinos-au,,,https://newcasinos-au.com/
+299524,,2022-05-16 14:33,USD,False,50,2023-01-01 23:10,BACKER,Bronze Sponsors,400,ORGANIZATION,https://opencollective.com/keepsolid,,,https://www.vpnunlimited.com
+299954,@sportbetting24,2022-05-18 09:38,USD,False,50,2022-09-02 12:20,BACKER,Bronze Sponsors,200,USER,https://opencollective.com/sportbetting24,,,https://sportbetting24.se/
+300546,,2022-05-20 10:10,USD,True,50,2024-08-01 08:10,BACKER,Bronze Sponsors,1350,ORGANIZATION,https://opencollective.com/hellsbet-au,,,https://hellsbet.com/en-au/
+301117,,2022-05-23 14:49,USD,True,50,2024-08-02 10:55,BACKER,Bronze Sponsors,1350,ORGANIZATION,https://opencollective.com/bitcoincasino,,,https://xn--eckoww5c4a9b7a2y.co/
+301157,,2022-05-23 17:33,USD,False,50,2023-05-01 23:04,BACKER,Bronze Sponsors,600,USER,https://opencollective.com/user-c772b398,,,https://casinononaams.org/
+304412,,2022-06-03 09:58,USD,False,10,2022-08-01 20:11,BACKER,Backers,30,USER,https://opencollective.com/kwaimind,,https://github.com/kwaimind,
+305946,,2022-06-08 14:48,USD,False,50,2023-06-01 19:09,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/limeup,,,https://limeup.io/
+306052,,2022-06-08 21:01,USD,False,50,2022-10-08 11:38,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/spelpaus-co,,,https://spelpaus.co/
+307077,,2022-06-12 22:44,USD,True,30,2022-07-28 22:59,BACKER,0,40,ORGANIZATION,https://opencollective.com/onwidget,https://twitter.com/onwidget,,https://onwidget.com
+307702,,2022-06-14 13:22,USD,False,50,2023-04-04 01:04,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/slototop,,,https://slototop.ua/casino
+309043,,2022-06-18 11:24,USD,True,50,2024-08-24 11:06,BACKER,Bronze Sponsors,1300,ORGANIZATION,https://opencollective.com/ukrainian-online-casino,,,https://uk.onlinecasino.in.ua/
+309814,,2022-06-21 10:58,USD,False,50,2023-08-01 18:04,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/svenskaonlinecasinon,,,https://svenskaonlinecasinon.se
+310787,Poprey,2022-06-24 08:44,USD,True,50,2024-08-01 18:01,BACKER,Bronze Sponsors,1300,USER,https://opencollective.com/instagram-likes,,,https://poprey.com/
+311871,,2022-06-28 10:57,USD,False,70,2022-08-28 11:34,BACKER,Bronze Sponsors,210,USER,https://opencollective.com/casinoalpha,,,https://casinoalpha.ie/
+311872,,2022-06-28 11:01,USD,False,70,2022-11-28 10:45,BACKER,Bronze Sponsors,420,USER,https://opencollective.com/king10,,,https://kingcasinobonus.uk/
+311873,,2022-06-28 11:04,USD,False,70,2022-11-28 10:24,BACKER,Bronze Sponsors,420,USER,https://opencollective.com/casinobonusca,,,https://casinobonusca.com
+312545,,2022-06-30 15:17,USD,True,100,2022-06-30 15:17,BACKER,0,100,ORGANIZATION,https://opencollective.com/laserhub,,,https://laserhub.com/
+314033,,2022-07-05 12:39,USD,True,100,2024-08-01 12:03,BACKER,Silver Sponsors,2600,ORGANIZATION,https://opencollective.com/socialboosting,,,https://www.socialboosting.com/buy-tiktok-followers
+314409,,2022-07-06 14:18,USD,False,50,2022-07-06 14:18,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/realmoneycasinoonlineca,https://twitter.com/NjoyCasino,,https://www.realmoneycasinoonline.ca
+315515,,2022-07-11 09:50,USD,True,50,2024-07-01 10:07,BACKER,Bronze Sponsors,1250,ORGANIZATION,https://opencollective.com/ilman-rekisteroitymista,,,https://tuxedo.org/ilman-rekisteroitymist/
+315838,,2022-07-12 15:16,USD,False,100,2023-12-01 16:07,BACKER,Silver Sponsors,1800,ORGANIZATION,https://opencollective.com/apostarorg,,,https://www.apostar.org/casinos-online/
+316314,,2022-07-14 10:12,USD,False,50,2023-06-01 21:01,BACKER,Bronze Sponsors,600,ORGANIZATION,https://opencollective.com/realspyapps,,,https://realspyapps.com/
+316335,,2022-07-14 11:42,USD,False,50,2024-03-01 15:05,BACKER,Bronze Sponsors,1050,ORGANIZATION,https://opencollective.com/wesurebet,,,https://www.sure.bet/casinos-not-on-gamstop/
+317558,,2022-07-18 10:24,USD,False,50,2023-05-05 14:36,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/idealecasinos_nl,,,https://idealecasinos.nl/
+319311,,2022-07-24 10:25,USD,False,50,2022-11-02 02:15,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/dinosaur-game,,,https://dinosaurgame.net
+320608,Stayatcasinos.com,2022-07-29 15:01,USD,False,50,2022-11-02 03:03,BACKER,Bronze Sponsors,350,USER,https://opencollective.com/stayatcasinos,,,https://stayatcasinos.com/
+320950,,2022-07-31 13:08,USD,True,1.8,2022-07-31 13:08,BACKER,0,1.8,USER,https://opencollective.com/guest-39f4695a,,,
+320955,,2022-07-31 13:54,USD,True,1.64,2022-07-31 13:54,BACKER,0,1.64,USER,https://opencollective.com/guest-0b7a5882,,,
+320983,,2022-07-31 15:49,USD,True,1.63,2022-07-31 15:49,BACKER,0,1.63,USER,https://opencollective.com/guest-c07c6890,,,
+322853,,2022-08-08 12:26,USD,True,50,2024-08-01 20:10,BACKER,Bronze Sponsors,1000,ORGANIZATION,https://opencollective.com/buzzvoicecom,,,https://buzzvoice.com/instagram/likes/order
+323008,,2022-08-09 00:00,USD,True,5,2022-08-09 00:00,BACKER,0,5,USER,https://opencollective.com/joshchoo,https://twitter.com/joshuachoo,https://github.com/joshchoo,
+323769,,2022-08-11 17:30,USD,True,300,2022-08-11 17:30,BACKER,0,300,USER,https://opencollective.com/guest-09089939,,,
+324841,Delta Digital Ltd,2022-08-16 08:34,USD,True,50,2024-07-01 10:07,BACKER,Bronze Sponsors,1150,USER,https://opencollective.com/bmsk,,,https://casinoburst.com/casino-utan-licens/
+324950,,2022-08-16 16:34,USD,False,50,2022-08-16 16:34,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/harley1993,,,
+325044,,2022-08-16 22:54,USD,True,1.36,2022-08-16 22:54,BACKER,0,1.36,USER,https://opencollective.com/guest-776b7d0b,,,
+325056,,2022-08-16 23:31,USD,False,50,2022-08-16 23:31,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/ps,,,https://plentysocial.com
+327217,,2022-08-24 17:52,USD,True,1.36,2022-08-24 17:52,BACKER,0,1.36,USER,https://opencollective.com/guest-f3cbb5b3,,,
+328740,,2022-08-30 06:48,USD,True,50,2024-08-02 09:10,BACKER,Bronze Sponsors,1050,USER,https://opencollective.com/betpokies,,,https://betpokies.org/
+330800,,2022-09-05 00:30,USD,True,1.12,2022-09-05 00:30,BACKER,0,1.12,USER,https://opencollective.com/guest-ac6223a4,,,
+331860,,2022-09-07 23:05,USD,False,50,2022-09-07 23:05,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/gamblingbitcoin,,,https://www.gamblingbitcoin.com
+332057,@KingBilly,2022-09-08 13:56,USD,False,100,2023-06-08 11:09,BACKER,Silver Sponsors,1000,USER,https://opencollective.com/kingbilly,,,http://kingbilly.com/en-CA
+333642,,2022-09-14 14:40,USD,False,100,2024-04-14 11:14,BACKER,Silver Sponsors,2000,ORGANIZATION,https://opencollective.com/au-online-casinos,,,https://www.australiaonlinecasinosites.com/
+333643,,2022-09-14 14:42,USD,False,100,2024-04-14 10:03,BACKER,Silver Sponsors,2000,ORGANIZATION,https://opencollective.com/au-internet-pokies,,,http://www.australiainternetpokies.com/
+333644,,2022-09-14 14:47,USD,False,100,2024-03-14 11:21,BACKER,Silver Sponsors,1900,ORGANIZATION,https://opencollective.com/casinoaus,,,https://www.casinoaus.net/
+333645,,2022-09-14 14:48,USD,False,100,2023-03-14 11:18,BACKER,Silver Sponsors,700,ORGANIZATION,https://opencollective.com/internet-pokies,,,https://www.internetpokies.org/
+333646,,2022-09-14 14:49,USD,False,100,2024-03-14 10:01,BACKER,Silver Sponsors,1900,ORGANIZATION,https://opencollective.com/top-australian-gambling,,,https://www.topaustraliangambling.com/
+335442,,2022-09-20 18:45,USD,True,50,2024-08-01 09:09,BACKER,Bronze Sponsors,1100,USER,https://opencollective.com/nongamstopcasinosnet,,,https://nongamstopcasinos.net/gb/
+340201,BETTING SITES NOT ON GAMSTOP,2022-10-06 14:38,USD,False,50,2023-01-02 05:05,BACKER,Bronze Sponsors,200,USER,https://opencollective.com/sportonlinebetting,https://twitter.com/Sportonlinebet1,,https://sportonlinebetting.net/
+340922,,2022-10-08 21:38,USD,False,50,2022-12-08 10:32,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/pacman,,,https://pacmanblog.com
+341321,,2022-10-10 14:23,USD,False,50,2023-05-01 20:14,BACKER,Bronze Sponsors,400,ORGANIZATION,https://opencollective.com/dcsl-software,https://twitter.com/dcslguidesmiths,,https://www.one-beyond.com/
+342938,,2022-10-15 10:32,USD,True,50,2024-08-15 11:07,BACKER,Bronze Sponsors,1150,USER,https://opencollective.com/bright-williams1,,,https://refermate.com
+343283,Optima Net,2022-10-17 09:02,USD,False,100,2022-10-17 09:02,BACKER,Silver Sponsors,100,USER,https://opencollective.com/buyyoutubviews,,,https://buyyoutubviews.com
+344113,,2022-10-19 15:03,USD,False,50,2023-06-19 11:25,BACKER,Bronze Sponsors,450,ORGANIZATION,https://opencollective.com/nongamstopsites-bet,,,https://www.nongamstopsites.bet/
+344488,,2022-10-20 20:27,USD,True,7,2023-06-16 03:55,BACKER,0,11.76,ORGANIZATION,https://opencollective.com/stackaid,https://twitter.com/stackaid,https://github.com/stackaid,https://stackaid.us
+345266,online casinoer,2022-10-24 10:30,USD,False,50,2024-06-01 10:06,BACKER,Bronze Sponsors,1000,USER,https://opencollective.com/top-casinoer,,,https://topcasinoer.net/
+345268,casino uden ROFUS,2022-10-24 10:35,USD,False,50,2024-06-01 10:06,BACKER,Bronze Sponsors,1000,USER,https://opencollective.com/bedstespiludenomrofus,,,https://bedstespiludenomrofus.com/
+345269,betting sider,2022-10-24 10:36,USD,True,50,2024-08-01 09:11,BACKER,Bronze Sponsors,1100,USER,https://opencollective.com/betting-sider,,,https://betting-sider.net/
+346071,,2022-10-27 00:05,USD,False,50,2022-12-02 07:11,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/helpwyz1,,,https://www.helpwyz.com/service/buy-tiktok-followers-fans/
+346587,Legalbet SIA,2022-10-28 13:27,USD,True,100,2024-08-01 11:04,BACKER,Silver Sponsors,2200,USER,https://opencollective.com/seolegalbet,,,https://legalbet.uk/
+347139,,2022-10-30 14:49,USD,False,50,2023-07-02 04:02,BACKER,Bronze Sponsors,450,ORGANIZATION,https://opencollective.com/investingreviewscom,,,https://investingreviews.com/
+349268,,2022-11-03 22:19,USD,True,1.98,2022-11-03 22:19,BACKER,0,1.98,USER,https://opencollective.com/guest-dbc09091,,,
+349479,@nytcrosswordtoday,2022-11-04 12:09,USD,False,100,2023-07-04 10:44,BACKER,Silver Sponsors,900,USER,https://opencollective.com/bes,,,https://nytcrosswordtoday.com
+349526,,2022-11-04 14:02,USD,False,50,2022-12-02 08:09,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/mobilens,,,https://mobilen.nu
+349529,,2022-11-04 14:09,USD,False,50,2022-12-02 08:09,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/hesgoal,,,https://HesGoal.nu
+349537,,2022-11-04 14:20,USD,False,50,2022-12-02 08:09,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/restipset,,,https://restips.nu
+349542,,2022-11-04 14:29,USD,False,50,2022-12-02 08:09,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/awisee,,,https://awisee.com
+349550,,2022-11-04 14:36,USD,False,50,2022-12-02 08:09,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/awisee-agency,,,https://awisee.agency
+352206,,2022-11-08 14:18,USD,True,10,2024-08-01 19:10,BACKER,0,148.33,ORGANIZATION,https://opencollective.com/quicko,https://twitter.com/howtoquicko,https://github.com/TeamQuicko,https://quicko.com
+353364,,2022-11-10 12:26,USD,True,50,2024-08-16 00:02,BACKER,Bronze Sponsors,1200,USER,https://opencollective.com/cryptocasinos360com,,,https://cryptocasinos360.com/
+355094,,2022-11-13 00:20,USD,False,50,2022-12-02 10:05,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/windowstips,,,https://windowstips.nu
+355101,,2022-11-13 00:26,USD,False,50,2022-12-02 10:05,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/awise,,,https://awise.se
+355103,,2022-11-13 00:28,USD,False,50,2022-12-02 10:05,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/mightch,,,https://might.ch
+357316,,2022-11-17 10:19,USD,False,50,2023-10-02 08:06,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/mga-casino,,,https://utansvensklicens.casino/mga-casino/
+360237,,2022-11-21 12:36,USD,False,50,2023-11-02 01:09,BACKER,Bronze Sponsors,600,USER,https://opencollective.com/asian-bookmakers,,,https://asian-bookies.net/
+362681,"Pillar Wealth management, LLC.",2022-11-26 21:36,USD,False,50,2022-11-26 21:36,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/pillarwm1,,,https://pillarwm.com/financial-advisor/top-financial-advisors-near-me/
+363136,,2022-11-28 11:35,USD,True,40,2022-11-28 11:35,BACKER,0,40,USER,https://opencollective.com/fiberplane1,,,
+366300,,2022-12-04 02:44,USD,False,50,2023-09-02 00:11,BACKER,Bronze Sponsors,500,ORGANIZATION,https://opencollective.com/istartips,,,https://istar.tips/
+368033,,2022-12-08 09:50,USD,True,40,2022-12-08 09:50,BACKER,0,40,USER,https://opencollective.com/fiberplane,https://twitter.com/fiberplane,,https://fiberplane.dev/
+368073,,2022-12-08 10:57,USD,False,50,2023-04-02 06:16,BACKER,Bronze Sponsors,250,USER,https://opencollective.com/soc-promotion,,,https://soc-promotion.com/
+369440,VPN Hound,2022-12-12 10:50,USD,False,50,2023-07-02 03:08,BACKER,Bronze Sponsors,400,USER,https://opencollective.com/vpn-hound,,,https://www.vpnhound.com/
+369451,,2022-12-12 11:22,USD,False,50,2022-12-12 11:21,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/barnappar,,,https://www.barnappar.nu
+370339,,2022-12-13 15:16,USD,False,50,2024-02-01 21:04,BACKER,Bronze Sponsors,1050,ORGANIZATION,https://opencollective.com/slotscity,,,https://slotscity.ua/
+371080,,2022-12-14 18:58,USD,True,50,2024-07-01 12:08,BACKER,Bronze Sponsors,1000,USER,https://opencollective.com/twicsy,,,https://twicsy.com/buy-instagram-likes
+372806,,2022-12-17 23:51,USD,True,50,2024-08-01 14:07,BACKER,Bronze Sponsors,1000,ORGANIZATION,https://opencollective.com/new-online-casinos-canada-2023,,,https://gamerules.com/online-casinos/new/canada/
+373405,@nolimitcasinos,2022-12-19 12:17,USD,False,50,2023-06-02 06:07,BACKER,Bronze Sponsors,300,USER,https://opencollective.com/nolimit-casinos,https://twitter.com/nolimitcasinos,,https://nolimit-casinos.de/
+378307,Sports NO.1,2022-12-30 15:59,USD,False,200,2024-03-30 11:19,BACKER,Bronze Sponsors,800,USER,https://opencollective.com/sam-sam,,,https://sports-no1.com/
+378907,,2022-12-31 18:01,USD,False,50,2022-12-31 18:01,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/link-building-france,,,https://linkbuildingfrance.com
+379040,,2022-12-31 21:47,USD,False,50,2023-03-02 11:05,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/link-building-europe,,,https://linkbuildingeurope.com
+379043,,2022-12-31 21:49,USD,False,50,2022-12-31 21:49,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/lbsweden,,,https://linkbuildingsweden.com
+379061,,2022-12-31 22:15,USD,False,50,2022-12-31 22:15,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/link-building-spain,,,https://linkbuildingspain.com
+379069,,2022-12-31 22:24,USD,False,50,2022-12-31 22:24,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/link-building-italy,,,https://linkbuildingitaly.com/
+380542,@buyyoutubviews.com,2023-01-05 07:49,USD,False,50,2023-06-02 15:02,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/buyyoutubviewscom,,,https://buyyoutubviews.com
+386749,,2023-01-20 06:21,USD,False,50,2023-01-20 06:21,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/good-core,,,https://www.goodcore.co.uk/
+389456,,2023-01-26 16:06,USD,False,50,2023-05-02 09:10,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/northnloansca,,,https://northnloans.ca
+392128,,2023-02-02 12:16,USD,False,50,2023-02-02 12:16,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/spinparadise,,,https://spin-paradise.com
+393744,,2023-02-06 12:53,USD,True,50,2024-08-06 11:14,BACKER,Bronze Sponsors,950,USER,https://opencollective.com/bubbleshooter,,,https://www.bubbleshooter.net/
+400875,,2023-02-21 19:35,USD,False,50,2024-03-21 11:05,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/famousblast,,,https://selfiehashtag.com/buy-instagram-followers-in-nigeria/
+402853,f-bit software,2023-02-26 09:47,USD,True,7,2024-02-02 01:02,BACKER,0,14,USER,https://opencollective.com/f-bit,,,https://f-bit.software/
+403724,UKSEO LIMITED,2023-02-28 12:30,USD,False,50,2024-03-02 04:05,BACKER,Bronze Sponsors,600,USER,https://opencollective.com/justuk-club,https://twitter.com/JustukClub,,https://justuk.club/
+403979,,2023-02-28 20:58,USD,False,50,2024-06-01 14:10,BACKER,Bronze Sponsors,800,ORGANIZATION,https://opencollective.com/casino-utan-svensk-licens1,https://twitter.com/starwarscasinos,,https://coolspins.net/
+404855,,2023-03-02 10:10,USD,True,50,2024-08-01 15:10,BACKER,Bronze Sponsors,900,USER,https://opencollective.com/vivek10,,,https://supbot.com/
+404994,,2023-03-02 14:32,USD,True,50,2024-08-02 01:01,BACKER,Bronze Sponsors,900,ORGANIZATION,https://opencollective.com/casino-australia-online,,,https://www.casinoaustraliaonline.com/under-1-hour-withdrawal-casinos/
+405971,,2023-03-05 00:30,USD,False,50,2023-03-05 00:30,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/linkbuilding-japan,,,https://linkbuildingjapan.com
+406531,@likes_io,2023-03-06 13:36,USD,False,50,2023-07-02 00:10,BACKER,Bronze Sponsors,250,USER,https://opencollective.com/likes_io,,,https://likes.io/buy-instagram-followers
+407155,,2023-03-07 10:17,USD,False,50,2023-03-07 10:17,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/snabblanutanuc,,,https://www.snabblanutanuc.se/
+407769,,2023-03-08 09:23,USD,False,50,2023-05-02 16:03,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/onlinecasinoua,,,https://onlinecasino.ua
+408220,,2023-03-09 08:43,USD,False,50,2023-05-09 11:01,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/spelacasinonu,,,https://Spelacasinonu.com
+408396,,2023-03-09 16:26,USD,False,50,2023-04-09 10:30,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/telefonen,,,https://telefonen.nu/
+408752,,2023-03-10 13:40,USD,False,50,2023-04-03 10:37,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/fatgambler,,,https://fatgambler.ca/
+409803,,2023-03-13 17:16,USD,False,100,2024-05-01 15:05,BACKER,Silver Sponsors,2650,ORGANIZATION,https://opencollective.com/writersperhour,https://twitter.com/writersperhour,https://github.com/writersperhour,https://writersperhour.com
+410105,,2023-03-14 12:59,USD,False,50,2023-03-14 12:59,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/uclan,,,https://www.lanuc.se
+410185,,2023-03-14 17:08,USD,False,50,2024-05-14 10:20,BACKER,Bronze Sponsors,750,ORGANIZATION,https://opencollective.com/tightpoker,,,https://www.tightpoker.com/
+410203,howsociable.com,2023-03-14 17:53,USD,False,100,2024-05-29 11:17,BACKER,Bronze Sponsors,650,USER,https://opencollective.com/howsociable,,,https://howsociable.com/buy-instagram-followers/
+412807,,2023-03-21 12:20,USD,False,50,2023-03-21 12:20,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/probukmacher,,,https://www.probukmacher.pl
+416356,,2023-03-30 13:21,USD,True,50,2024-06-30 11:45,BACKER,Bronze Sponsors,800,USER,https://opencollective.com/svindel-info,,,https://www.svindel.info/
+416505,,2023-03-30 19:42,USD,False,50,2023-03-30 19:42,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/linkbuilding-asia,,,https://linkbuildingasia.com
+420079,,2023-04-11 05:51,USD,True,50,2023-04-11 05:51,BACKER,0,50,ORGANIZATION,https://opencollective.com/thinkmill,https://twitter.com/thethinkmill,https://github.com/thinkmill,https://www.thinkmill.com.au
+420363,,2023-04-11 18:06,USD,False,50,2023-11-02 06:08,BACKER,Bronze Sponsors,400,ORGANIZATION,https://opencollective.com/kiekkotorni,,,https://kiekkotorni.com/
+422429,,2023-04-18 09:18,USD,True,100,2024-07-01 17:05,BACKER,Silver Sponsors,1400,ORGANIZATION,https://opencollective.com/nettcasino,,,https://www.nettcasino.com/
+422594,,2023-04-18 18:13,USD,True,10,2023-04-18 18:13,BACKER,0,10,ORGANIZATION,https://opencollective.com/sportsbook-reviews-online,,,https://www.sportsbookreviewsonline.com/
+423601,,2023-04-21 10:14,USD,False,50,2023-04-21 10:14,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/mobipastnet,,,https://mobipast.net/
+424471,,2023-04-24 09:05,USD,False,50,2023-10-24 10:28,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/noverificationcasino,,,https://no-verification.casino
+426131,,2023-04-28 13:02,USD,True,50,2024-08-02 10:01,BACKER,Bronze Sponsors,550,USER,https://opencollective.com/onlinecasinoprofy,,,https://polskiekasynaonline24.com/
+427503,,2023-05-03 06:31,USD,True,50,2024-08-01 17:04,BACKER,Bronze Sponsors,800,ORGANIZATION,https://opencollective.com/czrnet,,,https://casinoZonderregistratie.net/
+427504,,2023-05-03 06:32,USD,True,50,2024-08-01 20:02,BACKER,Bronze Sponsors,800,ORGANIZATION,https://opencollective.com/nieuwecasinos,,,https://Nieuwe-Casinos.net
+429810,,2023-05-09 11:54,USD,False,50,2024-06-09 10:58,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/nonuk-gc,,,https://www.nongamstopuk.casino/casinos-not-on-gamstop/gamcare/
+431105,,2023-05-12 11:02,USD,True,50,2024-07-01 19:04,BACKER,Bronze Sponsors,750,ORGANIZATION,https://opencollective.com/pitkavetovihjeet,,,https://www.vedonlyontibonukset.com/pitkavetovihjeet
+433483,,2023-05-19 11:01,USD,False,50,2023-05-19 11:01,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/gamblecritic,,,https://gamblecritic.net
+435419,,2023-05-24 07:16,USD,False,50,2023-08-24 10:21,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/blackjackonline21au,,,https://blackjackonline21au.com/
+436788,,2023-05-28 03:52,USD,True,25,2023-05-28 03:52,BACKER,0,25,USER,https://opencollective.com/brett5,,,
+436789,,2023-05-28 03:52,0,True,0,2024-08-27 10:37,BACKER,0,25,ORGANIZATION,https://opencollective.com/tigrisdata,https://twitter.com/tigrisdata,https://github.com/tigrisdata,https://www.tigrisdata.com/
+438816,,2023-06-02 16:18,USD,True,50,2024-07-02 11:48,BACKER,Bronze Sponsors,770,ORGANIZATION,https://opencollective.com/fortunegames,,,https://www.fortunegames.com
+442246,,2023-06-12 08:37,USD,True,50,2024-08-01 13:04,BACKER,Bronze Sponsors,750,ORGANIZATION,https://opencollective.com/igrovye-avtomaty-ua,,,https://slotoking.ua/games/all-slots/
+442397,,2023-06-12 15:36,USD,False,50,2024-04-04 11:33,BACKER,Bronze Sponsors,550,ORGANIZATION,https://opencollective.com/fanslet,,,https://fanslet.com
+443199,,2023-06-14 02:25,USD,False,50,2023-06-14 02:25,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/zestate2,,,https://zestate.co.uk/
+446357,,2023-06-21 19:57,USD,False,50,2023-06-21 19:57,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/bv,,,
+450777,,2023-07-02 14:23,USD,True,50,2024-08-01 18:07,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/socialwick,,,https://www.socialwick.com/instagram/followers
+452421,,2023-07-05 19:57,USD,True,50,2024-08-01 23:04,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/bairesdev,https://twitter.com/bairesdev,,https://www.bairesdev.com/sponsoring-open-source-projects/
+453064,,2023-07-07 01:52,USD,True,50,2024-07-16 15:09,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/buy-instagram-followers-twicsy,,,https://twicsy.com/buy-instagram-followers
+453101,,2023-07-07 03:34,USD,True,50,2024-07-01 20:08,BACKER,Bronze Sponsors,650,ORGANIZATION,https://opencollective.com/buy-instagram-comments-twicsy,,,https://twicsy.com/buy-instagram-comments
+466024,Releaf,2023-08-08 11:21,USD,True,50,2024-08-01 18:12,BACKER,Bronze Sponsors,650,USER,https://opencollective.com/jon-dunn,,,https://releaf.co.uk/
+466195,,2023-08-08 19:37,USD,False,50,2024-03-06 04:31,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/plentysocialcom,,,https://plentysocial.com/buy-instagram-followers
+466447,,2023-08-09 12:24,USD,True,50,2024-08-09 11:13,BACKER,Bronze Sponsors,650,ORGANIZATION,https://opencollective.com/online-united-states-casinos,,,https://www.onlineunitedstatescasinos.com/
+469046,,2023-08-16 14:11,USD,True,10,2024-07-01 21:09,BACKER,Backers,148.33,ORGANIZATION,https://opencollective.com/quicko,https://twitter.com/howtoquicko,https://github.com/TeamQuicko,https://quicko.com
+477948,,2023-09-08 09:02,USD,True,50,2023-09-08 09:02,BACKER,0,50,ORGANIZATION,https://opencollective.com/a-team-global,,,https://a-team.global/
+478387,,2023-09-09 12:24,USD,False,50,2023-10-02 15:06,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/tiekunta,,,https://tiehoitokunta.fi
+480771,,2023-09-15 13:13,USD,True,100,2024-08-09 10:06,BACKER,Silver Sponsors,2000,ORGANIZATION,https://opencollective.com/777ua,,,https://777.ua/
+482220,,2023-09-19 18:49,USD,False,100,2023-12-02 13:05,BACKER,Silver Sponsors,300,ORGANIZATION,https://opencollective.com/immediate-edge30,,,https://immediateedgeapp.org/
+482749,,2023-09-21 06:28,USD,False,50,2023-11-02 15:04,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/crescitaly,,,https://crescitaly.com
+484517,,2023-09-26 10:07,USD,False,50,2023-11-26 11:06,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/rumble-views,,,https://themarketingheaven.com/buy-rumble-views/
+484708,,2023-09-26 20:34,USD,False,50,2023-12-26 10:46,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/quantum-ai-trading,,,https://quantumai.co/
+484954,,2023-09-27 12:10,USD,False,50,2024-01-02 12:01,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/encasinoscanadareviews,,,https://casinoscanada.reviews/en/google-pay-casinos/
+485365,,2023-09-28 14:52,USD,False,50,2023-09-28 14:52,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/instanavigationio,,,https://instanavigation.io/
+485765,@StrainsUK,2023-09-29 13:52,USD,False,50,2023-09-29 13:52,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/strainsuk,https://twitter.com/strainsguide,,https://strains.uk/
+487185,,2023-10-03 09:26,USD,True,50,2024-08-03 10:21,BACKER,Bronze Sponsors,550,ORGANIZATION,https://opencollective.com/payidpokies,,,https://payidpokies.com
+487316,,2023-10-03 14:22,USD,False,50,2024-04-01 23:10,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/legitcasino,,,https://legit.casino
+487357,,2023-10-03 15:50,USD,False,50,2024-05-02 00:11,BACKER,Bronze Sponsors,400,ORGANIZATION,https://opencollective.com/playaucasino,,,https://PlayAUCasino.com
+487601,,2023-10-04 06:38,USD,True,100,2024-08-01 13:10,BACKER,Silver Sponsors,1100,ORGANIZATION,https://opencollective.com/casinoinua,,,https://777.ua/
+487829,,2023-10-04 16:50,USD,True,4000,2023-10-04 16:50,BACKER,0,4000,ORGANIZATION,https://opencollective.com/cargurus,https://twitter.com/cargurus,https://github.com/cargurus,https://www.cargurus.com
+488788,,2023-10-07 06:25,USD,True,5,2023-10-07 06:25,BACKER,0,5,USER,https://opencollective.com/guest-f29108f0,,,
+489125,,2023-10-08 08:56,USD,False,50,2024-06-08 10:42,BACKER,Bronze Sponsors,450,ORGANIZATION,https://opencollective.com/easeus-recexperts,,,https://recorder.easeus.com
+490028,,2023-10-10 18:09,USD,True,100,2024-08-10 10:36,BACKER,Silver Sponsors,1100,USER,https://opencollective.com/nongamstopbets1,,,https://www.nongamstopbets.com/casinos-not-on-gamstop/
+490606,,2023-10-12 07:28,USD,True,5,2023-10-12 07:28,BACKER,0,5,ORGANIZATION,https://opencollective.com/iranshartbandi,,,https://iranshartbandi.com
+491051,,2023-10-13 12:43,USD,True,100,2024-08-02 08:03,BACKER,Silver Sponsors,1100,ORGANIZATION,https://opencollective.com/views4you,https://twitter.com/views4_you,,https://views4you.com/buy-youtube-subscribers/
+492002,,2023-10-16 13:55,USD,True,50,2024-08-02 01:03,BACKER,Bronze Sponsors,500,ORGANIZATION,https://opencollective.com/aussiecasinoreviewer,,,https://aussiecasinoreviewer.com/
+492336,,2023-10-17 11:33,USD,False,50,2024-01-04 00:07,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/canli-casino-siteleri,,,https://outlookindia.com/outlook-spotlight/en-%C4%B0yi-ve-g%C3%BCvenilir-canl%C4%B1-casino-siteleri-rehberi-news-324841
+492549,,2023-10-18 03:55,USD,False,50,2023-10-18 03:55,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/ig-story-viewer,,,https://anonstories.com/
+493044,,2023-10-19 09:32,USD,True,70,2024-08-19 10:52,BACKER,Bronze Sponsors,770,ORGANIZATION,https://opencollective.com/verovapaatorg,,,https://verovapaat.org/
+493603,,2023-10-20 17:20,USD,False,50,2024-01-04 00:08,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/fastest-withdrawal-online-casi,,,https://outlookindia.com/outlook-spotlight/fast-payout-casinos-in-canada-news-324935
+494636,,2023-10-23 21:14,USD,False,50,2023-10-23 21:14,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/solcellsforetag,,,https://solcellsforetag.se/
+495110,,2023-10-24 16:08,USD,False,50,2023-11-24 11:01,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/aussie-online-casinos,,,https://www.outlookindia.com/outlook-spotlight/best-online-casinos-australia-top-5-australian-real-money-casino-sites-news-319445
+495843,Mir UK,2023-10-26 07:50,USD,True,50,2024-07-03 00:04,BACKER,Bronze Sponsors,450,USER,https://opencollective.com/miruk,,,https://uk.casinomir.com/
+495858,golden mile MT26886404,2023-10-26 08:51,USD,True,50,2024-07-02 23:08,BACKER,Bronze Sponsors,450,USER,https://opencollective.com/spelpressen-se,,,https://spelpressen.se/casino-reportage/casino-utan-svensk-licens
+495945,,2023-10-26 14:12,USD,True,50,2024-08-02 05:08,BACKER,Bronze Sponsors,400,ORGANIZATION,https://opencollective.com/payid-gambler,,,https://payid-casinos.com
+496346,,2023-10-27 14:30,USD,False,10,2024-01-02 13:10,BACKER,Backers,30,USER,https://opencollective.com/tatiana9,,,https://ssstwitter.online/
+497053,,2023-10-30 09:32,USD,False,-50,2023-12-06 13:42,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/kasino-place,,,https://kasinoplace.com/
+497816,,2023-11-01 14:41,USD,True,50,2024-08-02 01:04,BACKER,Bronze Sponsors,500,ORGANIZATION,https://opencollective.com/dopoid,,,https://dopoid.com/
+497869,,2023-11-01 17:27,USD,False,50,2024-01-04 00:08,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/best-betting-sites-in-kenya,,,https://outlookindia.com/outlook-spotlight/best-betting-sites-in-kenya-news-328043
+500333,,2023-11-09 08:56,USD,False,50,2024-01-02 14:07,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/no-deposit-bonuses,,,https://www.timesunion.com/marketplace/article/no-deposit-bonus-codes-18475605.php
+501543,,2023-11-13 10:37,USD,False,50,2024-05-01 23:04,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/ezcasinoin,,,https://ezcasino.in/
+501560,,2023-11-13 10:50,USD,False,50,2023-12-02 16:11,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/ytmp3,,,https://ytmp3.page/
+501593,,2023-11-13 12:05,USD,False,50,2024-06-18 11:17,BACKER,Bronze Sponsors,400,ORGANIZATION,https://opencollective.com/ceskecasinobest,,,https://ceskecasino.best
+501914,,2023-11-14 09:42,USD,False,50,2024-02-02 13:05,BACKER,Bronze Sponsors,200,USER,https://opencollective.com/sasinoudenrofus-info,,,https://casinoudenrofus.info/
+503753,,2023-11-20 13:45,USD,True,500,2023-11-20 13:45,BACKER,0,500,ORGANIZATION,https://opencollective.com/skunk-team,,,https://skunk.team
+503780,,2023-11-20 14:35,USD,False,50,2024-01-04 00:09,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/robloxgambling,,,https://robloxgambling.io
+505528,,2023-11-26 19:57,USD,False,50,2024-04-04 00:03,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/thaicasino,,,https://bsc.news/post/ewbphnan-nailnewbtrthiidiithiisudainpraethsaithyaehngpii-2023-aenanam
+506062,,2023-11-28 10:12,USD,False,70,2024-04-02 03:07,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/casinoutansvensklicens,,,https://casino-utan-svensk-licens.com/
+506066,,2023-11-28 10:27,USD,False,50,2024-01-02 15:09,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/bitstarz-bonus-code,,,https://www.sfgate.com/market/article/bitstarz-bonus-codes-18365169.php
+507343,,2023-11-30 11:02,USD,True,50,2024-07-03 08:03,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/chudovo,,,https://chudovo.com/
+508682,,2023-12-04 08:18,USD,False,50,2023-12-04 08:18,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/wekrypto,,,https://wekrypto.co
+508776,PopularityBazaar,2023-12-04 12:18,USD,True,50,2024-08-01 22:10,BACKER,Bronze Sponsors,450,USER,https://opencollective.com/buy-instagram-likes,,,https://popularitybazaar.com/instagram-likes/
+509703,MEGAFAMOUS.com,2023-12-06 17:27,USD,True,50,2024-07-03 02:03,BACKER,Bronze Sponsors,400,USER,https://opencollective.com/user-7dc2b7a8,,,https://megafamous.com/buy-automatic-instagram-likes
+509865,,2023-12-07 06:14,USD,True,50,2024-08-02 01:06,BACKER,Bronze Sponsors,450,ORGANIZATION,https://opencollective.com/casinos-in-greece,,,https://casinos.cc/greece/
+512400,,2023-12-14 14:56,USD,False,50,2024-02-02 15:04,BACKER,Bronze Sponsors,150,USER,https://opencollective.com/sasinozonderidin,,,https://casinozonderidin.net/
+514550,,2023-12-20 11:10,USD,False,50,2023-12-20 11:10,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/holiganbet,,,https://outlookindia.com/outlook-spotlight/holiganbet-holiganbet-giri%C5%9F-casino-siteleri-news-337600
+517646,,2023-12-29 04:14,USD,False,50,2024-04-02 08:03,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/basement-flood-helpers,,,https://basementfloodhelpers.com
+519843,,2024-01-04 10:06,USD,False,50,2024-01-04 10:06,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/posterbutiken,,,https://posterbutiken.com
+519849,,2024-01-04 10:14,USD,False,50,2024-01-04 10:14,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/macnu,,,https://mac.nu
+520620,Buy Instagram Followers Stormlikes,2024-01-07 03:18,USD,False,100,2024-06-06 10:39,BACKER,Silver Sponsors,600,USER,https://opencollective.com/stormlikes-net,,,https://www.stormlikes.net/buy-instagram-followers
+521029,,2024-01-08 16:13,USD,True,50,2024-07-08 10:45,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/quantum-ai-ltd,,,https://quantumai.co
+521684,,2024-01-10 09:30,USD,True,50,2024-08-10 10:38,BACKER,Bronze Sponsors,400,USER,https://opencollective.com/casivo-sverige,,,https://www.casivo.se/
+522160,,2024-01-11 10:10,USD,False,50,2024-06-11 11:04,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/buy-cheap-youtube-views,,,https://www.stormlikes.net/buy-youtube-views
+522694,,2024-01-12 17:15,USD,True,50,2024-08-12 11:37,BACKER,Bronze Sponsors,400,ORGANIZATION,https://opencollective.com/casinogaporg-uk,,,https://nongamstop.casinogap.org
+523214,,2024-01-14 10:59,USD,True,50,2024-07-03 05:05,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/proxidize,https://twitter.com/proxidizeHQ,,https://proxidize.com/
+524117,,2024-01-16 09:46,USD,False,50,2024-03-02 15:07,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/nextbase-starter-kit,,,https://usenextbase.com/
+524230,,2024-01-16 14:38,USD,False,50,2024-04-11 00:02,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/cryptogamblingtips,,,https://reddit.com/r/cryptogamblingtips/
+524679,,2024-01-17 12:31,USD,False,50,2024-04-02 06:05,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/usd200-no-deposit-bonus-200-free-spins-real-money,,,https://www.outlookindia.com/outlook-spotlight/200-dollar-no-deposit-news-338245
+524685,,2024-01-17 12:34,USD,True,50,2024-08-02 02:05,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/casino-extreme-no-deposit-bonus,,,https://www.outlookindia.com/outlook-spotlight/best-casino-extreme-no-deposit-bonuses-free-chip-bonus-codes-updated-for-news-340286
+525443,,2024-01-19 11:37,USD,False,50,2024-01-19 11:37,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/ssstwitter,,,https://ssstwitter.online/
+526881,,2024-01-23 08:40,USD,True,100,2024-08-02 03:02,BACKER,Silver Sponsors,700,USER,https://opencollective.com/jeremie2,,,https://marmelab.com/react-admin/
+527967,,2024-01-25 12:08,USD,True,50,2024-08-02 05:01,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/blastup_com,,,https://blastup.com/buy-instagram-likes
+527988,https://www.linkedin.com/pulse/new-slot-sites-uk-players-2024-john-davis-3dkfe/,2024-01-25 12:48,USD,False,50,2024-04-02 07:06,BACKER,Bronze Sponsors,200,USER,https://opencollective.com/ben-walker1,,,https://www.linkedin.com/pulse/new-slot-sites-uk-players-2024-john-davis-3dkfe/
+527998,@socialfollowers,2024-01-25 13:06,USD,False,50,2024-04-25 10:09,BACKER,Bronze Sponsors,200,USER,https://opencollective.com/socialfollowersuk,,,https://www.socialfollowers.uk/
+528016,https://dailystar-uk.co.uk,2024-01-25 13:54,USD,True,50,2024-08-02 10:09,BACKER,Bronze Sponsors,150,USER,https://opencollective.com/dailystar-ukcouk,,,https://dailystar-uk.co.uk/
+528594,,2024-01-27 03:13,0,True,0,2024-08-27 10:37,FOLLOWER,0,0,USER,https://opencollective.com/bayo-adejare,,https://github.com/BayoAdejare,https://bayoadejare.com
+528638,,2024-01-27 10:20,USD,True,10,2024-08-02 07:03,BACKER,Backers,70,USER,https://opencollective.com/ausma2kind,,,https://ausm2kind.de/
+529221,,2024-01-29 13:50,USD,True,50,2024-08-03 10:23,BACKER,Bronze Sponsors,350,ORGANIZATION,https://opencollective.com/casinobizzo,,,https://bizzocasino.bet/
+529347,Gastric Sleeve Turkey,2024-01-29 20:01,USD,False,50,2024-01-29 20:01,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/gastric-sleeve-turkey,,,https://gmcare.co.uk/obesity-surgeries/gastric-sleeve-turkey
+531907,https://bestnongamstopcasinosuk.com,2024-02-05 14:34,USD,True,50,2024-07-03 10:54,BACKER,Bronze Sponsors,350,USER,https://opencollective.com/user-a524d8be,,,https://bestnongamstopcasinosuk.com/
+533326,,2024-02-09 09:06,USD,False,50,2024-05-02 07:02,BACKER,Bronze Sponsors,200,USER,https://opencollective.com/adam-smith1,,,https://quickbookstoolhub.com/
+534014,,2024-02-11 11:27,USD,False,50,2024-05-05 00:02,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/onlyfans-finder,,,https://onlyfansfinder.org/
+535392,,2024-02-14 14:33,USD,False,100,2024-05-14 10:49,BACKER,Silver Sponsors,400,ORGANIZATION,https://opencollective.com/purekana,,,https://purekana.com/
+538911,,2024-02-23 11:57,USD,False,50,2024-02-23 11:57,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/gamblingtips,,,https://reddit.com/r/gamblingtips
+540221,,2024-02-27 11:01,USD,True,100,2024-08-01 12:24,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/casinoenlignefrancebest,,,https://casinoenlignefrance.best/
+540407,,2024-02-27 19:50,USD,False,50,2024-04-06 11:11,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/quantumai,,,https://quantumai.bot/
+540824,,2024-02-28 19:34,USD,True,100,2024-07-28 11:39,BACKER,Silver Sponsors,600,ORGANIZATION,https://opencollective.com/uk-nonstopcasino-org,,,https://uk.nonstopcasino.org/non-gamstop-casinos/
+540877,Sanseo Slu,2024-02-28 22:48,USD,True,50,2024-08-02 04:03,BACKER,Bronze Sponsors,300,USER,https://opencollective.com/casino-usa,,,https://www.ownedcore.com/casino
+540927,,2024-02-29 01:48,USD,True,50,2024-08-02 04:03,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/fruityking-nz,,,https://www.fruityking.co.nz
+541040,howsociable.com,2024-02-29 10:59,USD,False,100,2024-04-29 11:23,BACKER,Silver Sponsors,650,USER,https://opencollective.com/howsociable,,,https://howsociable.com/buy-instagram-followers/
+541815,,2024-03-02 04:16,USD,True,50,2024-08-02 05:03,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/instasocials,,,https://instasocials.com/buy-instagram-reels-views/
+546628,,2024-03-13 12:51,USD,True,50,2024-08-04 00:08,BACKER,Bronze Sponsors,310,ORGANIZATION,https://opencollective.com/casinosinlicenciaespana-com,,,https://casinosinlicenciaespana.com/
+547712,,2024-03-16 11:46,USD,False,50,2024-03-16 11:46,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/tiktokfameco,,,https://tiktokfame.co/buy-tiktok-followers/
+548181,,2024-03-18 02:03,USD,True,350,2024-07-03 07:05,BACKER,0,1400,ORGANIZATION,https://opencollective.com/cybozu,https://twitter.com/cybozu,https://github.com/cybozu,https://cybozu.co.jp/
+548254,91 Club,2024-03-18 08:34,USD,False,50,2024-03-18 08:34,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/91clubgames,,,https://91clubgameapp.com/
+549807,,2024-03-21 13:31,USD,False,50,2024-03-21 13:31,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/vladimir-lugovsky,,,
+551191,,2024-03-25 23:40,USD,True,50,2024-08-02 04:06,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/fortune-tiger2,,,https://fortune-tiger-br.com/
+551211,,2024-03-26 00:44,USD,False,50,2024-06-02 08:03,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/parimatch3,,,https://parimattchbr.com/
+552059,,2024-03-28 15:23,USD,False,50,2024-06-02 06:08,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/uibakery,,,https://uibakery.io
+553136,,2024-04-01 16:30,USD,True,2,2024-08-02 04:08,BACKER,0,9,USER,https://opencollective.com/danoc,https://twitter.com/_danoc,https://github.com/danoc,https://danoc.me/
+553836,,2024-04-03 11:13,USD,False,50,2024-04-03 11:13,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/aviator-gamer,,,https://aviatorgamebet.org/
+554360,,2024-04-04 20:21,USD,False,50,2024-04-04 20:21,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/sunset-city-mushrooms,,,https://www.sunsetcity.ca/
+554408,Tiktok18+,2024-04-05 01:23,USD,False,50,2024-04-05 01:23,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/tiktok18,,,https://tiktok18xx.com/
+556345,,2024-04-12 14:49,USD,True,50,2024-08-12 11:18,BACKER,Bronze Sponsors,250,USER,https://opencollective.com/buitenlandseonlinecasinos,,,https://buitenlandseonlinecasinos.org/
+556497,,2024-04-13 10:51,USD,True,50,2024-07-13 10:11,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/expressfollowers,,,https://expressfollowers.com/buy-instagram-reel-views/
+558490,,2024-04-21 07:53,USD,True,50,2024-08-02 06:04,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/sidesmedia,,,https://sidesmedia.com
+558492,,2024-04-21 07:54,USD,True,50,2024-08-02 05:09,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/useviral1,,,https://useviral.com
+558703,,2024-04-22 07:48,USD,True,50,2024-08-02 05:09,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/uusimmatkasinotcom,,,https://uusimmatkasinot.com/
+558815,,2024-04-22 14:09,USD,True,50,2024-08-02 05:09,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/swiper-casino,,,https://swiper.casino/
+559291,,2024-04-24 04:00,USD,False,50,2024-04-24 04:00,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/john159,,,
+559292,,2024-04-24 04:01,0,True,0,2024-08-27 10:37,FOLLOWER,0,50,USER,https://opencollective.com/john159,,,
+559297,,2024-04-24 04:09,USD,True,50,2024-08-23 10:45,BACKER,Bronze Sponsors,250,ORGANIZATION,https://opencollective.com/bountii,,,https://bountii.coupons/
+560098,,2024-04-27 05:33,USD,False,50,2024-06-02 08:10,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/best-sites-to-buy-tiktok-views,,,https://www.buffzone.com/2024/04/26/buy-tiktok-views/
+560476,,2024-04-29 00:36,USD,True,50,2024-08-02 06:05,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/buy-youtube-views-buffzone,,,https://www.buffzone.com/2024/04/28/best-sites-to-buy-youtube-views/
+561891,,2024-05-03 12:06,USD,False,50,2024-06-04 00:10,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/graming-tiktok,,,https://graming.com/buy-tiktok-followers/
+562098,,2024-05-04 09:15,USD,False,50,2024-06-02 09:04,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/best-sites-to-buy-tiktok-followers,,,https://www.times-standard.com/2024/02/02/7-best-sites-to-buy-tiktok-followers-cheap/
+562100,,2024-05-04 09:16,USD,True,50,2024-08-02 08:03,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/buy-cheap-youtube-views1,,,https://www.linkedin.com/pulse/10-best-sites-buy-youtube-views-cheap-jeff-bullas-td8tc
+562104,,2024-05-04 09:21,USD,True,50,2024-08-02 07:05,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/buy-instagram-followers-jeffbullas,,,https://www.jeffbullas.com/buy-instagram-followers-1/
+563762,,2024-05-10 02:12,USD,True,50,2024-08-09 11:14,BACKER,Bronze Sponsors,200,ORGANIZATION,https://opencollective.com/earthweb1,,,https://earthweb.com/
+563797,,2024-05-10 06:56,USD,True,50,2024-08-02 08:03,BACKER,Bronze Sponsors,200,USER,https://opencollective.com/casino-online-chile,,,https://www.c19.cl/
+565717,,2024-05-16 13:44,USD,True,50,2024-08-02 09:05,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/buy-instagram-followers-buyche,,,https://buycheapestfollowers.com
+566102,,2024-05-17 20:14,USD,True,50,2024-08-02 06:10,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/insfollowpro,,,https://insfollowpro.com
+566501,,2024-05-19 11:18,USD,True,50,2024-08-02 06:11,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/deevaai,,,https://www.deeva.ai
+567253,,2024-05-21 15:35,USD,True,50,2024-08-02 09:05,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/exploreig,,,https://www.exploreig.com
+568861,,2024-05-26 12:18,USD,True,10,2024-07-03 10:04,BACKER,Backers,20,USER,https://opencollective.com/ausmalzeit1,,https://github.com/AusmalZeit49,https://ausmalzeit.net/
+568887,,2024-05-26 13:51,USD,True,10,2024-08-04 00:07,BACKER,Backers,30,USER,https://opencollective.com/petinya,,,https://petinya.com/
+569310,,2024-05-27 22:08,0,True,0,2024-08-27 10:37,FOLLOWER,0,0,USER,https://opencollective.com/fernando-teixeira,,,
+573655,@useviral,2024-06-08 22:47,USD,True,50,2024-08-02 09:07,BACKER,Bronze Sponsors,150,USER,https://opencollective.com/useviral,,,https://useviral.com/
+573669,,2024-06-08 23:35,USD,True,50,2024-08-02 09:07,BACKER,Bronze Sponsors,150,ORGANIZATION,https://opencollective.com/buy-instagram-followers-buffzone,,,https://www.buffzone.com/2024/04/26/best-sites-to-buy-instagram-followers/
+573842,,2024-06-09 14:17,USD,True,10,2024-08-04 00:03,BACKER,Backers,30,USER,https://opencollective.com/1boyama,,https://github.com/1Boyama,https://1boyama.net
+575554,onlinecasinosgr.com,2024-06-14 11:12,USD,True,50,2024-08-02 08:10,BACKER,Bronze Sponsors,150,USER,https://opencollective.com/onlinecasinosgr-com,,,https://onlinecasinosgr.com/
+575677,,2024-06-14 18:21,USD,True,50,2024-08-02 09:04,BACKER,Bronze Sponsors,150,USER,https://opencollective.com/revistacomunicacion-org,,,https://revistacomunicacion.org/
+576264,,2024-06-17 13:07,USD,True,50,2024-08-02 09:10,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/casinorevisorcom,,,https://casinorevisor.com/
+576909,Viralyft,2024-06-19 14:37,USD,True,50,2024-08-02 09:11,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/viralyft,,,https://viralyft.com/buy-instagram-followers
+577927,,2024-06-23 12:23,USD,True,50,2024-08-02 10:02,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/leofame,,,https://leofame.com/buy-instagram-followers
+578609,,2024-06-25 15:25,USD,False,50,2024-06-25 15:25,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/siti-senza-licenza-aams,,,https://bsc.news/post/siti-scommesse-non-aams
+580129,,2024-07-01 04:27,USD,True,50,2024-07-30 10:20,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/the-red-playground,,,https://theredplayground.com
+580599,,2024-07-02 14:58,USD,True,50,2024-08-02 10:08,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/casinonutansvensklicensorg,,,https://popmani.se/
+580614,,2024-07-02 15:30,USD,True,50,2024-08-02 10:08,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/minsta-insattning-casino-utan-svensk-licens,,,https://casinos-without-license.com/
+580846,,2024-07-03 09:19,USD,True,50,2024-08-02 10:09,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/casino-without-swedish-license1,,,https://casinos-without-license.com/
+581368,,2024-07-05 07:45,USD,True,50,2024-08-10 11:01,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/casinologinmobi-safe,,,https://au.casinologin.mobi/safe-online-casinos/
+582313,,2024-07-08 22:21,USD,True,50,2024-07-08 22:21,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/user-53231496,,,
+582535,,2024-07-09 13:34,USD,True,50,2024-08-02 11:02,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/thunderclapit,,,https://thunderclap.it/
+582675,,2024-07-09 21:00,USD,True,50,2024-07-09 21:00,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/casino-non-aams1,,,https://casino-non-aams.info/
+582962,@Route4Me,2024-07-10 18:46,USD,True,50,2024-08-02 11:03,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/route4me,,https://github.com/route4me,https://route4me.com/
+582976,,2024-07-10 19:44,USD,True,50,2024-07-10 19:44,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/trygge-norske-casino,,,https://oddgrenland.no/
+583498,,2024-07-12 13:33,USD,True,50,2024-08-02 11:04,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/igcomment,,,https://igcomment.com
+584693,,2024-07-16 10:57,USD,True,50,2024-07-16 10:57,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/free-chip-no-deposit,,,https://free-chip-no-deposit.com/
+586170,,2024-07-21 18:53,USD,True,50,2024-07-21 18:53,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/amazon-return-pallets,,,https://dailyiowan.com/2024/06/18/amazon-return-pallets-2/
+588259,,2024-07-29 07:46,USD,True,70,2024-07-29 07:46,BACKER,Bronze Sponsors,70,USER,https://opencollective.com/fitclubfinder,,,https://fitclubfinder.com/
+589152,Automatio,2024-07-31 15:52,USD,True,1.23,2024-08-23 11:25,BACKER,0,3.93,USER,https://opencollective.com/kinder,https://twitter.com/shtefcs,https://github.com/htefcs,https://automatio.co/
+589660,,2024-08-02 08:32,USD,True,-50,2024-08-23 08:44,BACKER,Bronze Sponsors,0,ORGANIZATION,https://opencollective.com/slotozilla-uk,,,https://www.slotozilla.com/uk/
+590439,BetWinner,2024-08-05 11:40,USD,True,50,2024-08-05 11:40,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/guidebook_betwinner_com,,,https://guidebook.betwinner.com/
+590537,,2024-08-05 16:54,USD,True,50,2024-08-05 16:54,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/uaeonlinecasino-com,,,https://uaeonlinecasino.com/
+591064,,2024-08-07 07:47,USD,True,50,2024-08-07 07:47,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/buy-instagram-followers-usa,,,https://thunderclap.it/buy-instagram-followers
+591186,,2024-08-07 13:55,USD,True,50,2024-08-07 13:55,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/buy-google-reviews-usa,,,https://buyreviewz.com/buy-google-reviews
+591404,,2024-08-07 23:36,USD,True,50,2024-08-07 23:36,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/torutek,,,https://torutek.com
+591785,,2024-08-09 02:43,USD,True,50,2024-08-09 02:43,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/hashtags-for-likes,,,https://hashtagsforlikes.co
+591791,,2024-08-09 02:56,USD,True,50,2024-08-09 02:56,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/social-mention,,,https://www.socialmention.com/buy-instagram-views/
+592700,,2024-08-12 16:04,USD,True,50,2024-08-12 16:04,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/casinononaams,,,https://casinononaams.online
+593286,,2024-08-14 07:23,USD,True,50,2024-08-14 07:23,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/utlandska-casino-med-lag-insattning1,,,https://thecolorrun.se/
+593325,,2024-08-14 08:24,USD,True,50,2024-08-14 08:24,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/sasinovanger-com,,,https://casinovanger.com/
+593528,,2024-08-14 17:36,USD,True,50,2024-08-14 17:36,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/thunderclapcom,,,https://thunderclap.com/
+593769,,2024-08-15 11:02,USD,True,50,2024-08-15 11:02,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/casinoszondercruksonline,,,https://casinoszondercruksonline.com/
+594487,,2024-08-18 12:51,USD,True,50,2024-08-18 12:51,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/tiktok-expert-buy-tiktok-likes-and-views,,,https://www.reddit.com/r/TikTokExpert/comments/1e4lbj3/where_can_i_buy_tiktok_likes_views/
+595960,,2024-08-23 18:43,USD,True,50,2024-08-23 18:43,BACKER,Bronze Sponsors,50,ORGANIZATION,https://opencollective.com/chilecasinos,,,https://www.chilecasinos.net/
+596384,,2024-08-25 20:22,USD,True,50,2024-08-25 20:22,BACKER,Bronze Sponsors,50,USER,https://opencollective.com/buy-instagram-followers-buzzoid,,,

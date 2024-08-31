@@ -1,0 +1,22 @@
+[
+    {
+        "MemberId": 133244,
+        "createdAt": "2020-10-15 01:45",
+        "type": "USER",
+        "role": "ADMIN",
+        "isActive": true,
+        "totalAmountDonated": 0,
+        "lastTransactionAt": "2024-08-27 10:36",
+        "lastTransactionAmount": 0,
+        "profile": "https://opencollective.com/chris-chen1",
+        "name": "Chris Chen",
+        "company": null,
+        "description": null,
+        "image": null,
+        "email": null,
+        "newsletterOptIn": null,
+        "twitter": null,
+        "github": null,
+        "website": null
+    }
+]

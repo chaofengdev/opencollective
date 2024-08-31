@@ -1,0 +1,1005 @@
+MemberId,company,createdAt,currency,isActive,lastTransactionAmount,lastTransactionAt,role,tier,totalAmountDonated,type,profile,twitter,github,website
+3843,@babel,2017-04-01 14:02,USD,True,-6000,2022-01-13 03:03,ADMIN,0,0,USER,https://opencollective.com/left_pad,https://twitter.com/left_pad,https://github.com/hzoo,https://www.henryzoo.com
+3844,,2017-04-01 14:02,USD,True,-0.5,2024-08-23 10:03,HOST,0,1355.15,ORGANIZATION,https://opencollective.com/opensource,https://twitter.com/OpenSourceColl,,https://oscollective.org/
+3845,@babel,2017-04-01 14:02,USD,True,-43607.71,2019-07-26 06:39,MEMBER,0,10,USER,https://opencollective.com/danez,https://twitter.com/TschinderDaniel,https://github.com/danez,https://danieltschinder.com
+3846,,2017-04-01 14:02,USD,True,-15000,2018-11-24 03:17,MEMBER,0,0,USER,https://opencollective.com/loganfsmyth,https://twitter.com/loganfsmyth,,https://logansmyth.com
+3847,,2017-04-01 14:02,USD,True,-2000,2021-02-26 00:25,ADMIN,0,0,USER,https://opencollective.com/existentialism,https://twitter.com/existentialism,https://github.com/existentialism,https://brian.ng
+3848,,2017-04-01 14:02,0,True,0,2024-08-27 08:20,MEMBER,0,0,USER,https://opencollective.com/xtuc,,,https://www.xtuc.fr
+3849,,2017-04-01 16:52,USD,False,25,2018-02-01 17:52,BACKER,Backers,275,USER,https://opencollective.com/mstijak,https://twitter.com/mstijak,,https://cxjs.io/
+3850,,2017-04-01 17:30,USD,False,5,2017-08-01 19:02,BACKER,Backers,25,USER,https://opencollective.com/kwachyami,https://twitter.com/jonaquach,,
+3852,,2017-04-01 17:42,USD,False,10,2017-06-01 18:43,BACKER,Backers,30,USER,https://opencollective.com/dima,,,
+3854,,2017-04-01 18:10,USD,True,10,2017-04-01 18:10,BACKER,0,10,USER,https://opencollective.com/barrosmarcel92,,,
+3855,,2017-04-01 18:30,USD,True,50,2017-04-01 18:30,BACKER,0,50,USER,https://opencollective.com/vmasto,,,
+3856,,2017-04-01 18:35,USD,False,2,2017-09-01 19:38,BACKER,Backers,12,USER,https://opencollective.com/silvenon,https://twitter.com/silvenon,https://github.com/silvenon,https://silvenon.com
+3857,,2017-04-01 18:39,USD,False,5,2019-02-02 05:03,BACKER,Backers,115,ORGANIZATION,https://opencollective.com/icons8,https://twitter.com/icons_8,https://github.com/icons8,https://icons8.com/
+3858,,2017-04-01 18:44,USD,False,10,2020-05-02 10:42,BACKER,Backers,380,USER,https://opencollective.com/taveras,https://twitter.com/danieljtaveras,,https://www.danieltaveras.com
+3866,,2017-04-01 19:55,USD,False,10,2017-08-01 20:57,BACKER,Backers,50,USER,https://opencollective.com/kurtiskemple,,,https://twitter.com/kurtiskemple
+3867,,2017-04-01 19:56,USD,False,5,2017-12-01 21:00,BACKER,Backers,45,USER,https://opencollective.com/meriadecpillet,,,
+3870,,2017-04-01 21:01,USD,False,2,2019-01-02 05:02,BACKER,Backers,73,USER,https://opencollective.com/josediazseng,,,
+3872,,2017-04-01 23:17,USD,False,5,2017-04-01 23:17,BACKER,Backers,5,USER,https://opencollective.com/charliebriggs,https://twitter.com/charlie_briggs,,https://twitter.com/charlie_briggs
+3873,,2017-04-01 23:38,USD,False,5,2017-11-02 00:42,BACKER,Backers,40,USER,https://opencollective.com/aleonard90,,,https://ALeonard90.github.io
+3883,,2017-04-02 00:35,USD,False,2,2018-04-02 17:33,BACKER,Backers,26,USER,https://opencollective.com/chuckinthestar,https://twitter.com/chuck0523,,https://twitter.com/chuck0523
+3884,,2017-04-02 00:39,USD,False,2,2017-10-01 02:29,BACKER,Backers,14,USER,https://opencollective.com/oieduardorabelo,https://twitter.com/oieduardorabelo,,https://www.eduardorabelo.me
+3885,,2017-04-02 00:48,USD,False,5,2017-05-01 03:30,BACKER,Backers,10,USER,https://opencollective.com/taise515,,,
+3887,,2017-04-02 01:25,USD,True,100,2017-04-02 01:25,BACKER,0,100,USER,https://opencollective.com/zacanger,https://twitter.com/zacanger,https://github.com/zacanger,https://zacanger.com
+3888,,2017-04-02 01:49,USD,False,5,2017-08-01 04:39,BACKER,Backers,25,USER,https://opencollective.com/cachilders,,,https://caseychilders.com
+3889,,2017-04-02 01:52,USD,False,5,2018-11-01 05:13,BACKER,Backers,100,USER,https://opencollective.com/aarontrostle,https://twitter.com/aarontrostle,,https://aarontrostle.com
+3890,,2017-04-02 02:05,USD,False,2,2017-06-01 03:50,BACKER,Backers,6,USER,https://opencollective.com/shanemcgraw17,,,
+3893,,2017-04-02 04:05,USD,False,2,2021-05-01 11:07,BACKER,Backers,98,USER,https://opencollective.com/hawkrives,https://twitter.com/hawkrives,https://github.com/hawkrive,https://twitter.com/hawkrives
+3894,,2017-04-02 05:27,USD,True,5,2024-08-01 02:01,BACKER,Backers,441,USER,https://opencollective.com/parkerbond,,,
+3896,,2017-04-02 06:37,USD,False,10,2018-08-02 05:03,BACKER,Backers,195,USER,https://opencollective.com/wesruv,,,
+3897,,2017-04-02 07:10,USD,False,10,2020-01-02 05:16,BACKER,Backers,260,USER,https://opencollective.com/simonkjellberg,https://twitter.com/simonkberg,https://github.com/imonkberg,https://simon.dev
+3898,,2017-04-02 07:33,USD,False,5,2019-06-01 05:02,BACKER,Backers,89,USER,https://opencollective.com/pterolex,https://twitter.com/Pterolex,https://github.com/pterolex,https://twitter.com/Pterolex
+3899,,2017-04-02 08:39,USD,True,5,2017-04-02 08:39,BACKER,0,5,USER,https://opencollective.com/messutiedd,https://twitter.com/MessutiEdd,,https://twitter.com/MessutiEdd
+3900,,2017-04-02 08:40,USD,False,10,2017-06-01 09:40,BACKER,Backers,30,USER,https://opencollective.com/zemgalis,https://twitter.com/zemgalis,,https://zemgalis.com
+3902,,2017-04-02 08:50,USD,True,10,2017-04-02 08:50,BACKER,0,10,USER,https://opencollective.com/robertschoenthal,,,
+3909,,2017-04-02 11:09,USD,False,5,2017-06-01 12:10,BACKER,Backers,15,USER,https://opencollective.com/edesbalazs,,,https://bali182.github.io
+3910,,2017-04-02 12:00,USD,True,10,2017-04-02 12:00,BACKER,0,10,USER,https://opencollective.com/jeromemacias,,,
+3911,,2017-04-02 12:26,USD,False,10,2017-08-01 13:29,BACKER,Backers,50,USER,https://opencollective.com/vernondegoede,https://twitter.com/vernon_dg,,https://mollie.com
+3912,,2017-04-02 14:13,USD,False,2,2018-01-09 15:15,BACKER,Backers,20,USER,https://opencollective.com/mukeshsoni,https://twitter.com/mukeshsoni,https://github.com/mukehsoni,https://github.com/mukeshsoni
+3913,,2017-04-02 14:57,USD,False,2,2017-07-01 15:59,BACKER,Backers,8,USER,https://opencollective.com/redechi,https://twitter.com/redechi,,
+3914,,2017-04-02 16:03,USD,True,2,2024-08-01 00:01,BACKER,Backers,178,USER,https://opencollective.com/fdaciuk,https://twitter.com/fdaciuk,https://github.com/fdaciuk,https://queroser.ninja
+3916,,2017-04-02 16:41,USD,True,25,2017-04-02 16:41,BACKER,0,25,USER,https://opencollective.com/zeekooster,https://twitter.com/leoorsnes,,https://twitter.com/leoorsnes
+3917,,2017-04-02 17:01,USD,False,25,2022-11-01 01:20,BACKER,Backers,1700,USER,https://opencollective.com/lelandmrichardson,,,https://intelligiblebabble.com
+3918,,2017-04-02 17:48,USD,False,5,2022-02-01 03:05,BACKER,Backers,295,USER,https://opencollective.com/pratik6116,,,
+3919,@shopify,2017-04-02 17:55,USD,False,25,2017-05-01 18:56,BACKER,Backers,50,USER,https://opencollective.com/pepibumur,https://twitter.com/pedropbuendia,,https://www.ppinera.es
+3920,,2017-04-02 17:58,USD,False,10,2017-07-01 19:00,BACKER,Backers,40,USER,https://opencollective.com/janicduplessis,,,https://medium.com/@janicduplessis
+3921,,2017-04-02 19:00,USD,False,2,2017-07-01 20:01,BACKER,Backers,8,USER,https://opencollective.com/rinaldi,https://twitter.com/rafaelrinaldi,,
+3922,,2017-04-02 19:41,USD,False,2,2021-01-04 15:15,BACKER,Backers,92,USER,https://opencollective.com/developit,https://twitter.com/_developit,https://github.com/developit,https://jasonformat.com
+3924,,2017-04-02 20:19,USD,False,10,2017-05-01 21:19,BACKER,Backers,20,USER,https://opencollective.com/tinaumlandt,,,
+3925,,2017-04-02 20:38,USD,False,10,2020-03-02 05:00,BACKER,Backers,360,USER,https://opencollective.com/vicapow,,,https://setosa.io
+3926,,2017-04-02 20:56,USD,True,1,2017-09-01 22:03,BACKER,0,6,USER,https://opencollective.com/timoshenkoevgeny,,,
+3927,,2017-04-02 21:41,USD,True,5,2024-08-01 00:02,BACKER,Backers,445,USER,https://opencollective.com/jkimbo,https://twitter.com/jonnykim,,https://jkimbo.com
+3928,,2017-04-02 21:49,USD,False,2,2017-05-01 22:50,BACKER,Backers,4,USER,https://opencollective.com/stephenaingram,,,
+3929,,2017-04-02 21:56,USD,False,2,2018-01-09 22:58,BACKER,Backers,20,USER,https://opencollective.com/ziadkh0,https://twitter.com/ziadkh0,https://github.com/ziadkh0,https://twitter.com/ziadkh0
+3930,,2017-04-02 21:56,USD,False,2,2017-09-01 22:59,BACKER,Backers,12,USER,https://opencollective.com/davidgwking,,,
+3931,,2017-04-02 23:25,USD,False,10,2022-12-01 00:10,BACKER,Backers,690,USER,https://opencollective.com/stanulam59,https://twitter.com/modernserf,,https://twitter.com/modernserf
+3932,,2017-04-03 00:52,0,False,0,2024-08-27 08:20,BACKER,Bronze Sponsors,0,USER,https://opencollective.com/kent,https://twitter.com/kentcdodds,https://github.com/kentcdodd,https://twitter.com/kentcdodds
+3933,@orainteractive,2017-04-03 01:00,USD,False,10,2017-07-01 03:46,BACKER,Backers,40,USER,https://opencollective.com/_seanclayton,https://twitter.com/seanaverage,,https://twitter.com/seanybingbong
+3934,,2017-04-03 02:08,USD,False,10,2018-05-01 05:07,BACKER,Backers,140,USER,https://opencollective.com/ajcrites,,,https://blog.explosionpills.com
+3935,,2017-04-03 02:38,USD,False,2,2017-12-01 03:58,BACKER,Backers,18,USER,https://opencollective.com/mvila,https://twitter.com/mvila,,https://twitter.com/mvila
+3936,,2017-04-03 02:47,USD,False,2,2018-06-01 05:07,BACKER,Backers,30,USER,https://opencollective.com/diogofbeda,https://twitter.com/diogofbeda,,https://twitter.com/diogofbeda
+3937,,2017-04-03 04:07,USD,False,2,2018-07-01 05:09,BACKER,Backers,32,USER,https://opencollective.com/5wooley4,,,
+3938,,2017-04-03 05:01,USD,False,2,2021-12-01 05:01,BACKER,Backers,114,USER,https://opencollective.com/theoasherman,,,
+3939,,2017-04-03 06:16,USD,False,10,2019-12-01 05:10,BACKER,Backers,285,USER,https://opencollective.com/patrick1,https://twitter.com/PatrickMWalther,,https://twitter.com/PatrickMWalther
+3942,,2017-04-03 12:20,USD,False,5,2020-09-02 08:29,BACKER,Backers,210,USER,https://opencollective.com/stillconor,https://twitter.com/stillconor,https://github.com/conorhatings,https://github.com/conorhastings
+3943,,2017-04-03 12:35,USD,False,5,2017-06-01 13:37,BACKER,Backers,15,USER,https://opencollective.com/aripalo,https://twitter.com/aripalo,,https://aripalo.com
+3944,,2017-04-03 13:24,USD,True,200,2017-04-03 13:24,BACKER,0,200,USER,https://opencollective.com/bedavestein,,,
+3945,,2017-04-03 13:40,USD,True,100,2017-04-03 13:40,BACKER,0,100,USER,https://opencollective.com/yo,,,
+3946,,2017-04-03 14:57,USD,False,2,2017-08-01 15:59,BACKER,Backers,10,USER,https://opencollective.com/santerihiltunen,https://twitter.com/ze_hilda,,https://hilzu.moe
+3947,,2017-04-03 15:25,USD,True,2,2024-08-01 03:01,BACKER,Backers,170,USER,https://opencollective.com/adamlbarrett,https://twitter.com/adamlbarrett,https://github.com/bigab,https://twitter.com/adamlbarrett
+3948,PayPal,2017-04-03 16:17,USD,False,100,2019-06-02 05:03,BACKER,Bronze Sponsors,2700,USER,https://opencollective.com/kentcdodds,https://twitter.com/kentcdodds,https://github.com/kentcdodds,https://kentcdodds.com
+3958,,2017-04-03 22:18,USD,False,5,2018-07-02 05:11,BACKER,Backers,80,USER,https://opencollective.com/davidascher,https://twitter.com/davidascher,,https://twitter.com/davidascher
+3959,,2017-04-03 22:40,USD,False,2,2017-04-03 22:40,BACKER,Backers,2,USER,https://opencollective.com/inuscript,,,
+3962,,2017-04-04 02:40,USD,False,14.29,2022-02-16 22:33,BACKER,Backers,26.29,USER,https://opencollective.com/mattwelke,https://twitter.com/MattWelke3,https://github.com/mattwelke,https://mattwelke.com
+3966,,2017-04-04 08:19,USD,False,5,2018-03-02 23:07,BACKER,Backers,60,USER,https://opencollective.com/corjen,https://twitter.com/corjenmoll,,
+3969,@babel,2017-04-04 16:22,USD,False,-76.36,2019-07-26 06:39,BACKER,Backers,10,USER,https://opencollective.com/danez,https://twitter.com/TschinderDaniel,https://github.com/danez,https://danieltschinder.com
+3997,,2017-04-05 22:16,USD,True,5,2024-08-01 00:02,BACKER,Backers,445,USER,https://opencollective.com/gavinmogan,https://twitter.com/halkeye,https://github.com/halkeye,https://www.gavinmogan.com
+3998,,2017-04-05 22:32,USD,False,3,2018-02-01 23:32,BACKER,Backers,33,USER,https://opencollective.com/keithito,https://twitter.com/keeeto,https://github.com/keithito,https://keithito.com
+4012,,2017-04-06 13:46,USD,True,2,2017-04-06 13:46,BACKER,0,2,USER,https://opencollective.com/kawaz,https://twitter.com/kawaz,,https://twitter.com/kawaz
+4024,,2017-04-06 23:43,USD,False,5,2017-08-02 00:45,BACKER,Backers,25,USER,https://opencollective.com/mejdinhlife,,,
+4034,,2017-04-07 02:32,USD,False,5,2017-05-01 03:39,BACKER,Backers,10,USER,https://opencollective.com/tom,,,
+4047,,2017-04-07 14:25,USD,False,2,2017-10-01 15:26,BACKER,Backers,14,USER,https://opencollective.com/krofdrakula,,,https://krofdrakula.github.io/
+4056,,2017-04-08 15:51,USD,False,10,2018-12-02 05:07,BACKER,Backers,210,USER,https://opencollective.com/dfwoodlock,https://twitter.com/Don_Woodlock,,
+4058,,2017-04-08 18:48,USD,False,10,2021-11-01 04:12,BACKER,Backers,560,USER,https://opencollective.com/antonycourtney,,,
+4071,,2017-04-09 18:47,USD,False,5,2020-02-03 05:12,BACKER,Backers,195,USER,https://opencollective.com/andrewrota,https://twitter.com/AndrewRota,,https://twitter.com/andrewrota
+4074,,2017-04-09 19:51,USD,False,5,2018-09-02 05:07,BACKER,Backers,90,USER,https://opencollective.com/rafalfilipek,https://twitter.com/rafalfilipek,https://github.com/RafalFilipek,https://twitter.com/rafalfilipek
+4075,,2017-04-10 03:38,USD,False,10,2018-09-02 05:12,BACKER,Backers,155,USER,https://opencollective.com/loklaan,https://twitter.com/loklaan,,https://lochlan.io
+4077,,2017-04-10 07:30,USD,True,50,2017-04-10 07:30,BACKER,0,50,USER,https://opencollective.com/opencollective11,https://twitter.com/suchipi,,https://suchipi.com
+4087,,2017-04-10 21:31,USD,False,10,2018-08-02 05:03,BACKER,Backers,170,USER,https://opencollective.com/evgenijsafronov,https://twitter.com/sejoker,,https://twitter.com/sejoker
+4124,,2017-04-14 00:07,USD,False,2,2018-04-02 17:23,BACKER,Backers,26,USER,https://opencollective.com/benkremer,https://twitter.com/bkrem_,,
+4134,,2017-04-15 21:36,USD,False,100,2018-02-01 22:37,BACKER,Bronze Sponsors,1100,USER,https://opencollective.com/arefay,https://twitter.com/arefay,,https://twitter.com/arefay
+4140,,2017-04-16 12:31,USD,False,10,2017-11-01 13:37,BACKER,Backers,80,USER,https://opencollective.com/markpoko2,,,https://markpoko.me
+4158,,2017-04-18 15:38,USD,False,5,2017-07-01 16:40,BACKER,Backers,20,USER,https://opencollective.com/islomar,,,https://elreposodelguerrero.com
+4226,,2017-04-21 14:34,USD,False,100,2017-06-01 15:35,BACKER,Bronze Sponsors,300,USER,https://opencollective.com/erhan,https://twitter.com/erhankaradeniz,,https://erhankaradeniz.com
+4240,,2017-04-22 15:46,USD,True,12,2017-04-22 15:46,BACKER,0,12,USER,https://opencollective.com/manatsawin,https://twitter.com/awkwin,,https://twitter.com/awkwin
+4248,,2017-04-23 01:22,USD,False,100,2017-12-01 03:58,BACKER,Bronze Sponsors,900,USER,https://opencollective.com/alunny,https://twitter.com/alunny,,
+4312,,2017-04-27 20:49,USD,False,5,2017-06-01 21:50,BACKER,Backers,15,USER,https://opencollective.com/jsdotcr,https://twitter.com/jsdotcr,,https://js.cr
+4327,,2017-04-28 22:24,USD,False,5,2017-09-01 23:28,BACKER,Backers,30,USER,https://opencollective.com/davidheim,,,https://pinkalpine.ch
+4380,,2017-05-01 20:53,USD,False,100,2017-05-01 20:53,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/kratiahuja,,,
+4482,,2017-05-07 18:56,USD,False,2,2018-01-09 19:58,BACKER,Backers,18,USER,https://opencollective.com/alajmovicsamir,,,https://www.alajmovic.com/
+4505,,2017-05-10 02:45,USD,False,5,2017-06-01 03:50,BACKER,Backers,10,USER,https://opencollective.com/dmh,,https://github.com/DexterHaslem,https://dexterhaslem.com
+4511,,2017-05-10 09:41,USD,False,2,2018-03-02 23:08,BACKER,Backers,30,USER,https://opencollective.com/shekadzianis,https://twitter.com/davojta,,https://twitter.com/davojta
+4533,,2017-05-11 11:21,USD,True,2,2024-08-01 01:02,BACKER,Backers,160,USER,https://opencollective.com/alex2,,https://github.com/alex-e-leon,https://github.com/alex-e-leon
+4557,,2017-05-11 20:44,USD,False,100,2017-12-01 21:48,BACKER,Bronze Sponsors,800,ORGANIZATION,https://opencollective.com/x-team,https://twitter.com/xteam,,https://x-team.com
+4558,,2017-05-11 21:20,USD,True,5,2024-08-01 02:00,BACKER,Backers,420,USER,https://opencollective.com/iamstarkov,https://twitter.com/iamstarkov,https://github.com/iamstarkov,https://iamstarkov.com
+4613,,2017-05-16 02:56,USD,False,100,2018-07-01 05:04,BACKER,Bronze Sponsors,1500,ORGANIZATION,https://opencollective.com/reactnativetraining,https://twitter.com/rn_training,,https://reactnative.training/
+4692,,2017-05-21 08:41,USD,False,25,2017-10-01 09:42,BACKER,Backers,150,USER,https://opencollective.com/nicolaskroos,https://twitter.com/roosnic1,,
+4694,,2017-05-21 12:34,USD,False,2,2017-10-01 13:36,BACKER,Backers,14,USER,https://opencollective.com/l3bel,https://twitter.com/l3bel,,https://mor-dev.com
+4744,,2017-05-25 13:33,USD,False,2,2020-02-03 05:14,BACKER,Backers,68,USER,https://opencollective.com/matthewcooley,,,https://matthewcooley.com
+4751,,2017-05-25 17:30,USD,False,2,2018-09-02 05:08,BACKER,Backers,34,USER,https://opencollective.com/andreyvital,,https://github.com/andreyvital,https://akv.io
+4755,,2017-05-25 18:50,USD,False,5,2017-05-25 18:50,BACKER,Backers,5,USER,https://opencollective.com/thomasrandolph,https://twitter.com/rockerest,,https://www.thomasrandolph.info
+4767,,2017-05-26 04:41,USD,False,2,2018-03-02 23:09,BACKER,Backers,22,USER,https://opencollective.com/kanitkornk,https://twitter.com/kanitkornk,,https://kanitkorn.com
+4769,,2017-05-26 10:05,USD,False,2,2020-07-03 05:14,BACKER,Backers,78,USER,https://opencollective.com/me6,,,https://www.alonbd.com
+4789,,2017-05-27 12:49,USD,False,5,2022-01-06 10:17,BACKER,Backers,170,USER,https://opencollective.com/darkokukovec,https://twitter.com/DarkoKukovec,https://github.com/DarkoKukovec,https://darko.kukovec.eu
+4791,,2017-05-27 14:01,USD,False,25,2022-12-01 00:22,BACKER,Bronze Sponsors,1725,USER,https://opencollective.com/jasonlaster11,https://twitter.com/jasonlaster11,,https://jasonlaster.github.io
+4795,,2017-05-27 16:06,USD,True,2,2024-08-01 01:01,BACKER,Backers,154,USER,https://opencollective.com/ryantallmadge,https://twitter.com/ryantallmadge,,https://twitter.com/ryantallmadge
+4801,,2017-05-28 03:54,USD,False,10,2018-05-01 05:12,BACKER,Backers,130,USER,https://opencollective.com/notbrent,https://twitter.com/notbrent,https://github.com/brentvatne,https://twitter.com/notbrent
+4808,,2017-05-28 17:02,USD,False,10,2018-12-02 05:08,BACKER,Backers,200,USER,https://opencollective.com/me17,https://twitter.com/mikemurry,,https://twitter.com/mikemurry
+4893,pushred,2017-06-03 17:08,USD,False,5,2020-03-02 05:12,BACKER,Backers,325,USER,https://opencollective.com/pushred,https://twitter.com/pushred,https://github.com/pushred,https://pushred.co
+4933,,2017-06-06 04:54,USD,False,10,2022-12-01 00:11,BACKER,Backers,670,USER,https://opencollective.com/rthrelkeld1980,,,
+5032,,2017-06-09 19:51,USD,False,2,2019-05-02 05:05,BACKER,Backers,48,USER,https://opencollective.com/idrism,https://twitter.com/idris,,https://twitter.com/idris
+5049,,2017-06-11 17:10,USD,True,10,2024-08-01 00:02,BACKER,Backers,870,USER,https://opencollective.com/taopaic,https://twitter.com/TaopaiC,,
+5113,Museum of Old and New Art,2017-06-15 20:10,USD,False,2,2018-06-05 05:01,BACKER,Backers,26,USER,https://opencollective.com/mashaal,https://twitter.com/mutual__respect,https://github.com/mahaal,https://teacups.io
+5219,,2017-06-23 09:23,USD,False,2,2017-11-01 10:24,BACKER,Backers,12,USER,https://opencollective.com/kkencom,,,https://kken.io/blog
+5274,,2017-06-26 18:53,USD,False,5,2017-08-01 19:56,BACKER,Backers,15,USER,https://opencollective.com/lukeeeebennettplus,https://twitter.com/__lukebennett,,https://twitter.com/__lukebennett
+5278,,2017-06-26 19:34,USD,False,2,2017-08-01 20:36,BACKER,Backers,6,USER,https://opencollective.com/mindfulgeek,https://twitter.com/Mindfulgeek,,https://twitter.com/Mindfulgeek
+5279,,2017-06-26 19:47,USD,False,2,2020-11-01 06:12,BACKER,Backers,84,USER,https://opencollective.com/benvinegar,https://twitter.com/bentlegen,,https://twitter.com/bentlegen
+5288,,2017-06-26 21:59,USD,False,5,2024-05-01 02:00,BACKER,Backers,252,USER,https://opencollective.com/alexeyraspopov,https://twitter.com/alexeyraspopov,https://github.com/alexeyraspopov,https://alexeyraspopov.com/
+5293,,2017-06-27 00:24,USD,False,10,2018-05-01 05:12,BACKER,Backers,120,USER,https://opencollective.com/dev_to,https://twitter.com/dev_to,,
+5300,,2017-06-27 01:27,USD,False,5,2018-06-01 05:07,BACKER,Backers,65,USER,https://opencollective.com/morrelljeremy,,,
+5304,,2017-06-27 04:10,USD,False,5,2024-06-01 01:01,BACKER,Backers,425,USER,https://opencollective.com/kmball11,https://twitter.com/kbal11,,https://twitter.com/kbal11
+5310,,2017-06-27 07:51,USD,False,5,2018-12-02 05:09,BACKER,Backers,95,USER,https://opencollective.com/andreypopp,https://twitter.com/andreypopp,,https://andreypopp.com
+5311,,2017-06-27 07:57,USD,True,50,2017-06-27 07:57,BACKER,0,50,USER,https://opencollective.com/jjwonmin,https://twitter.com/jjwonmin,,
+5326,,2017-06-27 19:08,USD,False,5,2017-07-01 20:11,BACKER,Backers,10,USER,https://opencollective.com/matiasfh,https://twitter.com/msdark,,https://twitter.com/msdark
+5328,,2017-06-27 19:24,USD,False,10,2017-08-01 20:27,BACKER,Backers,30,USER,https://opencollective.com/gisenberg,,,https://twitter.com/the_gisenberg
+5331,Mountain Stream Software,2017-06-28 11:06,USD,False,5,2023-04-01 03:15,BACKER,Backers,302,USER,https://opencollective.com/martinajackson,,,
+5334,,2017-06-28 18:34,USD,False,10,2021-02-01 06:08,BACKER,Backers,330,USER,https://opencollective.com/ron,https://twitter.com/RonTheDrummer,,https://twitter.com/RonTheDrummer
+5341,,2017-06-29 07:17,USD,False,5,2018-01-09 08:18,BACKER,Backers,40,USER,https://opencollective.com/relekang,https://twitter.com/relekang,,https://rolflekang.com
+5359,,2017-06-29 16:30,USD,False,2,2019-10-02 05:04,BACKER,Backers,58,USER,https://opencollective.com/zeecoder,https://twitter.com/ZeeCoder,https://github.com/ZeeCoder,https://hubertviktor.com
+5361,,2017-06-29 18:27,USD,False,2,2018-09-02 05:09,BACKER,Backers,32,USER,https://opencollective.com/benimnetz,,https://github.com/ben-8409,https://benjamingeese.de
+5410,,2017-07-03 19:30,USD,False,2,2018-05-02 05:05,BACKER,Backers,22,USER,https://opencollective.com/françoisvespa,,https://github.com/co2-git,https://github.com/co2-git
+5465,,2017-07-06 20:59,USD,False,100,2018-02-01 22:00,BACKER,Bronze Sponsors,800,FUND,https://opencollective.com/sentry,https://twitter.com/getsentry,https://github.com/getsentry/sentry,https://sentry.io/welcome/
+5484,@google,2017-07-07 16:35,USD,False,100,2017-07-07 16:35,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/jridgewell,,https://github.com/jridgewell,
+5485,,2017-07-07 16:44,USD,False,12000,2021-06-21 16:44,BACKER,Gold Sponsors,73600,FUND,https://opencollective.com/amp,https://twitter.com/amphtml,,https://www.ampproject.org/
+5499,,2017-07-08 01:28,USD,False,500,2020-05-01 05:02,BACKER,Bronze Sponsors,8800,ORGANIZATION,https://opencollective.com/clayglobal,https://twitter.com/clayglobal,,https://clay.global
+5515,,2017-07-09 13:06,USD,True,10,2017-07-09 13:06,BACKER,0,10,USER,https://opencollective.com/rene,https://twitter.com/Herrmannplatz,,
+5522,,2017-07-10 03:50,USD,False,2,2020-02-02 05:21,BACKER,Backers,64,USER,https://opencollective.com/ginhing,,https://github.com/Ginhing,
+5527,,2017-07-10 10:02,USD,False,10,2019-10-02 05:04,BACKER,Backers,280,USER,https://opencollective.com/jmclerck,https://twitter.com/jmclerck,,https://twitter.com/jmclerck
+5540,,2017-07-11 01:33,USD,False,2,2018-08-01 05:04,BACKER,Backers,28,USER,https://opencollective.com/sheriffderek,https://twitter.com/sheriffderek,,https://sheriffderek.consulting
+5611,,2017-07-13 15:53,USD,False,5,2017-09-01 16:56,BACKER,Backers,15,USER,https://opencollective.com/khris,,,
+5687,,2017-07-19 20:28,USD,True,200,2017-07-19 20:28,BACKER,0,200,ORGANIZATION,https://opencollective.com/manifold,https://twitter.com/manifoldco,,https://manifold.co
+5693,,2017-07-19 23:53,USD,False,5,2018-07-02 05:10,BACKER,Backers,65,USER,https://opencollective.com/brandonpierce,https://twitter.com/BrandonJPierce,,https://brandonjpierce.com
+5707,@xpbytes,2017-07-20 17:59,USD,False,5,2020-07-02 05:05,BACKER,Backers,185,USER,https://opencollective.com/derk-jan,https://twitter.com/SleeplessByte,https://github.com/SleeplessByte,https://derk-jan.com
+5713,,2017-07-21 11:08,USD,False,5,2018-07-02 05:05,BACKER,Backers,65,USER,https://opencollective.com/happylinks,,,https://www.bynder.com
+5754,,2017-07-25 06:53,USD,False,2,2021-04-01 23:03,BACKER,Backers,196,USER,https://opencollective.com/spyke,https://twitter.com/the_spyke,https://github.com/the-spyke,
+5760,,2017-07-25 21:55,USD,False,5,2017-07-25 21:55,BACKER,Backers,5,USER,https://opencollective.com/matthamil,https://twitter.com/_matthamil,,https://matthamil.me
+5883,,2017-08-02 17:48,USD,True,1,2017-08-02 17:48,BACKER,0,1,USER,https://opencollective.com/keplerwolsey,,,
+5885,Facebook,2017-08-02 18:36,USD,False,2,2019-01-02 05:07,BACKER,Backers,36,USER,https://opencollective.com/noahlemen,https://twitter.com/kedromelon,https://github.com/kedromelon,https://github.com/kedromelon
+5895,,2017-08-03 03:39,USD,False,5,2017-09-01 04:42,BACKER,Backers,10,USER,https://opencollective.com/hakimelek,,,https://malekhakim.me
+6211,,2017-08-23 09:47,USD,False,2,2018-06-02 05:09,BACKER,Backers,24,USER,https://opencollective.com/rgjamkhedkar,https://twitter.com/rgjamkhedkar,,https://twitter.com/rgjamkhedkar
+6231,,2017-08-24 18:32,USD,False,5,2018-09-01 05:09,BACKER,Backers,50,USER,https://opencollective.com/dagher_oss,https://twitter.com/danartgallagher,,
+6287,@microsoft,2017-08-29 17:47,USD,False,5,2018-05-02 05:06,BACKER,Backers,150,USER,https://opencollective.com/btholt,https://twitter.com/holtbt,,https://twitter.com/holtbt
+6288,,2017-08-29 18:14,USD,True,5,2024-08-01 00:02,BACKER,Backers,425,USER,https://opencollective.com/sebastiangfeller,,,
+6290,,2017-08-29 19:28,USD,False,5,2017-12-01 20:30,BACKER,Backers,25,USER,https://opencollective.com/felipedeamorim,https://twitter.com/whymclovin,,
+6291,StackShare,2017-08-29 19:34,USD,False,2,2019-08-01 05:23,BACKER,Backers,42,USER,https://opencollective.com/johnnyxbell,https://twitter.com/johnnyxbell,https://github.com/johnnyxbell,https://johnnybell.io
+6294,,2017-08-29 19:48,USD,True,250,2022-07-01 01:01,BACKER,0,22750,ORGANIZATION,https://opencollective.com/webflow,https://twitter.com/webflowapp,,https://webflow.com
+6295,,2017-08-29 20:38,USD,True,2,2024-08-01 01:00,BACKER,Backers,170,USER,https://opencollective.com/aghreed,,,
+6337,,2017-09-01 17:02,USD,False,2,2020-04-03 05:08,BACKER,Backers,64,USER,https://opencollective.com/hozefaj,https://twitter.com/HozefaJ,,
+6342,,2017-09-01 22:34,USD,False,5,2022-10-01 05:15,BACKER,Backers,315,USER,https://opencollective.com/jdinhify,,,
+6360,,2017-09-03 18:48,USD,False,2,2018-02-01 19:48,BACKER,Backers,12,USER,https://opencollective.com/rosswarren4,https://twitter.com/Ross_Warren,,https://twitter.com/Ross_Warren
+6597,BeerStorm,2017-09-10 11:25,USD,False,2,2019-07-02 05:04,BACKER,Backers,46,USER,https://opencollective.com/zeusbaba,https://twitter.com/guleryuz,,https://www.beerstorm.net
+6649,,2017-09-12 15:16,USD,False,50,2017-11-01 16:22,BACKER,Backers,150,USER,https://opencollective.com/christopherlloyd,https://twitter.com/chrislloyd,,https://twitter.com/chrislloyd
+6690,,2017-09-13 08:48,USD,False,2,2017-09-13 08:48,BACKER,Backers,2,USER,https://opencollective.com/sebastiandedeyne,https://twitter.com/sebdedeyne,,https://sebastiandedeyne.com
+6733,,2017-09-15 00:16,USD,False,500,2021-12-01 00:12,BACKER,Bronze Sponsors,23250,ORGANIZATION,https://opencollective.com/bitmex,https://twitter.com/BitMEXdotcom,https://github.com/bitmex,https://www.bitmex.com
+6798,,2017-09-15 15:45,USD,False,5,2018-08-02 05:07,BACKER,Backers,60,USER,https://opencollective.com/userdima,,,https://kabbi.github.io/
+6803,,2017-09-15 17:22,USD,False,25,2018-09-02 05:11,BACKER,Backers,325,USER,https://opencollective.com/oz,https://twitter.com/Oztune,,https://twitter.com/Oztune
+6806,,2017-09-15 18:55,USD,False,5,2019-07-02 05:04,BACKER,Backers,115,USER,https://opencollective.com/msfragala,,,
+6867,,2017-09-19 19:01,USD,True,3700,2017-09-19 19:01,BACKER,0,3700,ORGANIZATION,https://opencollective.com/google,https://twitter.com/googleoss,https://github.com/google,https://opensource.google
+6960,,2017-09-22 17:32,USD,False,10,2017-09-22 17:34,BACKER,Backers,12,USER,https://opencollective.com/helper2424,,,
+6993,,2017-09-24 14:02,USD,False,10,2021-09-01 14:14,BACKER,Backers,470,USER,https://opencollective.com/jessekochis,https://twitter.com/jkochis,,https://twitter.com/jkochis
+7010,,2017-09-25 20:10,USD,True,5,2024-08-01 01:02,BACKER,Backers,378,USER,https://opencollective.com/sumorai,,,
+7038,,2017-09-27 03:35,USD,False,10,2018-03-02 23:16,BACKER,Backers,70,USER,https://opencollective.com/justinanastos,,,https://justinanastos.github.io
+7048,,2017-09-27 16:11,USD,True,2,2024-08-01 02:01,BACKER,Backers,168,USER,https://opencollective.com/outsideris,https://twitter.com/Outsideris,https://github.com/outsideris,https://twitter.com/Outsideris
+7073,,2017-09-28 14:20,USD,False,100,2018-03-02 23:16,BACKER,Bronze Sponsors,700,ORGANIZATION,https://opencollective.com/strikingly,,,https://www.sxl.cn/s/careers?ref=wp
+7093,,2017-09-29 23:56,USD,False,5,2021-10-01 02:10,BACKER,Backers,200,USER,https://opencollective.com/novascreen,,,
+7488,,2017-10-10 01:56,USD,False,100,2018-09-01 05:07,BACKER,Bronze Sponsors,1200,ORGANIZATION,https://opencollective.com/rollbar,https://twitter.com/rollbar,,https://rollbar.com
+7886,,2017-10-17 00:49,USD,False,5,2023-09-01 01:01,BACKER,Backers,360,ORGANIZATION,https://opencollective.com/domainr,https://twitter.com/domainr,,https://domainr.com
+7896,,2017-10-17 02:24,USD,False,5,2019-02-01 05:12,BACKER,Backers,85,USER,https://opencollective.com/miljan,,,
+8038,,2017-10-20 13:12,USD,False,25,2020-02-02 05:08,BACKER,Backers,725,ORGANIZATION,https://opencollective.com/sebastiansoft,https://twitter.com/sebastiansoft,,https://sebastian-software.de/
+8067,,2017-10-22 14:14,USD,False,2,2019-05-02 05:07,BACKER,Backers,40,USER,https://opencollective.com/kaspertontti,,,https://kaspertontti.fi
+8203,,2017-10-25 16:53,USD,False,5,2018-05-02 05:02,BACKER,Backers,40,USER,https://opencollective.com/adamthomann,https://twitter.com/adamthomann,,https://twitter.com/adamthomann
+8245,@_brainly_,2017-10-26 13:50,USD,True,25,2017-10-26 13:50,BACKER,0,25,USER,https://opencollective.com/brainly,,,https://Brainly.com
+8263,,2017-10-26 23:08,USD,False,5000,2021-05-11 00:13,BACKER,Gold Sponsors,34000,FUND,https://opencollective.com/fbopensource,https://twitter.com/MetaOpenSource,https://github.com/facebook,https://opensource.facebook.com/
+8313,,2017-10-29 05:48,USD,False,2,2019-03-01 05:12,BACKER,Backers,30,USER,https://opencollective.com/binkpitch,,https://github.com/binkpitch,https://github.com/binkpitch
+8392,,2017-10-30 14:23,USD,False,3,2024-01-01 00:03,BACKER,Backers,228,USER,https://opencollective.com/alopezsanchez,https://twitter.com/aristalex,https://github.com/alopezanchez,https://alopezsanchez.com
+8735,,2017-11-02 12:27,USD,True,10,2017-11-02 12:27,BACKER,0,10,ORGANIZATION,https://opencollective.com/bitsol-technologies,,,https://bitsol.tech
+8892,,2017-11-06 09:03,USD,False,25,2018-10-07 05:01,BACKER,Backers,300,USER,https://opencollective.com/usef_ksa,https://twitter.com/usef_ksa,,https://haraj.com.sa
+8934,,2017-11-08 03:11,USD,True,2,2024-08-01 04:00,BACKER,Backers,164,ORGANIZATION,https://opencollective.com/ligr-systems1,,,
+9029,,2017-11-10 21:02,USD,False,25,2018-04-02 17:31,BACKER,Backers,150,USER,https://opencollective.com/joshuawiens,https://twitter.com/d3viant0ne,,https://deviantjs.io/
+9210,,2017-11-18 12:33,USD,False,2,2021-09-01 09:17,BACKER,Backers,94,ORGANIZATION,https://opencollective.com/laggedgames,https://twitter.com/laggedgames,,https://lagged.com
+9214,,2017-11-18 19:58,USD,False,10,2018-10-01 05:19,BACKER,Bronze Sponsors,300,ORGANIZATION,https://opencollective.com/alligatorio,https://twitter.com/alligatorio,,https://alligator.io
+9226,,2017-11-19 13:29,USD,False,5,2023-03-01 00:10,BACKER,Backers,325,USER,https://opencollective.com/jonpearse,,,
+9232,@triplemint,2017-11-19 19:34,USD,False,5,2019-10-02 05:06,BACKER,Backers,120,USER,https://opencollective.com/jarrodldavis,https://twitter.com/ahylianhuman,https://github.com/jarrodldavis,https://jarrodldavis.com/
+9296,@famebot,2017-11-21 00:50,USD,False,5,2018-08-01 05:06,BACKER,Backers,50,USER,https://opencollective.com/ricky,https://twitter.com/famebot,https://github.com/rdela,https://rdela.com
+9402,,2017-11-23 14:59,USD,False,2,2019-08-02 05:04,BACKER,Backers,44,USER,https://opencollective.com/andykenward,https://twitter.com/andykenward,,https://andykenward.com
+9445,,2017-11-26 12:46,USD,False,25,2017-11-26 12:46,BACKER,Backers,25,ORGANIZATION,https://opencollective.com/crazygamescom1,https://twitter.com/crazyGamesCom,,https://www.crazygames.com
+9472,,2017-11-27 14:52,USD,False,2,2018-03-02 22:48,BACKER,Backers,10,USER,https://opencollective.com/frost555,,,
+9523,@drivindealer,2017-11-28 17:13,USD,False,2,2019-04-02 05:11,BACKER,Backers,36,USER,https://opencollective.com/dandigangi,https://twitter.com/dandigangi,https://github.com/dandigangi,
+9570,,2017-11-30 11:37,USD,False,2,2019-02-01 14:23,BACKER,Backers,32,USER,https://opencollective.com/darrenscerri,https://twitter.com/darrenscerri,,
+9594,,2017-12-01 07:34,USD,False,5,2019-09-01 05:32,BACKER,Backers,135,USER,https://opencollective.com/jaysoifer,https://twitter.com/jaysoifer,,https://jonathansoifer.com
+9603,,2017-12-01 12:14,USD,False,5,2020-04-02 05:28,BACKER,Backers,79,USER,https://opencollective.com/tamouse1,https://twitter.com/tamouse,,https://www.tamouse.org
+10547,,2017-12-12 18:05,USD,False,100,2017-12-12 18:05,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/keycdn,https://twitter.com/keycdn,,https://www.keycdn.com
+10587,,2017-12-13 17:44,USD,False,5,2020-12-01 18:07,BACKER,Backers,149,USER,https://opencollective.com/philippeleger,https://twitter.com/phil_lgr,https://github.com/phil-lgr,https://github.com/phil-lgr
+10863,,2017-12-22 17:47,USD,True,50,2017-12-22 17:47,BACKER,0,50,ORGANIZATION,https://opencollective.com/mixmax,https://twitter.com/Mixmax,https://github.com/mixmaxhq,https://mixmax.com
+10995,,2017-12-28 18:49,USD,True,2,2024-08-01 00:02,BACKER,Backers,162,USER,https://opencollective.com/abramz,,,
+11008,,2017-12-29 16:51,USD,True,2,2018-01-01 17:54,BACKER,0,14,USER,https://opencollective.com/darahak,https://twitter.com/Akasuna,https://github.com/darahak,https://twitter.com/akasuna
+11009,@opencollective,2017-12-29 16:51,USD,True,50,2017-12-31 08:04,BACKER,0,642,USER,https://opencollective.com/xdamman,https://twitter.com/xdamman,https://github.com/xdamman,https://twitter.com/xdamman
+11012,,2017-12-29 17:39,USD,True,10,2017-12-29 17:39,BACKER,0,10,USER,https://opencollective.com/mikeplis,https://twitter.com/mikeplis,,
+11016,,2017-12-29 23:20,USD,True,5,2019-11-01 14:08,BACKER,0,160,USER,https://opencollective.com/syke,https://twitter.com/syke,,
+11024,,2017-12-30 12:52,USD,True,10,2018-04-06 21:54,BACKER,0,20,USER,https://opencollective.com/dortzur,https://twitter.com/dortzur,,https://thefullstack.xyz
+11026,,2017-12-30 15:04,USD,True,10,2017-12-30 15:04,BACKER,0,10,USER,https://opencollective.com/gustavorssilva,https://twitter.com/GustavoRSSilva,,https://gustavorssilva.com
+11028,,2017-12-30 15:15,USD,True,100,2017-12-30 15:15,BACKER,0,100,USER,https://opencollective.com/threadelric,https://twitter.com/threadelric,,
+11036,laststance,2017-12-30 17:33,USD,True,2,2019-01-01 05:19,BACKER,0,50,USER,https://opencollective.com/laststance,,https://github.com/laststance,https://laststance.io/
+11040,,2017-12-30 18:31,USD,True,50,2017-12-30 18:31,BACKER,0,50,USER,https://opencollective.com/kayvan_,https://twitter.com/kayvan_,,
+11049,,2017-12-31 08:04,USD,True,2,2021-03-01 10:04,BACKER,0,100,USER,https://opencollective.com/mbaroukh,https://twitter.com/mbaroukh,,
+11083,,2018-01-02 13:41,USD,False,15,2019-05-02 05:01,BACKER,Backers,255,USER,https://opencollective.com/atvilelas,https://twitter.com/atvilelas,,
+11084,,2018-01-02 00:00,USD,False,250,2020-09-01 08:21,BACKER,Bronze Sponsors,8500,ORGANIZATION,https://opencollective.com/eggheadio,https://twitter.com/eggheadio,,https://egghead.io
+11093,,2018-01-02 17:42,USD,False,2,2020-10-01 08:07,BACKER,Backers,68,USER,https://opencollective.com/macdonst,https://twitter.com/macdonst,,https://simonmacdonald.com
+11105,@GrubHub,2018-01-03 02:05,USD,False,5,2018-05-01 05:07,BACKER,Backers,25,USER,https://opencollective.com/kcolton,https://twitter.com/ken_colton,https://github.com/kcolton,https://kencolton.com
+11185,,2018-01-05 04:10,USD,False,2,2019-01-01 05:11,BACKER,Backers,26,USER,https://opencollective.com/adamyonk,https://twitter.com/adamyonk,https://github.com/adamyonk,https://twitter.com/adamyonk
+11236,多会,2018-01-06 10:39,USD,False,2,2018-08-02 05:13,BACKER,Backers,16,ORGANIZATION,https://opencollective.com/duohui,,,https://www.duohui.cn
+11249,,2018-01-07 21:32,USD,False,2,2018-04-02 17:29,BACKER,Backers,8,USER,https://opencollective.com/alejandroortiz,https://twitter.com/alejandronanez,,https://co.linkedin.com/in/alejandronanez/
+11353,,2018-01-11 05:21,USD,False,2,2018-01-11 05:21,BACKER,Backers,2,ORGANIZATION,https://opencollective.com/duotai,,,https://www.duotai.net
+11405,,2018-01-12 17:27,USD,False,2,2020-02-09 05:01,BACKER,Backers,52,USER,https://opencollective.com/cpinnix89,https://twitter.com/cpinnix,,https://twitter.com/cpinnix
+11482,,2018-01-15 10:54,USD,False,10,2018-01-15 10:54,BACKER,Backers,20,ORGANIZATION,https://opencollective.com/intreba-bv,,,https://www.intreba.nl
+11495,,2018-01-15 21:17,USD,False,10,2018-09-02 05:04,BACKER,Backers,90,USER,https://opencollective.com/probablyup,https://twitter.com/probablyup,https://github.com/probablyup,https://probablyup.com/
+11989,,2018-01-28 12:32,USD,False,2,2018-08-02 05:15,BACKER,Backers,16,USER,https://opencollective.com/andormade,https://twitter.com/andormade,https://github.com/andormade,https://andor.cool
+12066,,2018-01-30 22:46,USD,False,5,2023-09-01 00:04,BACKER,Backers,345,USER,https://opencollective.com/gilbarbara,https://twitter.com/gilbarbara,https://github.com/gilbarbara,https://gilbarbara.dev/
+12095,,2018-01-31 19:31,USD,True,10,2018-01-31 19:31,BACKER,0,10,USER,https://opencollective.com/nathankamm,https://twitter.com/NathanKamm,,
+12242,,2018-02-05 21:58,USD,False,2,2022-09-01 15:20,BACKER,Backers,112,USER,https://opencollective.com/horrortropics,https://twitter.com/horrortropics,,https://horrorandtropics.com
+12248,,2018-02-06 05:31,USD,False,15,2019-12-02 05:06,BACKER,Backers,285,USER,https://opencollective.com/psychollama,,https://github.com/PsychoLlama,https://PsychoLlama.io
+12358,,2018-02-07 20:38,USD,False,-1000,2019-02-07 20:57,BACKER,Bronze Sponsors,9500,FUND,https://opencollective.com/coinbase,https://twitter.com/coinbase,https://github.com/coinbase,https://blog.coinbase.com/engineering-and-security/home
+12382,,2018-02-07 23:55,USD,False,1,2022-04-01 16:01,BACKER,Backers,65,USER,https://opencollective.com/danoc,https://twitter.com/_danoc,https://github.com/danoc,https://danoc.me/
+12394,,2018-02-08 02:57,USD,True,-10000,2018-11-24 03:17,CONTRIBUTOR,0,0,USER,https://opencollective.com/loganfsmyth,https://twitter.com/loganfsmyth,,https://logansmyth.com
+12512,,2018-02-10 02:54,USD,True,25,2018-11-01 05:15,BACKER,0,250,ORGANIZATION,https://opencollective.com/codepilotai,https://twitter.com/codepilotai,https://github.com/CodePilotai/codepilot,https://codepilot.ai
+12568,,2018-02-12 02:41,USD,False,50,2018-02-12 02:41,BACKER,Backers,50,USER,https://opencollective.com/anonymous181,,,
+12581,StakeTree,2018-02-12 11:40,USD,False,2,2018-09-01 05:08,BACKER,Backers,16,USER,https://opencollective.com/nieldlr,https://twitter.com/nieldlr,,https://nieldlr.com
+12587,,2018-02-12 19:58,USD,True,2,2024-08-01 05:01,BACKER,Backers,158,USER,https://opencollective.com/allison-ferraiolo,,,
+12758,,2018-02-15 16:43,USD,False,198,2019-09-30 11:51,BACKER,Backers,398,ORGANIZATION,https://opencollective.com/matterstech,https://twitter.com/matterstech,,https://matters.tech
+12772,,2018-02-15 21:58,USD,False,2,2019-03-04 05:01,BACKER,Backers,28,USER,https://opencollective.com/michaelmelanson,https://twitter.com/michaelmelanson,https://github.com/michaelmelanson,https://www.michaelmelanson.net
+12812,,2018-02-16 17:44,USD,True,1,2024-08-01 02:02,BACKER,Backers,205,USER,https://opencollective.com/anonymous191,,,
+12814,,2018-02-16 20:23,USD,False,2,2018-05-01 05:09,BACKER,Backers,8,USER,https://opencollective.com/philr,https://twitter.com/phil_rukin,,https://rukin.me
+12828,,2018-02-17 08:18,USD,False,2,2018-06-01 05:05,BACKER,Backers,10,USER,https://opencollective.com/antonmoiseev,https://twitter.com/antonmoiseev,https://github.com/antonmoieev,https://antonmoiseev.com
+12879,,2018-02-18 19:51,USD,False,5,2022-02-01 14:02,BACKER,Backers,61,USER,https://opencollective.com/alinnert,https://twitter.com/linnert_web,https://github.com/alinnert,https://linnertmedia.de
+12971,ProductReview.com.au,2018-02-20 21:32,USD,False,10,2020-01-03 05:04,BACKER,Backers,240,USER,https://opencollective.com/eliseu,https://twitter.com/eliseumds,,https://medium.com/@eliseumds
+13055,babel / webpack,2018-02-22 17:37,USD,True,-985.55,2019-06-14 05:28,CONTRIBUTOR,0,0,USER,https://opencollective.com/sven-sauleau,https://twitter.com/svensauleau,https://github.com/xtuc,https://sauleau.com
+13139,,2018-02-24 20:53,USD,False,2,2018-05-01 05:09,BACKER,Backers,8,ORGANIZATION,https://opencollective.com/usehenri1,https://twitter.com/usehenri,,https://usehenri.io
+13196,,2018-02-26 11:53,USD,True,25,2018-02-26 11:53,BACKER,0,25,USER,https://opencollective.com/tin-ching-yuen,,,https://timching.site
+13201,,2018-02-26 13:03,USD,False,5,2021-06-01 16:10,BACKER,Backers,390,USER,https://opencollective.com/mqklin,,,
+13209,,2018-02-26 14:03,USD,True,5,2024-08-01 01:01,BACKER,Backers,395,USER,https://opencollective.com/david-ang,,,https://www.programmingmind.com
+13466,,2018-03-03 15:45,USD,False,100,2018-03-03 15:45,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/dontpayfull,https://twitter.com/DontPayFull,,https://www.dontpayfull.com
+13469,,2018-03-03 17:23,USD,False,5,2022-11-09 11:21,BACKER,Backers,216,USER,https://opencollective.com/cometkim,https://twitter.com/KrComet,https://github.com/cometkim,https://blog.cometkim.kr
+13525,,2018-03-05 14:41,USD,False,5,2019-04-01 05:13,BACKER,Backers,70,USER,https://opencollective.com/justinobney,https://twitter.com/justinobney,,
+13601,,2018-03-07 14:54,USD,False,2,2023-02-01 00:09,BACKER,Backers,120,USER,https://opencollective.com/hankandre,https://twitter.com/hankandre,,https://twitter.com/hankandre
+13609,,2018-03-07 17:21,USD,False,100,2018-03-07 17:21,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/anonymous239,,,
+13776,,2018-03-11 13:41,USD,False,2,2020-08-03 05:11,BACKER,Backers,60,USER,https://opencollective.com/theo-salzmann,,https://github.com/on3iro,https://github.com/on3iro
+13830,@Basilcom,2018-03-12 14:43,USD,False,2,2018-05-01 05:12,BACKER,Backers,6,USER,https://opencollective.com/philipjohnbasile,https://twitter.com/PhilipJBasile,https://github.com/PhilipJohnBasile,https://github.com/PhilipJohnBasile
+14266,,2018-03-24 14:40,USD,False,2,2018-07-01 05:04,BACKER,Backers,10,USER,https://opencollective.com/anonymous291,,,
+14354,,2018-03-25 16:50,USD,False,2,2019-04-01 05:14,BACKER,Backers,28,USER,https://opencollective.com/eatyrghost,https://twitter.com/eatyrghost,https://github.com/eatyrghost,https://twitter.com/eatyrghost
+14532,,2018-03-29 10:12,USD,False,10,2019-02-01 05:16,BACKER,Backers,120,USER,https://opencollective.com/littledan,https://twitter.com/littledan,,
+14614,,2018-04-01 23:19,USD,False,15,2020-04-01 05:18,BACKER,Backers,265,USER,https://opencollective.com/dsgkirkby,https://twitter.com/dsgkirkby,https://github.com/dsgkirkby,https://github.com/dsgkirkby
+14639,,2018-04-02 18:43,USD,False,100,2018-08-01 05:06,BACKER,Bronze Sponsors,500,ORGANIZATION,https://opencollective.com/codeinwp,https://twitter.com/codeinwp,,https://www.codeinwp.com/blog/
+14728,@babel,2018-04-04 18:37,USD,True,-6000,2021-12-16 22:25,CONTRIBUTOR,0,0,USER,https://opencollective.com/left_pad,https://twitter.com/left_pad,https://github.com/hzoo,https://www.henryzoo.com
+15009,,2018-04-14 00:03,USD,False,100,2020-01-02 05:09,BACKER,Bronze Sponsors,2200,ORGANIZATION,https://opencollective.com/tipe,https://twitter.com/TipeIO,https://github.com/tipeio,https://tipe.io?ref=opencollective
+15065,,2018-04-16 14:17,USD,False,100,2018-06-01 05:06,BACKER,Bronze Sponsors,300,USER,https://opencollective.com/yvoschaap,https://twitter.com/yvoschaap,,https://yvoschaap.com/
+15162,,2018-04-17 18:37,USD,False,2,2018-12-01 05:18,BACKER,Backers,18,USER,https://opencollective.com/willowdog,https://twitter.com/willowdog,,
+15255,,2018-04-19 16:02,USD,False,2,2020-08-02 05:03,BACKER,Backers,58,ORGANIZATION,https://opencollective.com/gurugate,https://twitter.com/gurugate,,https://www.gurugate.com
+15322,,2018-04-21 08:10,USD,False,5,2018-12-01 05:09,BACKER,Bronze Sponsors,620,ORGANIZATION,https://opencollective.com/restpack,https://twitter.com/restpackio,,https://restpack.io/?utm_source=opencollective&utm_medium=sponsor&utm_campaign=link
+15338,,2018-04-22 00:37,USD,False,2,2021-08-02 01:08,BACKER,Backers,82,USER,https://opencollective.com/menocomp,,,
+15356,,2018-04-23 04:12,USD,True,2,2024-08-01 00:02,BACKER,Backers,154,USER,https://opencollective.com/anonymous412,,,
+15565,,2018-04-25 14:14,USD,False,2,2020-05-02 10:43,BACKER,Backers,52,USER,https://opencollective.com/akameco,https://twitter.com/akameco,https://github.com/akameco,https://github.com/akameco
+15663,@babel,2018-04-27 17:51,USD,True,-6000,2022-07-28 14:26,CONTRIBUTOR,0,0,USER,https://opencollective.com/nicoloribaudo,https://twitter.com/NicoloRibaudo,https://github.com/nicolo-ribaudo,
+15765,,2018-04-30 20:08,USD,False,10,2019-08-01 05:09,BACKER,Backers,170,USER,https://opencollective.com/codingitwrong,https://twitter.com/CodingItWrong,,https://twitter.com/CodingItWrong
+15851,,2018-05-02 15:18,USD,False,10,2018-07-01 05:12,BACKER,Backers,70,ORGANIZATION,https://opencollective.com/bmqb,,,https://www.bmqb.com/a/jobs
+15975,,2018-05-04 00:00,USD,True,517,2019-12-19 11:13,BACKER,0,1717,ORGANIZATION,https://opencollective.com/algolia,https://twitter.com/algolia,https://github.com/algolia,https://algolia.com
+16308,,2018-05-11 00:00,USD,False,12000,2018-05-11 14:15,BACKER,Base Support Sponsor,12000,ORGANIZATION,https://opencollective.com/adobe,https://twitter.com/adobe,https://github.com/adobe,https://adobe.com
+16329,The Greenhouse I/O,2018-05-11 21:57,USD,True,5,2024-07-30 11:23,BACKER,Backers,320,USER,https://opencollective.com/thegreenhouseio,https://twitter.com/thegreenhouseio,https://github.com/thescientist13,https://www.thegreenhouse.io/
+16436,"Sticker Mule Italy srl 
+Via Castiglione 28
+40124 BOLOGNA
+Italy
+VAT. 03412181202",2018-05-14 16:31,USD,True,352,2018-05-14 16:31,BACKER,0,352,ORGANIZATION,https://opencollective.com/unixstickers1,,,https://www.unixstickers.com/
+16574,,2018-05-15 19:35,USD,False,2,2019-10-01 05:37,BACKER,Backers,14,USER,https://opencollective.com/gangaraju4u,https://twitter.com/gangaraju4u,https://github.com/kamthamc,https://kchaitanya.com
+16787,,2018-05-20 16:14,USD,False,10,2019-07-01 05:10,BACKER,Backers,150,USER,https://opencollective.com/adamrackis,,,
+16817,,2018-05-21 14:55,USD,False,25,2019-02-01 05:18,BACKER,Backers,250,USER,https://opencollective.com/stevenpetryk,https://twitter.com/stevenpetryk,,
+16844,,2018-05-21 18:46,USD,True,1000,2024-07-01 13:01,BACKER,Gold Sponsors,75266,FUND,https://opencollective.com/salesforce,https://twitter.com/salesforce,https://github.com/salesforce,https://engineering.salesforce.com
+16890,,2018-05-23 05:28,USD,False,2,2018-07-01 05:11,BACKER,Backers,6,USER,https://opencollective.com/seth-sun,,,
+17139,,2018-05-29 15:13,USD,False,2,2018-09-01 05:18,BACKER,Backers,10,USER,https://opencollective.com/cangoektas,https://twitter.com/cangoektas,,
+17234,,2018-05-31 17:07,USD,True,10,2024-08-01 01:01,BACKER,Backers,760,ORGANIZATION,https://opencollective.com/waiterio,https://twitter.com/waiterio,,https://www.waiterio.com
+17401,,2018-06-04 12:51,USD,False,2,2019-01-01 05:18,BACKER,Backers,16,ORGANIZATION,https://opencollective.com/hostpresto1,https://twitter.com/hostpresto,,https://hostpresto.com
+17482,,2018-06-06 00:15,USD,False,2,2018-06-06 00:15,BACKER,Backers,2,USER,https://opencollective.com/veekas,https://twitter.com/veekas,,https://www.VeekasMeansProgress.com
+17748,,2018-06-12 08:27,USD,False,2,2020-01-03 05:11,BACKER,Backers,40,USER,https://opencollective.com/chenxsan,,https://github.com/chenxsan,
+17754,,2018-06-12 10:09,USD,False,1000,2018-08-04 05:01,BACKER,Gold Sponsors,3000,ORGANIZATION,https://opencollective.com/bit_src,https://twitter.com/bit_src,,https://bitsrc.io
+17851,,2018-06-14 06:27,USD,True,200,2018-06-14 06:27,BACKER,0,200,ORGANIZATION,https://opencollective.com/orbit,,,https://tryorbit.com
+17880,,2018-06-15 08:41,USD,True,10,2018-06-15 08:41,BACKER,0,10,USER,https://opencollective.com/anonymous693,,,
+18170,,2018-06-23 13:00,USD,False,5,2019-01-01 05:19,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/lambdatest,https://twitter.com/lambdatesting,https://github.com/lefou/LambdaTest,https://www.lambdatest.com/
+18271,,2018-06-27 00:03,USD,False,2,2018-11-01 05:26,BACKER,Backers,12,USER,https://opencollective.com/jtmthf,https://twitter.com/jtmthf,,
+18336,,2018-06-28 00:00,USD,True,1250,2018-06-28 10:14,BACKER,0,1250,ORGANIZATION,https://opencollective.com/bcgdv,https://twitter.com/bcgdv,,https://www.bcgdv.com
+18536,,2018-07-04 13:09,USD,False,2,2018-08-01 05:07,BACKER,Backers,4,USER,https://opencollective.com/dykrai-mongu,,,
+19129,,2018-07-19 09:40,USD,False,1000,2018-12-01 05:24,BACKER,Gold Sponsors,9500,FUND,https://opencollective.com/coinbase,https://twitter.com/coinbase,https://github.com/coinbase,https://blog.coinbase.com/engineering-and-security/home
+19349,,2018-07-24 18:10,USD,False,2,2020-01-02 05:21,BACKER,Backers,38,USER,https://opencollective.com/jeffrey-johnson,,,
+19776,,2018-08-01 06:17,USD,False,2,2021-01-04 10:14,BACKER,Backers,60,USER,https://opencollective.com/toonitw,https://twitter.com/toonitw,,
+19849,,2018-08-02 08:37,USD,False,4,2021-08-01 03:17,BACKER,Backers,148,USER,https://opencollective.com/m-allanson,,https://github.com/m-allanson,
+20120,,2018-08-08 18:09,USD,True,10,2018-08-08 18:09,BACKER,0,10,USER,https://opencollective.com/dinakartumu,https://twitter.com/dinakar91,,https://tumudinakar.com/
+20123,,2018-08-08 18:26,USD,False,10,2019-06-01 05:04,BACKER,Backers,110,USER,https://opencollective.com/eurekazhu,https://twitter.com/EurekaZhu,https://github.com/zhujinxuan,https://github.com/zhujinxuan
+20131,,2018-08-08 19:26,USD,False,24000,2019-11-30 09:27,BACKER,Base Support Sponsor,48000,ORGANIZATION,https://opencollective.com/trivago,https://twitter.com/trivago_tech,,https://tech.trivago.com/opensource
+20382,,2018-08-13 07:24,USD,True,5,2024-08-01 01:01,BACKER,Backers,365,USER,https://opencollective.com/cantremember,https://twitter.com/cantremember,,https://cantremember.com
+20699,,2018-08-16 16:08,USD,False,10000,2019-05-01 05:06,BACKER,Gold Sponsors,100000,ORGANIZATION,https://opencollective.com/handshake,,,https://handshake.org/
+20735,,2018-08-17 00:28,USD,False,2,2018-08-17 00:28,BACKER,Backers,2,ORGANIZATION,https://opencollective.com/scraperapi2,https://twitter.com/scraperapi2,,https://www.scraperapi.com
+20812,@CodeSandbox,2018-08-17 21:06,USD,False,2,2019-05-01 05:01,BACKER,Backers,20,USER,https://opencollective.com/matchai,https://twitter.com/matchai,https://github.com/matchai,https://matchai.me
+20818,,2018-08-17 22:28,USD,False,5,2019-06-01 05:01,BACKER,Backers,55,USER,https://opencollective.com/meyerini,https://twitter.com/Meyerini,,
+20835,,2018-08-18 13:31,USD,False,2,2020-12-02 01:08,BACKER,Backers,58,USER,https://opencollective.com/trevwaddell,https://twitter.com/trevwaddell,,
+20845,,2018-08-18 16:31,USD,False,5,2019-01-01 05:03,BACKER,Backers,30,USER,https://opencollective.com/philippspiess,https://twitter.com/PhilippSpiess,,
+20854,,2018-08-18 19:33,USD,False,500,2021-11-01 07:16,BACKER,Silver Sponsors,23250,ORGANIZATION,https://opencollective.com/bitmex,https://twitter.com/BitMEXdotcom,https://github.com/bitmex,https://www.bitmex.com
+20926,,2018-08-20 20:35,USD,True,10,2019-07-01 05:10,CONTRIBUTOR,0,170,USER,https://opencollective.com/codingitwrong,https://twitter.com/CodingItWrong,,https://twitter.com/CodingItWrong
+20929,,2018-08-20 20:52,USD,True,2,2024-08-01 02:01,BACKER,Backers,146,USER,https://opencollective.com/shunfan,,,
+20972,,2018-08-21 20:23,USD,False,2,2022-01-05 09:11,BACKER,Backers,84,ORGANIZATION,https://opencollective.com/matter_hq,https://twitter.com/matterapp,,https://matterapp.com
+21204,,2018-08-26 12:39,USD,False,2,2018-08-26 12:39,BACKER,Backers,2,ORGANIZATION,https://opencollective.com/unhype,https://twitter.com/unhypedotcom,,https://unhype.com
+21276,,2018-08-28 01:57,USD,False,3,2021-06-01 12:14,BACKER,Backers,143,USER,https://opencollective.com/anonymous638,,,
+21278,,2018-08-28 04:07,USD,False,2,2019-02-01 05:08,BACKER,Backers,14,USER,https://opencollective.com/spalger,https://twitter.com/spalger,,https://twitter.com/spalger
+21279,,2018-08-28 06:08,USD,False,2,2019-03-01 05:07,BACKER,Backers,16,USER,https://opencollective.com/wkillerud,,https://github.com/wkillerud,
+21287,,2018-08-28 10:00,USD,False,2,2019-05-01 05:05,BACKER,Backers,20,USER,https://opencollective.com/_zwb,https://twitter.com/_zwb,,
+21301,,2018-08-28 13:33,USD,False,2,2019-01-01 05:08,BACKER,Backers,14,USER,https://opencollective.com/aymericbeaumet,,https://github.com/aymericbeaumet,https://aymericbeaumet.com
+21305,,2018-08-28 14:36,USD,True,20,2019-11-04 20:14,BACKER,0,30,USER,https://opencollective.com/eric-plaquevent,,,
+21310,,2018-08-28 16:12,USD,False,2,2019-02-01 05:09,BACKER,Backers,14,USER,https://opencollective.com/greg-crossfield,,https://github.com/gcrosfield,
+21377,,2018-08-29 19:46,USD,True,20,2018-08-29 19:46,BACKER,0,20,USER,https://opencollective.com/rendez,https://twitter.com/Rendez,,https://www.luismerino.name/
+21393,,2018-08-30 07:47,USD,False,2,2018-09-01 05:05,BACKER,Backers,4,ORGANIZATION,https://opencollective.com/smartcode,https://twitter.com/ricombination,,https://smartcode.ch
+21638,,2018-09-01 05:41,USD,False,2,2019-12-02 05:06,BACKER,Backers,32,USER,https://opencollective.com/patrice-sandhu,,,
+21884,,2018-09-05 12:36,USD,False,5,2018-11-01 05:10,BACKER,Backers,620,ORGANIZATION,https://opencollective.com/restpack,https://twitter.com/restpackio,,https://restpack.io/?utm_source=opencollective&utm_medium=sponsor&utm_campaign=link
+22083,Poplatek Oy,2018-09-09 07:09,USD,False,1,2020-01-02 05:08,BACKER,Backers,23,USER,https://opencollective.com/petjato,https://twitter.com/petjato,https://github.com/petja,https://petja.me/
+22218,,2018-09-11 21:25,USD,False,50,2024-01-01 23:02,BACKER,Backers,365,USER,https://opencollective.com/dan-aprahamian,,https://github.com/daprahamian,https://github.com/daprahamian
+22280,,2018-09-12 18:14,USD,True,5,2024-08-01 02:01,BACKER,Backers,243,USER,https://opencollective.com/znarf,https://twitter.com/znarf,https://github.com/znarf,https://francois.hodierne.net/
+22311,,2018-09-13 12:56,USD,True,2,2024-08-01 01:01,BACKER,Backers,144,USER,https://opencollective.com/tikitariki,https://twitter.com/tikitariki,,https://tarikhamilton.com
+22316,,2018-09-13 13:38,USD,False,2,2018-10-01 05:04,BACKER,Backers,4,USER,https://opencollective.com/heyfusco,https://twitter.com/heyfusco,https://github.com/joephfusco,https://josephfus.co
+22395,,2018-09-15 00:23,USD,False,5,2023-10-01 01:04,BACKER,Backers,298,USER,https://opencollective.com/blacksheepcode,https://twitter.com/blacksheepcode,https://github.com/dwjohnston,https://blacksheepcode.com
+22486,,2018-09-17 03:15,USD,True,10,2018-09-17 03:15,BACKER,0,10,USER,https://opencollective.com/cmckni3,https://twitter.com/cmckni3,,
+22787,,2018-09-21 18:18,USD,True,50,2018-09-21 18:18,BACKER,0,50,USER,https://opencollective.com/maximiliano-castro,,,
+22817,,2018-09-21 20:51,USD,False,2,2018-12-01 05:22,BACKER,Backers,8,USER,https://opencollective.com/wensheng-chen,,,
+22828,,2018-09-21 23:50,USD,False,10,2018-12-01 05:01,BACKER,Backers,40,USER,https://opencollective.com/david-park,,,
+22829,,2018-09-22 00:01,USD,False,2,2018-12-01 05:01,BACKER,Backers,8,USER,https://opencollective.com/zcs,,,
+22857,,2018-09-23 00:18,USD,False,5,2020-12-01 12:07,BACKER,Backers,140,ORGANIZATION,https://opencollective.com/transmutableco,https://twitter.com/transmutableco,,https://transmutable.com/
+22921,,2018-09-24 15:40,USD,False,2,2018-11-01 05:06,BACKER,Backers,6,USER,https://opencollective.com/marksandmarker,,,https://www.givemedeals.com
+23010,,2018-09-25 19:12,USD,False,100,2018-09-25 19:12,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/spencer-brown,,,
+23021,,2018-09-25 19:42,USD,True,50,2018-09-25 19:42,BACKER,0,50,USER,https://opencollective.com/migolo,https://twitter.com/migolo,https://github.com/migolo,https://twitter.com/migolo
+23155,,2018-09-27 20:34,USD,True,100,2018-09-27 20:34,BACKER,0,100,USER,https://opencollective.com/greg-beaver,,,
+23226,,2018-09-29 09:29,USD,False,5,2021-02-01 02:14,BACKER,Backers,130,USER,https://opencollective.com/ric-lavers,,,https://riclavers.com
+23246,,2018-09-29 18:26,USD,False,25,2018-09-29 18:26,BACKER,Backers,25,USER,https://opencollective.com/alex-zaslavsky,,,
+23821,,2018-10-09 16:45,USD,False,50,2018-10-09 16:45,BACKER,Backers,50,USER,https://opencollective.com/simon-zhang,,,
+23890,,2018-10-10 19:19,USD,True,400,2018-10-10 19:19,BACKER,0,400,ORGANIZATION,https://opencollective.com/manifold1,,,https://manifold.co
+24161,,2018-10-13 10:10,USD,False,2,2018-10-13 10:10,BACKER,Backers,2,ORGANIZATION,https://opencollective.com/jjj,https://twitter.com/d,,https://oc.berrynodes.com
+24323,,2018-10-15 17:38,USD,True,25,2018-10-15 17:38,BACKER,0,25,USER,https://opencollective.com/taylor-edwards,,,
+24427,,2018-10-16 20:59,USD,False,2,2019-01-01 05:25,BACKER,Backers,8,USER,https://opencollective.com/yi-hsiang-kao,,,
+24536,,2018-10-18 17:47,USD,True,100,2018-10-18 17:47,BACKER,0,100,USER,https://opencollective.com/caroline-roig-irwin,,,
+24557,,2018-10-18 23:45,USD,False,1000,2020-07-02 05:07,BACKER,Gold Sponsors,22000,ORGANIZATION,https://opencollective.com/runkitdev,https://twitter.com/runkitdev,,https://runkit.com
+24641,,2018-10-20 17:08,USD,True,100,2018-10-20 17:08,BACKER,0,100,USER,https://opencollective.com/dan-hipschman,,,
+24779,,2018-10-23 05:30,USD,True,100,2018-10-23 05:30,BACKER,0,100,USER,https://opencollective.com/xiang-wang,,,
+24867,,2018-10-23 20:32,USD,False,500,2019-02-01 05:05,BACKER,Silver Sponsors,2500,ORGANIZATION,https://opencollective.com/faithlife,https://twitter.com/faithlife,https://github.com/faithlife,https://faithlife.com/ref/about
+24869,,2018-10-23 20:39,USD,False,10,2020-10-01 05:13,BACKER,Backers,250,USER,https://opencollective.com/cfreemancode,,,
+25047,,2018-10-26 18:03,USD,False,2,2019-01-01 05:25,BACKER,Backers,8,USER,https://opencollective.com/benjamin-ki,,,
+25075,,2018-10-27 14:29,USD,False,500,2022-10-01 02:10,BACKER,Silver Sponsors,24500,ORGANIZATION,https://opencollective.com/fire-stick-tricks,,,https://www.firesticktricks.com
+25189,,2018-10-29 16:13,USD,True,50,2018-10-29 16:13,BACKER,0,50,USER,https://opencollective.com/stephen-brown,,,
+25221,,2018-10-30 03:36,USD,False,100,2023-07-01 00:03,BACKER,Bronze Sponsors,5800,ORGANIZATION,https://opencollective.com/raygunio1,https://twitter.com/raygunio,,https://www.raygun.com
+25328,,2018-10-31 16:27,USD,True,100,2018-10-31 16:27,BACKER,0,100,USER,https://opencollective.com/jarrett-confrey,,,
+25342,,2018-10-31 20:28,USD,False,10,2019-01-01 05:25,BACKER,Backers,40,USER,https://opencollective.com/si-pham,,,
+25404,,2018-11-01 16:20,USD,True,100,2018-11-01 16:20,BACKER,0,100,USER,https://opencollective.com/olivia-trewin,,,
+25493,,2018-11-02 18:52,USD,False,5,2021-03-01 12:10,BACKER,Backers,145,USER,https://opencollective.com/bill,,,https://pixvana.com
+25542,@futureadvisor,2018-11-03 17:35,USD,True,50,2018-11-03 17:35,BACKER,0,50,USER,https://opencollective.com/epan,https://twitter.com/epan,https://github.com/epan,https://ericpan.net
+25579,,2018-11-04 13:39,USD,False,2,2019-04-01 05:19,BACKER,Backers,12,ORGANIZATION,https://opencollective.com/givemedeals,,,https://www.givemedeals.com
+25595,,2018-11-04 20:11,USD,False,25,2019-02-01 14:25,BACKER,Backers,100,USER,https://opencollective.com/chad-palsulich,,,
+25602,,2018-11-04 22:21,USD,True,50,2018-11-04 22:21,BACKER,0,50,USER,https://opencollective.com/saif-sajid,,,
+25702,,2018-11-06 17:08,USD,False,2,2019-02-01 14:29,BACKER,Backers,8,USER,https://opencollective.com/richard-zhang,,,
+25704,,2018-11-06 17:11,USD,True,25,2018-11-06 17:11,BACKER,0,25,USER,https://opencollective.com/veera-kalyanasundaram,,,
+25720,,2018-11-06 19:00,USD,True,50,2018-11-06 19:00,BACKER,0,50,USER,https://opencollective.com/eric-steen,,,
+25784,,2018-11-07 17:05,USD,False,10,2019-02-01 14:27,BACKER,Backers,40,USER,https://opencollective.com/tai-nguyen,,,
+25793,,2018-11-07 17:13,USD,False,25,2018-11-07 17:13,BACKER,Backers,25,USER,https://opencollective.com/nick-perez,,,
+25830,,2018-11-08 01:54,USD,True,25,2018-11-08 01:54,BACKER,0,25,USER,https://opencollective.com/oliver-bolton,,,
+25915,,2018-11-09 01:46,USD,True,10,2018-11-09 01:46,BACKER,0,10,USER,https://opencollective.com/keenan-villani,,,
+25922,,2018-11-09 02:13,USD,False,5,2021-02-01 06:11,BACKER,Backers,98,USER,https://opencollective.com/timrbula,https://twitter.com/timrbula,,https://twitter.com/timrbula
+25933,,2018-11-09 11:02,USD,False,2,2019-02-01 14:26,BACKER,Backers,8,ORGANIZATION,https://opencollective.com/thegobeliners,https://twitter.com/thegobeliners,https://github.com/thegobeliners,https://www.thegobeliners.com
+26063,,2018-11-11 02:53,USD,False,2,2019-01-01 05:24,BACKER,Backers,6,USER,https://opencollective.com/reece-atta,https://twitter.com/abuffseagull,https://github.com/abuffseagull,
+26111,,2018-11-12 16:58,USD,False,10,2019-02-01 14:25,BACKER,Backers,40,USER,https://opencollective.com/shuo-wang,,,
+26282,,2018-11-15 01:30,USD,True,10,2018-11-15 01:30,BACKER,0,10,USER,https://opencollective.com/kishan-dedakia,,,
+26640,,2018-11-21 17:00,USD,True,50,2018-11-21 17:00,BACKER,0,50,USER,https://opencollective.com/adam-cooper,,,
+26641,,2018-11-21 17:00,0,True,0,2024-08-27 08:20,BACKER,0,8990,ORGANIZATION,https://opencollective.com/triplebyte,https://twitter.com/triple_byte,,https://triplebyte.com/os/opencollective
+26665,,2018-11-21 19:59,USD,False,2,2019-02-01 14:29,BACKER,Backers,8,USER,https://opencollective.com/anonymous-donor,,,
+26666,,2018-11-21 19:59,0,False,0,2024-08-27 08:20,BACKER,Backers,8990,ORGANIZATION,https://opencollective.com/triplebyte,https://twitter.com/triple_byte,,https://triplebyte.com/os/opencollective
+26707,,2018-11-22 19:32,USD,True,10,2024-08-01 01:02,BACKER,Backers,700,USER,https://opencollective.com/devongovett,,https://github.com/devongovett,https://badassjs.com/
+26953,,2018-11-27 16:14,USD,True,50,2018-11-27 16:14,BACKER,0,50,USER,https://opencollective.com/alex-murphy,,,
+27051,DEVBAY,2018-11-28 21:31,USD,True,2,2024-08-01 21:09,BACKER,0,140,USER,https://opencollective.com/ludovic-zamord,,,
+27157,,2018-11-30 07:46,USD,True,50,2018-11-30 07:46,BACKER,0,50,USER,https://opencollective.com/chaitanya-sharma,,,
+27366,Battelle Memorial Institute Pacific Northwest Division,2018-12-02 05:33,USD,False,2,2022-12-01 00:27,BACKER,Backers,98,USER,https://opencollective.com/spencerprost,https://twitter.com/sprost,https://github.com/SProst,https://www.linkedin.com/in/sprost/
+27367,,2018-12-02 09:40,USD,False,5,2021-10-01 02:05,BACKER,Backers,175,USER,https://opencollective.com/tluenborg,,,
+27519,,2018-12-04 10:25,0,False,0,2024-08-27 08:20,BACKER,Backers,608,ORGANIZATION,https://opencollective.com/opencollective,https://twitter.com/opencollect,,https://opencollective.com/
+27829,,2018-12-08 02:59,USD,False,5,2018-12-14 17:21,BACKER,Backers,7,USER,https://opencollective.com/moustafa-a,,,
+27851,,2018-12-08 16:47,USD,False,5,2019-04-01 05:22,BACKER,Backers,25,USER,https://opencollective.com/daniellovell,https://twitter.com/daniellovell,,
+27882,,2018-12-08 19:24,USD,False,50,2018-12-08 19:24,BACKER,Backers,50,USER,https://opencollective.com/nithin-tammishetti,,,
+27914,,2018-12-09 15:05,USD,True,2,2024-08-01 00:03,BACKER,Backers,138,USER,https://opencollective.com/nickdandakis,https://twitter.com/dandankis,,https://dandak.is
+28104,,2018-12-12 18:33,USD,True,2000,2019-12-23 22:35,BACKER,0,4000,ORGANIZATION,https://opencollective.com/kickstarter,https://twitter.com/Kickstarter,,https://www.kickstarter.com/
+28173,,2018-12-13 12:15,USD,True,11,2018-12-13 12:15,BACKER,0,11,USER,https://opencollective.com/marcogbarcellos,https://twitter.com/marcogbarcellos,https://github.com/marcogbarcello,https://marcogbarcellos.com/
+28174,,2018-12-13 12:15,0,True,0,2024-08-27 08:20,BACKER,0,608,ORGANIZATION,https://opencollective.com/opencollective,https://twitter.com/opencollect,,https://opencollective.com/
+28185,,2018-12-13 14:51,USD,True,50,2018-12-13 14:51,BACKER,0,50,USER,https://opencollective.com/kyle-peterson,,,
+28219,,2018-12-13 22:08,USD,True,100,2018-12-13 22:08,BACKER,0,100,USER,https://opencollective.com/william-swinny,,,
+28251,,2018-12-14 16:14,USD,False,8,2019-02-01 14:29,BACKER,Backers,24,USER,https://opencollective.com/nick-myers,,,
+28348,"HackforPlay, Inc.",2018-12-16 02:31,USD,False,5,2024-01-11 11:31,BACKER,Backers,174,USER,https://opencollective.com/teramotodaiki,https://twitter.com/teramotodaiki,https://github.com/teramotodaiki,https://hackforplay.xyz
+28360,,2018-12-16 17:25,USD,False,10,2019-03-01 20:36,BACKER,Backers,40,USER,https://opencollective.com/constantine-filin,,,
+28365,,2018-12-16 18:29,USD,False,25,2019-02-01 14:28,BACKER,Backers,75,USER,https://opencollective.com/rocky-eastman,,,
+28816,,2018-12-19 22:58,USD,False,5,2020-01-03 05:06,BACKER,Backers,70,USER,https://opencollective.com/ivanandsickle,https://twitter.com/ivanandsickle,,
+28848,,2018-12-20 08:32,USD,False,25,2018-12-20 08:32,BACKER,Backers,25,USER,https://opencollective.com/nilaf-talapady,,,
+28891,,2018-12-20 19:38,USD,True,20,2018-12-20 19:38,BACKER,0,20,USER,https://opencollective.com/kurt-hutten,,,
+29139,,2018-12-26 22:48,USD,True,100,2024-02-03 00:03,BACKER,0,6075,ORGANIZATION,https://opencollective.com/principal,https://twitter.com/Principal,https://github.com/PrincipalFinancialGroup,https://www.principal.com/about-us
+29173,,2018-12-27 18:45,USD,False,3,2021-07-01 13:09,BACKER,Backers,88,USER,https://opencollective.com/knksmith57,https://twitter.com/knksmith57,https://github.com/knksmith57,https://ksmith.io
+29187,@frontendmasters,2018-12-28 01:35,0,True,0,2024-08-27 08:20,BACKER,0,0,USER,https://opencollective.com/1marc,https://twitter.com/1Marc,https://github.com/1marc,https://marcgrabanski.com
+29207,,2018-12-28 02:13,USD,False,10,2020-05-03 05:21,BACKER,Bronze Sponsors,260,USER,https://opencollective.com/ev1stensberg,,,
+29268,,2018-12-29 20:00,USD,False,2,2018-12-29 20:00,BACKER,Backers,2,USER,https://opencollective.com/anonymous2199,,,
+29418,,2019-01-02 08:39,USD,False,2,2019-04-01 05:24,BACKER,Backers,8,USER,https://opencollective.com/cassiocardoso,https://twitter.com/cassiocardoso,https://github.com/cassiocardoso,https://cassiocardoso.me
+29496,,2019-01-03 18:35,USD,True,100,2019-01-03 18:35,BACKER,0,100,USER,https://opencollective.com/oleg-gomozov,,https://github.com/blackwanny,https://blackswan.surge.sh
+29749,@eBay,2019-01-08 09:27,USD,False,2,2019-06-01 05:26,BACKER,Backers,12,USER,https://opencollective.com/jotadeveloper,https://twitter.com/jotadeveloper,https://github.com/juanpicado,https://twitter.com/jotadeveloper
+29768,@babel,2019-01-08 15:40,USD,True,-6000,2022-06-27 23:49,ADMIN,0,0,USER,https://opencollective.com/nicoloribaudo,https://twitter.com/NicoloRibaudo,https://github.com/nicolo-ribaudo,
+29773,@unified,2019-01-08 16:00,USD,False,2,2019-04-01 05:24,BACKER,Backers,8,USER,https://opencollective.com/wooorm,https://twitter.com/wooorm,https://github.com/wooorm,https://wooorm.com
+29823,,2019-01-09 05:59,USD,True,100,2019-01-09 05:59,BACKER,0,100,USER,https://opencollective.com/brett-nelson,,,
+29825,,2019-01-09 06:41,USD,False,2,2021-06-01 05:07,BACKER,Backers,60,USER,https://opencollective.com/isdeveloping1,https://twitter.com/isdeveloping,,https://appsparkler.com
+30033,@yakaz,2019-01-11 10:26,USD,False,500,2019-03-04 05:01,BACKER,Silver Sponsors,1500,ORGANIZATION,https://opencollective.com/petercollective,,,https://yakaz.com
+30173,,2019-01-14 15:30,USD,False,500,2019-03-01 20:37,BACKER,Silver Sponsors,1500,USER,https://opencollective.com/marcushiles,https://twitter.com/MarcusHiles1,https://github.com/marcu-hiles,https://marcus-hiles.com
+30204,,2019-01-14 21:26,USD,True,10,2019-01-14 21:26,BACKER,0,10,USER,https://opencollective.com/kristine-robison,,,
+30351,,2019-01-17 03:28,USD,False,2,2023-02-01 06:04,BACKER,Backers,74,USER,https://opencollective.com/davidsonfellipe,https://twitter.com/davidsonfellipe,https://github.com/davidsonfellipe,https://fellipe.com/
+30417,,2019-01-17 18:12,USD,False,100,2019-01-17 18:12,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/abrar-hussain,,,
+30418,,2019-01-17 18:12,0,False,0,2024-08-27 08:20,BACKER,Bronze Sponsors,8990,ORGANIZATION,https://opencollective.com/triplebyte,https://twitter.com/triple_byte,,https://triplebyte.com/os/opencollective
+30491,,2019-01-18 18:15,USD,True,50,2019-01-18 18:15,BACKER,0,50,USER,https://opencollective.com/paul-bardea,,,
+30536,,2019-01-19 17:30,USD,False,100,2020-06-02 05:17,BACKER,Bronze Sponsors,1800,ORGANIZATION,https://opencollective.com/mantro,https://twitter.com/mantro_net,https://github.com/mantro,https://mantro.net/jobs/warlock
+30645,,2019-01-21 16:24,USD,False,20,2021-03-01 22:06,BACKER,Silver Sponsors,3180,ORGANIZATION,https://opencollective.com/shipshapecode1,https://twitter.com/shipshapecode,https://github.com/shipshapecode,https://shipshape.io
+30853,,2019-01-24 02:46,USD,False,100,2019-01-24 02:46,BACKER,Backers,100,USER,https://opencollective.com/brandon-yee,,,
+30931,,2019-01-24 17:23,USD,False,116,2022-05-01 10:02,BACKER,Bronze Sponsors,4756,ORGANIZATION,https://opencollective.com/turo,https://twitter.com/turo,https://github.com/turo,https://turo.com
+31008,,2019-01-25 18:55,USD,False,25,2019-02-01 14:32,BACKER,Backers,50,USER,https://opencollective.com/jasonbarry,https://twitter.com/jasbarry,https://github.com/jasonbarry,https://featurepeek.com
+31024,@liveramp,2019-01-25 22:29,USD,False,5,2019-04-01 05:26,BACKER,Backers,20,USER,https://opencollective.com/gillett,,https://github.com/michael-gillett,
+31084,,2019-01-27 03:25,USD,False,100,2019-01-27 03:25,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/gal-talmor,,,
+31128,,2019-01-28 03:25,USD,True,100,2019-01-28 03:25,BACKER,0,100,USER,https://opencollective.com/ronnie-ghose,,,
+31248,,2019-01-29 20:13,USD,False,5,2020-04-03 05:02,BACKER,Backers,80,USER,https://opencollective.com/alexpareto,https://twitter.com/alexpareto,https://github.com/alexpareto,https://alexpareto.com
+31262,,2019-01-29 22:22,USD,False,50,2019-01-29 22:22,BACKER,Backers,50,USER,https://opencollective.com/harry-solovay,https://twitter.com/hsolvz,https://github.com/harryolovay,
+31330,@opencollective @captainfact_io,2019-01-30 17:01,USD,True,5,2024-08-01 00:04,BACKER,Backers,334,USER,https://opencollective.com/betree,https://twitter.com/Betree83,https://github.com/Betree,https://benjamin.piouffle.com/
+31687,,2019-02-02 18:29,USD,True,100,2019-02-02 18:29,BACKER,0,100,USER,https://opencollective.com/sina,,,
+31743,,2019-02-03 17:30,USD,True,100,2019-02-03 17:30,BACKER,0,100,USER,https://opencollective.com/steven-snyder,,,
+31848,,2019-02-05 07:06,USD,False,5,2020-03-01 05:15,BACKER,Backers,70,USER,https://opencollective.com/thomasfoster96,https://twitter.com/thomasfoster96,https://github.com/thomasfoster96,https://thomasfoster.co/
+32005,,2019-02-06 17:37,USD,False,2,2019-04-01 05:29,BACKER,Backers,6,USER,https://opencollective.com/phyllis-douglas,,,
+32306,,2019-02-08 21:56,USD,False,2,2019-11-01 14:20,BACKER,Backers,20,USER,https://opencollective.com/vignesh-balasundaram,,,
+32392,,2019-02-09 21:36,USD,False,5,2021-08-11 11:20,BACKER,Backers,59,USER,https://opencollective.com/ivanbuncic,https://twitter.com/ivanbuncic,,https://ivanbuncic.com
+32634,,2019-02-12 20:55,USD,True,350,2019-02-12 20:55,BACKER,0,350,USER,https://opencollective.com/retailmenot,https://twitter.com/retailmenot,,https://www.retailmenot.com/corp/careers-engineering/
+32639,,2019-02-12 21:03,USD,False,100,2019-05-01 05:28,BACKER,Bronze Sponsors,400,USER,https://opencollective.com/zack-argyle,,,
+32653,,2019-02-13 03:25,USD,False,2,2019-11-01 14:21,BACKER,Backers,20,ORGANIZATION,https://opencollective.com/qnyp,https://twitter.com/qnyp,https://github.com/qnyp,https://qnyp.com
+32662,Mindera,2019-02-13 07:13,USD,False,5,2019-05-01 05:28,BACKER,Backers,20,USER,https://opencollective.com/pawelgrzybek,https://twitter.com/pawelgrzybek,https://github.com/pawelgrzybek,https://pawelgrzybek.com/
+32703,,2019-02-13 16:57,USD,True,100,2019-02-13 16:57,BACKER,0,100,USER,https://opencollective.com/christian-sakai,,,
+32759,,2019-02-14 06:11,USD,True,20,2019-02-14 06:11,BACKER,0,20,USER,https://opencollective.com/brad-azevedo,,,
+32775,,2019-02-14 07:08,USD,False,5,2019-11-01 15:28,BACKER,Backers,50,USER,https://opencollective.com/jacob-brazeal,,,
+32914,,2019-02-15 22:43,USD,False,100,2021-11-01 01:06,BACKER,Bronze Sponsors,3400,ORGANIZATION,https://opencollective.com/circleci,https://twitter.com/circleci,https://github.com/circleci,https://circleci.com/open-source/
+33047,,2019-02-18 11:27,USD,False,10,2019-10-04 05:02,BACKER,Backers,90,ORGANIZATION,https://opencollective.com/underdogz,,,
+33093,,2019-02-18 19:51,USD,False,25,2019-04-01 05:31,BACKER,Backers,75,USER,https://opencollective.com/avram-eisner,,,
+33119,,2019-02-19 05:33,USD,True,100,2019-02-19 05:33,BACKER,0,100,USER,https://opencollective.com/irfan-somani,,,
+33151,,2019-02-19 16:55,USD,False,500,2020-12-01 13:06,BACKER,Silver Sponsors,11500,ORGANIZATION,https://opencollective.com/basistechnologies,,https://github.com/basis-technologies,https://www.basistechnologies.com/
+33187,,2019-02-20 02:01,USD,False,2,2019-03-01 20:45,BACKER,Backers,4,USER,https://opencollective.com/khuong-dao,,,
+33282,,2019-02-21 08:06,USD,True,50,2019-02-21 08:06,BACKER,0,50,USER,https://opencollective.com/jimmy-gong,,,
+33283,,2019-02-21 08:06,USD,True,2000,2024-08-01 05:01,BACKER,0,185858,FUND,https://opencollective.com/airbnb,https://twitter.com/airbnbeng,https://github.com/airbnb,https://www.airbnb.com/
+33315,,2019-02-21 17:11,USD,False,50,2019-02-21 17:11,BACKER,Backers,50,USER,https://opencollective.com/tristan-pollard,,,
+33431,,2019-02-22 10:19,USD,False,2,2021-02-01 14:07,BACKER,Backers,50,USER,https://opencollective.com/martin-kluska,https://twitter.com/pionl,https://github.com/pionl,https://kluska.cz
+33541,,2019-02-24 01:34,USD,False,2,2019-10-01 05:21,BACKER,Backers,18,USER,https://opencollective.com/sai-gollanapalli,,,
+33640,,2019-02-25 17:07,USD,False,2,2020-02-02 05:28,BACKER,Backers,26,USER,https://opencollective.com/neel-bommisetty,,,
+33694,,2019-02-26 00:46,USD,True,40,2019-02-26 00:46,BACKER,0,40,USER,https://opencollective.com/andrew-huth,,,
+33814,,2019-02-27 05:04,USD,False,250,2019-12-19 01:17,BACKER,Backers,260,USER,https://opencollective.com/brie-bunge,,,
+33815,,2019-02-27 05:04,USD,True,2000,2024-07-01 05:01,BACKER,Backers,185858,FUND,https://opencollective.com/airbnb,https://twitter.com/airbnbeng,https://github.com/airbnb,https://www.airbnb.com/
+34101,,2019-03-02 18:26,USD,False,2,2020-04-01 05:12,BACKER,Backers,28,USER,https://opencollective.com/andres-alonso,,,
+34251,,2019-03-04 22:07,USD,False,5,2022-12-01 01:11,BACKER,Backers,230,USER,https://opencollective.com/davatron5000,https://twitter.com/davatron5000,https://github.com/davatron5000,https://daverupert.com
+34476,,2019-03-06 17:01,USD,True,100,2019-03-06 17:01,BACKER,0,100,USER,https://opencollective.com/geoffrey-wright,,,
+34590,,2019-03-07 19:07,USD,False,50,2019-05-01 05:35,BACKER,Backers,150,ORGANIZATION,https://opencollective.com/tythe,,https://github.com/tythe-protocol/tythe,https://tythe.dev
+34808,,2019-03-09 20:15,USD,False,5,2019-12-02 05:18,BACKER,Backers,50,USER,https://opencollective.com/tianze-zhan,,,
+34835,,2019-03-10 00:55,USD,False,5,2020-04-02 05:04,BACKER,Backers,70,USER,https://opencollective.com/jonathan-brandwein,,,
+34871,,2019-03-10 17:58,USD,False,2,2020-04-02 05:15,BACKER,Backers,28,USER,https://opencollective.com/ernie-bello,,,
+34980,,2019-03-11 22:17,USD,True,50,2019-03-11 22:17,BACKER,0,50,USER,https://opencollective.com/sreenivasan-ac,,,
+35086,,2019-03-12 18:33,USD,False,2,2020-03-01 05:27,BACKER,Backers,26,USER,https://opencollective.com/edward-kim,,,
+35103,,2019-03-12 22:39,USD,True,100,2019-03-12 22:39,BACKER,0,100,USER,https://opencollective.com/brandt-sheets,,,
+35123,,2019-03-13 03:56,USD,True,20,2019-03-13 03:56,BACKER,0,20,USER,https://opencollective.com/cameron-bowie,,,
+35135,,2019-03-13 08:03,USD,False,2,2022-02-01 00:07,BACKER,Backers,72,USER,https://opencollective.com/david-lacourt,,,
+35258,,2019-03-14 18:41,USD,False,5,2020-04-02 05:27,BACKER,Backers,70,USER,https://opencollective.com/sungwon-cho,,,
+35353,,2019-03-15 21:44,USD,False,100,2019-03-15 21:44,BACKER,Bronze Sponsors,100,USER,https://opencollective.com/seth-terry,,,
+35439,,2019-03-17 14:21,USD,True,10,2019-03-17 14:21,BACKER,0,10,USER,https://opencollective.com/sebastian-murphy,,,
+35873,@commercetools,2019-03-21 15:37,USD,True,20,2019-03-21 15:37,BACKER,0,20,USER,https://opencollective.com/emmenko,https://twitter.com/emmenko,https://github.com/emmenko,https://emmenko.org
+35967,,2019-03-22 08:40,USD,True,10,2019-03-22 08:40,BACKER,0,10,USER,https://opencollective.com/nhducit,https://twitter.com/nhducit,https://github.com/nhducit,https://twitter.com/nhducit
+36115,,2019-03-24 16:03,USD,False,10,2019-06-01 05:28,BACKER,Backers,40,USER,https://opencollective.com/pradeep-kumar-aitha,,,
+36129,,2019-03-24 20:58,USD,False,2,2019-11-01 17:05,BACKER,Backers,18,USER,https://opencollective.com/bohdan-tkachenko,https://twitter.com/BohdanTkachenko,https://github.com/BohdanTkachenko,
+36155,,2019-03-25 04:54,USD,True,-53.03,2021-01-14 22:04,CONTRIBUTOR,0,0,USER,https://opencollective.com/daniel15,https://twitter.com/Daniel15,https://github.com/Daniel15,https://dan.cx/
+36337,,2019-03-27 03:48,USD,False,2,2019-06-04 05:01,BACKER,Backers,8,USER,https://opencollective.com/mathias-azzolini,,,
+36389,,2019-03-27 18:50,USD,True,10000,2023-10-03 11:55,BACKER,0,21900,ORGANIZATION,https://opencollective.com/cargurus,https://twitter.com/cargurus,https://github.com/cargurus,https://www.cargurus.com
+36635,,2019-03-30 10:36,USD,False,2,2021-05-02 00:09,BACKER,Backers,53,USER,https://opencollective.com/ykzts,https://twitter.com/ykzts,https://github.com/ykzts,https://ykzts.com/
+37451,,2019-04-08 18:27,USD,False,20,2023-10-10 11:37,BACKER,Backers,126,USER,https://opencollective.com/jblandry,,https://github.com/jblandry,https://jblandry.info
+37736,WPRuby,2019-04-12 07:49,USD,True,5,2019-04-12 07:49,BACKER,0,5,USER,https://opencollective.com/waseem,,,https://wpruby.com
+37789,,2019-04-13 10:23,USD,False,500,2019-08-01 05:04,BACKER,Silver Sponsors,2500,ORGANIZATION,https://opencollective.com/blokt,https://twitter.com/bloktcrypto,,https://blokt.com/
+37928,,2019-04-15 18:11,USD,False,2,2019-11-01 15:49,BACKER,Backers,16,ORGANIZATION,https://opencollective.com/cryptonewsz,https://twitter.com/cryptonewsz_,,https://www.cryptonewsz.com/
+38055,La Jolivraie,2019-04-17 13:57,USD,False,5,2023-09-01 04:09,BACKER,Backers,215,USER,https://opencollective.com/alexandre-morgaut,https://twitter.com/amorgaut,https://github.com/AMorgaut,https://www.quora.com/profile/Alexandre-Morgaut
+38568,,2019-04-24 21:13,USD,False,2,2020-02-02 05:24,BACKER,Backers,22,ORGANIZATION,https://opencollective.com/thecloutscom,https://twitter.com/thecloutscom,,https://www.theclouts.com/
+39010,,2019-05-01 10:12,USD,False,536.18,2023-05-26 05:39,BACKER,Bronze Sponsors,2136.18,ORGANIZATION,https://opencollective.com/jsheroes1,https://twitter.com/jsheroes,,https://jsheroes.io/
+39188,,2019-05-02 21:44,USD,True,35,2019-05-02 21:44,BACKER,0,35,USER,https://opencollective.com/levi-meahan,https://twitter.com/LeviMeahan,,
+39233,,2019-05-03 05:27,USD,True,25,2019-05-03 05:27,BACKER,0,25,USER,https://opencollective.com/alexander-klimashevskiy,,,
+39298,,2019-05-03 15:57,USD,True,75,2019-05-03 15:57,BACKER,0,75,USER,https://opencollective.com/jan-krems,,,
+39325,,2019-05-03 19:28,USD,True,25,2019-05-03 19:28,BACKER,0,25,USER,https://opencollective.com/wei-hou,,,
+39425,,2019-05-04 21:17,USD,True,75,2019-05-04 21:17,BACKER,0,75,USER,https://opencollective.com/mandy-mitchell,,,
+39574,,2019-05-06 19:11,USD,True,30,2019-05-06 19:11,BACKER,0,30,USER,https://opencollective.com/gkjsdll,,,
+39584,,2019-05-06 23:21,USD,True,75,2019-05-06 23:20,BACKER,0,75,USER,https://opencollective.com/jose-velez,,,
+39658,,2019-05-07 21:35,USD,False,500,2022-10-01 01:20,BACKER,Silver Sponsors,21000,ORGANIZATION,https://opencollective.com/discordapp,https://twitter.com/discord,https://github.com/discord,https://discord.com
+39723,,2019-05-08 18:20,USD,True,75,2019-05-08 18:20,BACKER,0,75,USER,https://opencollective.com/alexander-nordin,,,
+39847,,2019-05-09 16:28,USD,True,75,2019-05-09 16:28,BACKER,0,75,USER,https://opencollective.com/muhammad-zubair,,,
+39972,,2019-05-10 23:21,USD,True,15,2019-05-10 23:21,BACKER,0,15,USER,https://opencollective.com/terry-oshea,,,
+40515,,2019-05-18 16:16,USD,True,25,2019-05-18 16:16,BACKER,0,25,USER,https://opencollective.com/christian-cho,,,
+40578,,2019-05-19 22:30,USD,True,50,2019-05-19 22:30,BACKER,0,50,USER,https://opencollective.com/josh-alling,,,
+41298,,2019-05-27 15:44,USD,False,2,2019-06-01 05:15,BACKER,Backers,4,USER,https://opencollective.com/josh-black,,,
+41446,,2019-05-28 20:41,USD,False,2,2019-08-01 05:23,BACKER,Backers,8,USER,https://opencollective.com/andi1984,https://twitter.com/andi1984,https://github.com/andi1984,https://www.andi1984.de
+41455,,2019-05-28 22:22,USD,True,10,2019-05-28 22:22,BACKER,0,10,USER,https://opencollective.com/jacob1,,,
+41673,,2019-05-31 02:55,USD,True,25,2019-05-31 02:55,BACKER,0,25,USER,https://opencollective.com/mallory-bulkley,,,
+41829,,2019-06-02 02:21,USD,False,2,2019-09-01 05:33,BACKER,Backers,8,USER,https://opencollective.com/haoyu-yun,,,
+41842,,2019-06-02 04:58,USD,True,5,2024-08-01 00:04,BACKER,Backers,315,USER,https://opencollective.com/kevin-perkins,,,
+41943,,2019-06-03 11:37,USD,True,75,2019-06-03 11:37,BACKER,0,75,USER,https://opencollective.com/ferdy-budhidharma,,,
+42157,,2019-06-05 09:35,USD,True,10,2019-06-05 09:35,BACKER,0,10,USER,https://opencollective.com/colin-williams,,,
+42245,,2019-06-06 02:43,USD,True,5,2019-06-06 02:43,BACKER,0,5,USER,https://opencollective.com/mehmet-koc,,,
+42303,,2019-06-06 16:37,USD,True,20,2019-06-06 16:37,BACKER,0,20,USER,https://opencollective.com/simon-kim,,,
+42413,,2019-06-08 00:07,USD,False,2,2020-01-01 05:23,BACKER,Backers,16,USER,https://opencollective.com/navid-dena,https://twitter.com/navdena,,https://twitter.com/navdena
+42549,,2019-06-10 07:44,USD,True,25,2019-06-10 07:44,BACKER,0,25,USER,https://opencollective.com/kelset,https://twitter.com/kelset,https://github.com/kelet,https://kelset.dev
+42620,,2019-06-10 18:17,USD,False,2,2020-01-02 05:10,BACKER,Backers,16,USER,https://opencollective.com/amberleyjohanna,https://twitter.com/amberleyjohanna,,https://amberley.blog
+42858,,2019-06-12 19:08,USD,True,10,2019-06-12 19:08,BACKER,0,10,USER,https://opencollective.com/divyagnan-kandala,,https://github.com/divyagnan,
+43047,,2019-06-15 03:26,USD,False,5,2022-06-01 00:10,BACKER,Backers,185,USER,https://opencollective.com/aconran,https://twitter.com/aconran,https://github.com/aconran,
+43128,,2019-06-16 12:52,USD,False,5,2019-06-16 12:52,BACKER,Backers,5,USER,https://opencollective.com/tetiana-karpenko,,,
+43139,,2019-06-16 16:28,USD,False,25,2019-11-01 14:25,BACKER,Backers,150,USER,https://opencollective.com/chris-patton,,,
+43328,,2019-06-18 14:50,USD,True,5,2019-06-18 14:50,BACKER,0,5,USER,https://opencollective.com/evrim-cabuk,,,
+43356,,2019-06-18 16:02,USD,True,20,2019-06-18 16:02,BACKER,0,20,USER,https://opencollective.com/kyle-karpack,,,
+43358,,2019-06-18 16:06,USD,False,2,2020-04-03 05:12,BACKER,Backers,22,USER,https://opencollective.com/gabriel-j-dottl,,,
+43756,,2019-06-22 10:05,USD,False,20,2020-11-01 00:12,BACKER,Backers,360,USER,https://opencollective.com/edward-bentley,https://twitter.com/ed_s_bentley,https://github.com/edbentley,
+43807,,2019-06-22 21:23,USD,True,20,2019-06-22 21:23,BACKER,0,20,USER,https://opencollective.com/yishan-chen,,,
+43902,,2019-06-24 03:59,USD,True,10,2019-06-24 03:59,BACKER,0,10,USER,https://opencollective.com/ezra-savard,,,
+44074,,2019-06-25 13:03,USD,False,50,2021-05-12 07:11,BACKER,Backers,86,COLLECTIVE,https://opencollective.com/verdaccio,https://twitter.com/verdaccio_npm,https://github.com/verdaccio,https://verdaccio.org/
+44135,,2019-06-26 02:47,USD,True,75,2019-06-26 02:47,BACKER,0,75,USER,https://opencollective.com/henry-willson,,,
+44164,,2019-06-26 12:43,USD,False,5,2021-06-01 08:12,BACKER,Backers,125,USER,https://opencollective.com/martin-desrumaux,,,
+44353,,2019-06-27 17:43,USD,True,75,2019-06-27 17:43,BACKER,0,75,USER,https://opencollective.com/jay-shah1,,,
+44491,,2019-06-28 21:07,USD,True,75,2019-06-28 21:07,BACKER,0,75,USER,https://opencollective.com/charley-ren,,,
+44733,,2019-07-01 18:43,USD,True,75,2019-07-01 18:43,BACKER,0,75,USER,https://opencollective.com/ryan-whitworth,,,
+44976,,2019-07-03 15:57,USD,True,150,2020-04-03 17:10,BACKER,0,800,ORGANIZATION,https://opencollective.com/changelog,https://twitter.com/changelog,https://github.com/thechangelog,https://changelog.com
+45038,Canal+,2019-07-03 21:50,USD,False,50,2024-03-01 01:04,BACKER,Backers,2850,USER,https://opencollective.com/yannickcr,https://twitter.com/yannickc,https://github.com/yannickcr,https://yannick.cr/
+45461,,2019-07-07 17:30,USD,True,20,2019-07-07 17:30,BACKER,0,20,USER,https://opencollective.com/simon-ingeson,,,
+45615,,2019-07-09 00:09,USD,False,20,2020-04-01 05:16,BACKER,Backers,200,ORGANIZATION,https://opencollective.com/geteventbot1,https://twitter.com/geteventbot,,https://geteventbot.com/
+45652,,2019-07-09 10:37,USD,False,75,2019-07-09 10:37,BACKER,Backers,75,USER,https://opencollective.com/chloe-kever,,,
+45786,,2019-07-10 18:22,USD,True,35,2019-07-10 18:22,BACKER,0,35,USER,https://opencollective.com/brook-li,,,
+46120,,2019-07-14 19:10,USD,True,25,2019-07-14 19:10,BACKER,0,25,USER,https://opencollective.com/gurjit,,,
+46199,,2019-07-15 16:22,USD,False,500,2019-09-01 05:01,BACKER,Silver Sponsors,1500,ORGANIZATION,https://opencollective.com/stackshare,,,https://stackshare.io
+46482,,2019-07-18 02:54,USD,True,25,2019-07-18 02:54,BACKER,0,25,USER,https://opencollective.com/etlovett,https://twitter.com/etlovett,https://github.com/etlovett,https://twitter.com/etlovett
+46503,@babel,2019-07-18 09:30,USD,True,5,2017-05-01 17:23,CONTRIBUTOR,0,10,USER,https://opencollective.com/danez,https://twitter.com/TschinderDaniel,https://github.com/danez,https://danieltschinder.com
+46539,,2019-07-18 16:28,USD,True,10,2019-07-18 16:28,BACKER,0,10,USER,https://opencollective.com/yoshinorin,,https://github.com/yoshinorin,https://about.yoshinorin.net
+46772,,2019-07-21 16:04,USD,True,20,2019-07-21 16:04,BACKER,0,20,USER,https://opencollective.com/rajesh-balla,,,
+46782,,2019-07-21 17:59,USD,True,20,2019-07-21 17:59,BACKER,0,20,USER,https://opencollective.com/veera-veeraprakash,,,
+46900,,2019-07-22 21:22,USD,False,5,2020-04-02 05:05,BACKER,Backers,50,USER,https://opencollective.com/carl-rodriguez,,,
+47142,,2019-07-24 19:30,USD,True,75,2019-07-24 19:30,BACKER,0,75,USER,https://opencollective.com/dan-turkov,,,
+47333,,2019-07-26 11:00,USD,False,5,2019-11-01 15:43,BACKER,Backers,25,ORGANIZATION,https://opencollective.com/misaka,https://twitter.com/AS57695,,https://www.misaka.io/dns/?utm_source=opencollective
+47503,@iFood,2019-07-28 01:27,USD,False,2,2022-04-01 00:15,BACKER,Backers,68,USER,https://opencollective.com/andrewmat,https://twitter.com/andrewmat,https://github.com/Andrewmat,https://twitter.com/andrewmat
+47546,,2019-07-28 17:08,USD,False,2,2020-02-03 05:12,BACKER,Backers,16,USER,https://opencollective.com/avanslaars,https://twitter.com/avanslaars,,https://vanslaars.io
+47900,,2019-08-01 09:16,USD,False,500,2019-11-01 14:21,BACKER,Silver Sponsors,2000,ORGANIZATION,https://opencollective.com/piratebay,,,https://piratebay.ink
+47911,,2019-08-01 11:10,USD,False,100,2019-09-01 05:24,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/papersowl,,,https://papersowl.com/
+47913,,2019-08-01 11:21,USD,False,2,2020-03-02 05:19,BACKER,Backers,16,ORGANIZATION,https://opencollective.com/monovm,https://twitter.com/monovm,https://github.com/monovm,https://MonoVM.com
+47944,,2019-08-01 16:09,USD,True,25,2019-08-01 16:09,BACKER,0,25,USER,https://opencollective.com/thomas-weld,,,
+48599,,2019-08-07 22:00,USD,True,75,2019-08-07 22:00,BACKER,0,75,USER,https://opencollective.com/erik-luetkehans,,,
+48689,,2019-08-08 16:01,USD,False,15,2019-08-08 16:01,BACKER,Backers,15,USER,https://opencollective.com/xudong-jin,,,
+48864,,2019-08-10 16:13,USD,True,75,2019-08-10 16:13,BACKER,0,75,USER,https://opencollective.com/piyush-mittal,,,
+49040,,2019-08-12 15:19,USD,False,5,2021-04-01 04:06,BACKER,Backers,105,USER,https://opencollective.com/ross-pfahler,,,
+49384,,2019-08-16 02:24,USD,True,75,2019-08-16 02:24,BACKER,0,75,USER,https://opencollective.com/shiqi-li,,,
+49473,,2019-08-17 04:12,USD,True,75,2019-08-17 04:12,BACKER,0,75,USER,https://opencollective.com/ben-hannel,,,
+49728,,2019-08-20 08:23,USD,True,26.42,2019-08-20 08:23,BACKER,0,26.42,ORGANIZATION,https://opencollective.com/camplight,https://twitter.com/campenlightment,https://github.com/camplight,https://camplight.net/
+50205,,2019-08-24 16:35,USD,True,10,2019-08-24 16:35,BACKER,0,10,USER,https://opencollective.com/lance-rutkin,,,
+50641,,2019-08-28 22:17,USD,True,150,2019-08-28 22:17,BACKER,0,150,USER,https://opencollective.com/ronnie-cheng,,,
+50642,,2019-08-28 22:17,USD,True,10000,2023-03-23 20:47,BACKER,0,20180,FUND,https://opencollective.com/indeed,,,https://Indeed.com
+50889,Webbituote Finland,2019-08-31 11:24,USD,False,2,2019-12-01 05:23,BACKER,Backers,10,USER,https://opencollective.com/anonymous11,,,https://webbituote.fi
+50922,,2019-08-31 20:10,USD,False,5,2021-06-01 03:07,BACKER,Backers,115,USER,https://opencollective.com/strubt,https://twitter.com/StrubT,https://github.com/StrubT,https://StrubT.ch
+51165,,2019-09-03 06:16,USD,False,2,2020-03-01 05:26,BACKER,Backers,14,USER,https://opencollective.com/timbergus,,,https://timbergus.github.io/
+51253,,2019-09-03 23:53,USD,False,2,2020-04-03 05:09,BACKER,Backers,16,USER,https://opencollective.com/pcooney10,https://twitter.com/pcooney10,https://github.com/pcooney10,https://pcooney10.com
+51271,,2019-09-04 01:06,USD,True,10,2019-09-04 01:06,BACKER,0,10,USER,https://opencollective.com/ali-bhujwala,,,
+51479,,2019-09-05 17:02,USD,True,25,2019-09-05 17:02,BACKER,0,25,USER,https://opencollective.com/cheng-quan,,,
+51608,,2019-09-06 19:11,USD,False,10,2022-02-01 13:19,BACKER,Backers,195,USER,https://opencollective.com/eps1lon,https://twitter.com/sebsilbermann,https://github.com/eps1lon,https://solverfox.dev/
+51624,,2019-09-07 00:24,USD,True,20,2019-09-07 00:24,BACKER,0,20,USER,https://opencollective.com/venkatperi,,https://github.com/venkatperi,https://www.vperi.com
+51859,,2019-09-08 21:13,USD,True,75,2019-09-08 21:13,BACKER,0,75,USER,https://opencollective.com/rajiv-bharadwaja,,,
+52368,,2019-09-10 12:35,USD,False,10,2020-09-01 08:49,BACKER,Backers,130,USER,https://opencollective.com/k15a,https://twitter.com/_konsch,https://github.com/k15a,
+52473,@amazon,2019-09-11 00:18,USD,True,75,2019-09-11 00:18,BACKER,0,75,USER,https://opencollective.com/daifei4321,,https://github.com/daifei4321,https://daifei4321.com
+52492,,2019-09-11 06:12,USD,False,2,2020-01-02 05:21,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/quizshow-trainingslager,,,https://www.quizshow-trainingslager.de
+52722,,2019-09-12 15:22,USD,False,10,2020-11-01 00:07,BACKER,Backers,150,ORGANIZATION,https://opencollective.com/leveluptuts,https://twitter.com/leveluptuts,https://github.com/leveluptuts,https://leveluptutorials.com
+52818,,2019-09-13 16:37,USD,True,75,2019-09-13 16:37,BACKER,0,75,USER,https://opencollective.com/chuck-lan,,,
+52948,,2019-09-15 02:10,USD,False,8,2020-04-02 05:28,BACKER,Backers,64,USER,https://opencollective.com/corin-chellberg,,,
+53254,,2019-09-17 18:37,USD,True,75,2019-09-17 18:37,BACKER,0,75,USER,https://opencollective.com/eric-peterson1,,,
+53368,,2019-09-18 16:58,USD,True,75,2019-09-18 16:58,BACKER,0,75,USER,https://opencollective.com/cindy-chang,,,
+53465,,2019-09-19 10:41,USD,True,10,2019-09-19 10:41,BACKER,0,10,USER,https://opencollective.com/frank-poon,,,
+53640,,2019-09-20 14:26,USD,True,20,2019-09-20 14:26,BACKER,0,20,USER,https://opencollective.com/incognito-36b5a88c,,,
+53787,,2019-09-22 02:06,USD,True,75,2019-09-22 02:06,BACKER,0,75,USER,https://opencollective.com/sam-pinheiro,,,
+53823,,2019-09-22 17:15,USD,True,25,2019-09-22 17:15,BACKER,0,25,USER,https://opencollective.com/oleksandr-hnatkovskyy,,,
+53899,,2019-09-23 09:24,USD,True,50,2019-09-23 09:24,BACKER,0,50,ORGANIZATION,https://opencollective.com/laboral-kutxa,,,https://www.laboralkutxa.com
+54094,,2019-09-24 16:17,USD,True,25,2019-09-24 16:17,BACKER,0,25,USER,https://opencollective.com/ryan-ludwig,,,
+54381,,2019-09-26 17:25,USD,False,5,2020-04-03 05:04,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/0xtracker,https://twitter.com/0xTracker,https://github.com/0xtracker,https://0xtracker.com
+54523,,2019-09-27 14:05,USD,True,27,2019-11-09 01:13,BACKER,0,44,USER,https://opencollective.com/radu-cioplea,https://twitter.com/legosystem,https://github.com/legosystem,
+54654,,2019-09-28 15:59,USD,True,25,2019-09-28 15:59,BACKER,0,25,USER,https://opencollective.com/arjun-srinivasan,,,
+54854,,2019-09-30 11:51,USD,True,10,2019-09-01 05:01,BACKER,0,398,ORGANIZATION,https://opencollective.com/matterstech,https://twitter.com/matterstech,,https://matters.tech
+55040,,2019-10-01 15:04,USD,False,100,2019-10-01 15:04,BACKER,Bronze Sponsors,100,ORGANIZATION,https://opencollective.com/bonus-finder,,,https://www.bonus.ca/
+55732,,2019-10-05 15:04,0,True,0,2024-08-27 08:20,BACKER,0,0,USER,https://opencollective.com/ali-hinrichs,,https://github.com/jpatteron733,https://github.com/jpatterson733
+55734,,2019-10-05 15:11,0,True,0,2024-08-27 08:20,CONTRIBUTOR,0,0,USER,https://opencollective.com/ali-hinrichs,,https://github.com/jpatteron733,https://github.com/jpatterson733
+55741,,2019-10-05 16:15,USD,True,75,2019-10-05 16:15,BACKER,0,75,USER,https://opencollective.com/miles-daudistel,,,
+55952,,2019-10-07 16:07,USD,True,25,2019-10-07 16:07,BACKER,0,25,USER,https://opencollective.com/varun-hegde,,,
+56292,,2019-10-09 19:31,USD,True,10,2019-10-09 19:31,BACKER,0,10,USER,https://opencollective.com/austin-gil,,,
+56611,,2019-10-11 16:01,USD,True,20,2019-10-11 16:01,BACKER,0,20,USER,https://opencollective.com/tejas-narayan,,,
+56626,,2019-10-11 17:26,USD,False,500,2020-08-03 05:18,BACKER,Silver Sponsors,5500,ORGANIZATION,https://opencollective.com/casinotopp-sverige,,,https://www.casinotopp.net/sv/
+57887,,2019-10-16 14:50,USD,False,500,2019-10-16 14:50,BACKER,Silver Sponsors,500,ORGANIZATION,https://opencollective.com/crosswordsolver,,,https://www.crosswordsolver.com
+57903,,2019-10-16 16:32,USD,True,20,2019-10-16 16:32,BACKER,0,20,USER,https://opencollective.com/bing-xie,,,
+58210,,2019-10-18 07:03,USD,True,5,2019-10-18 07:03,BACKER,0,5,USER,https://opencollective.com/lenox-kamil,,,https://www.wikiversus.com/
+58385,,2019-10-19 15:58,USD,True,75,2019-10-19 15:58,BACKER,0,75,USER,https://opencollective.com/gregory-fabry,,,
+58395,,2019-10-19 16:32,USD,True,10,2019-10-19 16:32,BACKER,0,10,USER,https://opencollective.com/ryan-bell,,,
+58433,,2019-10-20 00:38,USD,True,50,2019-10-20 00:38,BACKER,0,50,USER,https://opencollective.com/marat-karakhanov,,,
+58459,,2019-10-20 14:42,USD,True,25,2019-10-20 14:42,BACKER,0,25,USER,https://opencollective.com/roger-parent,,,
+58471,,2019-10-20 16:08,USD,True,20,2019-10-20 16:08,BACKER,0,20,USER,https://opencollective.com/tyler-benton,,,
+58629,,2019-10-21 16:07,USD,False,100,2021-10-01 06:16,BACKER,Bronze Sponsors,2400,ORGANIZATION,https://opencollective.com/bugsnag-stability-monitoring,https://twitter.com/bugsnag,https://github.com/bugsnag,
+59071,,2019-10-24 15:19,USD,False,501,2020-08-04 05:07,BACKER,Silver Sponsors,5004,ORGANIZATION,https://opencollective.com/casinotop-espana,,,https://www.casinotop.com/es/
+59519,,2019-10-28 16:25,USD,True,2500,2020-10-01 03:03,BACKER,0,18500,ORGANIZATION,https://opencollective.com/gatsbyjs,https://twitter.com/gatsbyjs,,https://www.gatsbyjs.com
+59588,,2019-10-29 02:12,USD,True,10,2019-10-29 02:12,BACKER,0,10,USER,https://opencollective.com/haiyin-wang,,,
+59602,,2019-10-29 04:50,USD,True,50,2019-10-29 04:50,BACKER,0,50,USER,https://opencollective.com/michael-dreyer,,,
+59658,,2019-10-29 16:49,USD,True,75,2019-10-29 16:49,BACKER,0,75,USER,https://opencollective.com/arpit-saxena,,,
+59663,,2019-10-29 17:15,USD,True,37.5,2019-10-29 17:15,BACKER,0,37.5,USER,https://opencollective.com/mohseen-mukaddam,,,
+59767,,2019-10-30 12:42,USD,True,10,2021-05-04 01:48,BACKER,0,22,USER,https://opencollective.com/38elements,https://twitter.com/38elements,https://github.com/38elements,https://japanese-document.github.io/lit/api-LitElement.html
+59828,,2019-10-30 18:50,USD,True,75,2019-10-30 18:50,BACKER,0,75,USER,https://opencollective.com/abhilash-jindal,,,
+59963,,2019-10-31 22:52,USD,True,75,2019-10-31 22:52,BACKER,0,75,USER,https://opencollective.com/olukayode-ashaolu,,,
+59976,,2019-11-01 01:59,USD,True,200,2024-08-01 01:06,BACKER,Bronze Sponsors,28700,ORGANIZATION,https://opencollective.com/elastic,https://twitter.com/elastic,https://github.com/elastic,https://elastic.co/
+60097,,2019-11-01 16:05,USD,True,15,2019-11-01 16:05,BACKER,0,15,USER,https://opencollective.com/sergii-maksymenko,,,
+60135,,2019-11-01 20:10,USD,True,75,2019-11-01 20:10,BACKER,0,75,USER,https://opencollective.com/jeffrey-gasvoda,,,
+60223,,2019-11-02 17:03,USD,True,20,2019-11-02 17:03,BACKER,0,20,USER,https://opencollective.com/pavel101,,,
+60381,,2019-11-04 03:47,USD,True,25,2019-11-04 03:48,BACKER,0,50,USER,https://opencollective.com/daniel-miller1,,,
+61009,,2019-11-08 01:09,USD,False,500,2023-06-01 02:06,BACKER,Silver Sponsors,22000,ORGANIZATION,https://opencollective.com/vercel,https://twitter.com/vercel,https://github.com/vercel,https://vercel.com
+61124,,2019-11-09 03:01,USD,False,10,2020-01-02 05:07,BACKER,Backers,30,USER,https://opencollective.com/wxt2005,https://twitter.com/wxt2006,https://github.com/wxt2005,https://twitter.com/wxt2005
+61139,,2019-11-09 08:55,USD,False,2,2021-07-01 09:03,BACKER,Backers,42,USER,https://opencollective.com/amit-shah,,,
+61264,,2019-11-10 17:22,USD,True,10,2019-11-10 17:22,BACKER,0,10,USER,https://opencollective.com/mohamad-shiralizadeh,https://twitter.com/shiralizadeh,https://github.com/shiralizadeh,https://imakeweb.ir/
+61271,,2019-11-10 18:19,USD,True,75,2019-11-10 18:19,BACKER,0,75,USER,https://opencollective.com/yungun-lee,,,
+61355,,2019-11-11 14:51,USD,True,6.91,2020-06-02 05:28,BACKER,0,48.37,ORGANIZATION,https://opencollective.com/codefund,https://twitter.com/codefundio,https://github.com/gitcoinco/code_fund_ads,https://codefund.io
+61628,,2019-11-13 07:47,USD,True,1,2020-02-26 09:08,BACKER,0,1,USER,https://opencollective.com/lin-du,https://twitter.com/slideshowp2,https://github.com/mrdulin,https://osu.ppy.sh/users/6112485
+61945,,2019-11-15 19:27,USD,True,20,2019-11-15 19:27,BACKER,0,20,USER,https://opencollective.com/kaylie-kwon,,,
+62139,,2019-11-17 17:10,USD,True,10,2019-11-17 17:10,BACKER,0,10,USER,https://opencollective.com/oscar-gala-grano,,,
+62168,,2019-11-17 21:51,USD,True,75,2019-11-17 21:51,BACKER,0,75,USER,https://opencollective.com/logan-harrison,,,
+62211,,2019-11-18 06:59,USD,True,20,2019-11-18 06:59,BACKER,0,20,USER,https://opencollective.com/surjit-singh,,,
+62324,,2019-11-19 01:55,USD,True,2222,2019-11-19 01:55,BACKER,0,2222,ORGANIZATION,https://opencollective.com/netflix,,https://github.com/Netflix,https://www.netflix.com/
+62370,Orbita Center,2019-11-19 13:34,USD,False,2,2020-07-01 05:13,BACKER,Backers,16,USER,https://opencollective.com/ilya-sevostyanov,,https://github.com/RUVATA,https://github.com/RUVATA
+62396,,2019-11-19 19:38,USD,True,-5400,2024-08-22 12:02,ADMIN,0,0,USER,https://opencollective.com/junliang-huang,,,
+62574,,2019-11-20 17:13,USD,True,35,2019-11-20 17:13,BACKER,0,35,USER,https://opencollective.com/kenneth-lin,,,
+62588,,2019-11-20 18:46,USD,True,25,2019-11-20 18:46,BACKER,0,25,USER,https://opencollective.com/jason-busse,,,
+62628,,2019-11-21 01:19,USD,True,2,2024-08-01 04:03,BACKER,Backers,114,USER,https://opencollective.com/jonas-frost,,,https://duplo.org
+62856,,2019-11-22 18:53,USD,True,25,2019-11-22 18:53,BACKER,0,25,USER,https://opencollective.com/chris-roth,,,
+62996,,2019-11-24 20:06,USD,True,25,2019-11-24 20:06,BACKER,0,25,USER,https://opencollective.com/christopher-j-foster,,,
+63116,,2019-11-25 20:33,USD,True,25,2019-11-25 20:33,BACKER,0,25,USER,https://opencollective.com/rose-lin,,,
+63155,,2019-11-26 06:41,USD,True,1,2019-11-26 06:41,BACKER,0,1,COLLECTIVE,https://opencollective.com/slideshowp2,,https://github.com/mrdulin/blog,
+63255,,2019-11-26 23:16,USD,True,1,2019-11-26 23:16,BACKER,0,1,USER,https://opencollective.com/shayne-parker,https://twitter.com/Underes30617513,,
+63528,,2019-11-29 17:25,USD,True,15,2019-11-29 17:27,BACKER,0,45,USER,https://opencollective.com/rakesh-rai,,,
+63581,,2019-11-30 09:27,USD,True,-2,2024-08-14 11:19,BACKER,0,1355.15,ORGANIZATION,https://opencollective.com/opensource,https://twitter.com/OpenSourceColl,,https://oscollective.org/
+63704,@kualico,2019-12-01 16:15,USD,True,2.29,2020-01-02 05:28,BACKER,0,6.89,USER,https://opencollective.com/matt-miller,,https://github.com/mmiller42,https://mmiller.me/
+63851,,2019-12-02 12:27,USD,True,50,2019-12-02 12:27,BACKER,0,50,USER,https://opencollective.com/scott-gottreu,,,
+64213,,2019-12-04 17:07,USD,True,24,2019-12-04 17:07,BACKER,0,24,USER,https://opencollective.com/forest-xia,,,
+64236,,2019-12-04 19:22,USD,True,5,2019-12-04 19:22,BACKER,0,5,USER,https://opencollective.com/david-davis,,,
+64247,,2019-12-04 21:27,USD,True,-2000,2020-10-12 04:29,CONTRIBUTOR,0,0,USER,https://opencollective.com/kaicataldo,https://twitter.com/kai_cataldo,https://github.com/kaicataldo,https://kaicataldo.com
+64276,,2019-12-05 05:16,USD,True,5,2019-12-05 05:16,BACKER,0,5,USER,https://opencollective.com/ec,,,
+64385,,2019-12-05 22:22,USD,True,75,2019-12-05 22:22,BACKER,0,75,USER,https://opencollective.com/mike-sukmanowsky,,,
+64649,,2019-12-07 23:07,USD,True,75,2019-12-07 23:07,BACKER,0,75,USER,https://opencollective.com/mendy-berger,,,
+65474,,2019-12-13 18:45,USD,True,75,2019-12-13 18:44,BACKER,0,75,USER,https://opencollective.com/craig-baker,,,
+66071,@github,2019-12-18 07:03,USD,True,1,2022-12-01 03:07,BACKER,0,36,USER,https://opencollective.com/ktravers,https://twitter.com/kttravers,https://github.com/ktraver,
+66388,,2019-12-19 17:13,USD,False,24000,2020-01-10 05:01,BACKER,Base Support Sponsor,73600,FUND,https://opencollective.com/amp,https://twitter.com/amphtml,,https://www.ampproject.org/
+66391,,2019-12-19 17:13,USD,True,10,2019-12-02 05:14,BACKER,0,260,USER,https://opencollective.com/simonkjellberg,https://twitter.com/simonkberg,https://github.com/imonkberg,https://simon.dev
+66422,,2019-12-19 17:13,USD,False,25,2022-11-01 05:17,BACKER,Backers,1725,USER,https://opencollective.com/jasonlaster11,https://twitter.com/jasonlaster11,,https://jasonlaster.github.io
+66423,,2019-12-19 17:13,USD,True,25,2022-10-01 06:04,BACKER,0,1725,USER,https://opencollective.com/jasonlaster11,https://twitter.com/jasonlaster11,,https://jasonlaster.github.io
+66426,,2019-12-19 17:13,USD,False,10,2020-04-01 05:01,BACKER,Backers,260,USER,https://opencollective.com/ev1stensberg,,,
+66450,,2019-12-19 17:13,USD,False,100,2020-08-01 10:43,BACKER,Bronze Sponsors,32500,ORGANIZATION,https://opencollective.com/frontendmasters,https://twitter.com/FrontendMasters,https://github.com/frontendmasters,https://FrontendMasters.com
+66486,,2019-12-19 17:13,USD,False,500,2020-04-01 05:03,BACKER,Silver Sponsors,8800,ORGANIZATION,https://opencollective.com/clayglobal,https://twitter.com/clayglobal,,https://clay.global
+66510,,2019-12-19 17:13,USD,False,250,2022-06-01 01:01,BACKER,Silver Sponsors,22750,ORGANIZATION,https://opencollective.com/webflow,https://twitter.com/webflowapp,,https://webflow.com
+66518,,2019-12-19 17:13,USD,True,24000,2018-08-08 19:26,BACKER,0,48000,ORGANIZATION,https://opencollective.com/trivago,https://twitter.com/trivago_tech,,https://tech.trivago.com/opensource
+66623,,2019-12-19 17:13,USD,False,2,2021-02-01 09:11,BACKER,Backers,100,USER,https://opencollective.com/mbaroukh,https://twitter.com/mbaroukh,,
+66642,,2019-12-19 17:13,USD,True,1000,2018-11-01 05:28,BACKER,0,9500,FUND,https://opencollective.com/coinbase,https://twitter.com/coinbase,https://github.com/coinbase,https://blog.coinbase.com/engineering-and-security/home
+66849,,2019-12-19 17:13,USD,True,10,2019-02-27 05:04,BACKER,0,260,USER,https://opencollective.com/brie-bunge,,,
+67055,,2019-12-19 17:25,USD,True,10,2019-12-19 17:25,BACKER,0,10,USER,https://opencollective.com/dmytro-bodnar,,https://github.com/dmibod,https://github.com/dmibod
+67059,,2019-12-19 17:36,USD,True,5,2019-12-19 17:36,BACKER,0,5,USER,https://opencollective.com/shannon-paige,,,
+67060,,2019-12-19 17:36,USD,True,1000,2024-06-01 09:05,BACKER,0,75266,FUND,https://opencollective.com/salesforce,https://twitter.com/salesforce,https://github.com/salesforce,https://engineering.salesforce.com
+67094,,2019-12-19 21:04,USD,True,10,2019-12-19 21:04,BACKER,0,10,USER,https://opencollective.com/chances,,https://github.com/chance,https://chancesnow.me
+67188,,2019-12-20 12:40,USD,False,2,2020-04-01 05:05,BACKER,Backers,8,ORGANIZATION,https://opencollective.com/alle-kredittkort,,,https://xn--lneport-exa.no/sammenlign-kredittkort/
+67190,,2019-12-20 12:42,USD,False,3.5,2019-12-20 12:42,BACKER,Backers,3.5,ORGANIZATION,https://opencollective.com/kviklan-24-7,,,https://xn--kvikln247-92a.dk/
+67223,,2019-12-20 15:25,USD,True,5,2019-12-20 15:25,BACKER,0,5,USER,https://opencollective.com/fran,,,
+67281,,2019-12-21 00:50,USD,False,10,2021-08-01 01:25,BACKER,Backers,200,USER,https://opencollective.com/alex-ash,,,
+67520,,2019-12-23 16:12,USD,True,5,2019-12-23 16:12,BACKER,0,5,USER,https://opencollective.com/peter4,,,
+67584,,2019-12-24 07:56,USD,True,5,2019-12-24 07:56,BACKER,0,5,ORGANIZATION,https://opencollective.com/tentenbiz,https://twitter.com/tentenbiz,https://github.com/tentenbiz,https://10horizonsplugins.com
+67843,,2019-12-27 13:48,USD,True,75,2019-12-27 13:48,BACKER,0,75,USER,https://opencollective.com/luke-avsec,,,
+67963,,2019-12-28 17:30,USD,True,75,2019-12-28 17:30,BACKER,0,75,USER,https://opencollective.com/saed-sayedahmed,,,
+67970,Igalia,2019-12-28 19:43,USD,True,5,2019-12-28 19:43,BACKER,0,5,USER,https://opencollective.com/ryzokuken,https://twitter.com/ryzokuken,https://github.com/ryzokuken,https://ryzokuken.github.io
+68013,,2019-12-29 10:38,USD,True,1,2020-11-01 03:06,BACKER,0,11,USER,https://opencollective.com/incognito-26c59fb7,,,
+68149,,2019-12-30 13:09,USD,True,100,2019-12-30 13:09,BACKER,0,100,ORGANIZATION,https://opencollective.com/rendez-vous-digital,,,https://rendez-vous-digital.com
+68197,,2019-12-30 20:41,USD,True,5,2019-12-30 20:40,BACKER,0,5,USER,https://opencollective.com/rodvin-danaei,,,
+69050,,2020-01-06 21:42,USD,True,5,2020-01-06 21:42,BACKER,0,5,USER,https://opencollective.com/ee-may-lee,,,
+69135,,2020-01-07 10:42,USD,True,25,2020-01-07 10:42,BACKER,0,25,USER,https://opencollective.com/dario-fuzinato,,,
+69206,,2020-01-07 16:45,USD,True,5,2020-01-07 16:45,BACKER,0,5,USER,https://opencollective.com/chris-pine,,,
+70440,,2020-01-14 01:41,USD,True,10,2020-01-14 01:41,BACKER,0,10,USER,https://opencollective.com/prajwal-shrestha,,,
+70874,,2020-01-16 17:05,USD,True,75,2020-01-16 17:05,BACKER,0,75,USER,https://opencollective.com/maxwell-tietze,,,
+70880,,2020-01-16 17:50,USD,True,20,2020-01-16 17:50,BACKER,0,20,USER,https://opencollective.com/aaron-jones,,,
+71097,,2020-01-18 09:14,USD,False,1,2022-11-01 07:15,BACKER,Backers,42,USER,https://opencollective.com/kristof-michiels,https://twitter.com/admkrm,https://github.com/admkrm,https://krs.tf
+71339,@canva1,2020-01-20 09:20,USD,True,50,2020-01-20 09:20,BACKER,0,50,USER,https://opencollective.com/silicon_soldier,https://twitter.com/Silicon_Soldier,https://github.com/Silic0nS0lider,https://djmm.me/
+71433,@justapagamentos,2020-01-20 21:55,USD,False,2,2020-03-01 05:14,BACKER,Backers,4,USER,https://opencollective.com/rai-siqueira,https://twitter.com/rai_siqueira,https://github.com/raisiqueira,https://raisiqueira.dev
+71914,,2020-01-23 17:29,USD,True,20,2020-01-23 17:29,BACKER,0,20,USER,https://opencollective.com/parth-ingle,,,
+72485,,2020-01-27 21:42,USD,True,20,2020-01-27 21:42,BACKER,0,20,USER,https://opencollective.com/incognito-246a2736,,,
+72636,,2020-01-28 23:45,USD,True,20,2020-01-28 23:45,BACKER,0,20,USER,https://opencollective.com/william-wyatt-maleta,,,
+72674,,2020-01-29 10:59,USD,True,1,2020-03-01 05:16,BACKER,0,2,USER,https://opencollective.com/martin-montes,,,
+72847,,2020-01-30 14:51,USD,True,50,2020-01-30 14:51,BACKER,0,50,USER,https://opencollective.com/derick-quartey,,,
+73152,,2020-02-01 19:13,USD,True,20,2020-02-01 19:13,BACKER,0,20,USER,https://opencollective.com/suresh-karki,,,
+73448,,2020-02-03 22:57,USD,True,5,2020-02-03 22:57,BACKER,0,5,USER,https://opencollective.com/matt-beatty,,,
+73604,,2020-02-04 18:25,USD,True,15,2020-02-04 18:25,BACKER,0,15,USER,https://opencollective.com/prayash,https://twitter.com/_prayash,https://github.com/prayah,https://prayash.io
+73817,,2020-02-06 11:49,USD,True,5,2020-02-06 11:49,BACKER,0,5,USER,https://opencollective.com/yash-damani,,,
+74156,,2020-02-08 15:34,USD,True,75,2020-02-08 15:34,BACKER,0,75,USER,https://opencollective.com/james-philhower,,,
+74198,,2020-02-08 21:47,USD,True,75,2020-02-08 21:47,BACKER,0,75,USER,https://opencollective.com/kim-cooperrider,,,
+74294,,2020-02-09 19:43,USD,True,20,2020-02-09 19:43,BACKER,0,20,USER,https://opencollective.com/evan-lohn,,,
+74488,,2020-02-10 21:17,0,True,0,2024-08-27 08:20,BACKER,0,0,COLLECTIVE,https://opencollective.com/osc,,,https://oscollective.org
+75057,,2020-02-14 04:12,USD,True,1,2020-02-14 04:12,BACKER,0,1,USER,https://opencollective.com/incognito-faeb4df1,,,
+75192,,2020-02-14 19:23,USD,False,10,2023-01-01 03:12,BACKER,Backers,360,ORGANIZATION,https://opencollective.com/prezly,https://twitter.com/prezly,https://github.com/prezly,https://www.prezly.com
+75205,,2020-02-14 21:54,USD,True,75,2020-02-14 21:54,BACKER,0,75,USER,https://opencollective.com/lachlan-tweedie,,,
+75858,,2020-02-19 09:54,USD,False,2,2022-08-01 01:12,BACKER,Backers,60,USER,https://opencollective.com/asaf-yishai,,,
+76221,,2020-02-21 17:39,USD,True,25,2020-02-21 17:39,BACKER,0,25,USER,https://opencollective.com/andrew-wong,,,
+76308,,2020-02-22 20:25,USD,True,5,2020-02-22 20:25,BACKER,0,5,USER,https://opencollective.com/myshal-zaheer,,,
+76384,,2020-02-23 18:08,USD,True,25,2020-02-23 18:08,BACKER,0,25,USER,https://opencollective.com/rebecca-abraham,,,
+76732,,2020-02-26 03:48,USD,True,1,2020-02-26 03:48,BACKER,0,1,USER,https://opencollective.com/eduardo-morales,,,
+76822,,2020-02-26 19:16,USD,True,25,2020-02-26 19:16,BACKER,0,25,USER,https://opencollective.com/alvin-zablan,,,
+76848,,2020-02-26 22:24,USD,True,100,2020-02-26 22:24,BACKER,0,100,ORGANIZATION,https://opencollective.com/uffizzicloud,https://twitter.com/uffizzicloud,,https://www.uffizzi.cloud
+77087,,2020-02-28 05:52,USD,True,5,2020-02-28 05:52,BACKER,0,5,USER,https://opencollective.com/andrew-tang,,,
+77088,,2020-02-28 05:52,0,True,0,2024-08-27 08:20,BACKER,0,146,ORGANIZATION,https://opencollective.com/thinkmill,https://twitter.com/thethinkmill,https://github.com/thinkmill,https://www.thinkmill.com.au
+77100,,2020-02-28 08:14,USD,True,5,2020-02-28 08:14,BACKER,0,5,USER,https://opencollective.com/andi,,,
+77103,,2020-02-28 08:33,USD,True,5,2020-02-28 08:33,BACKER,0,5,USER,https://opencollective.com/kemble-song,,,
+77249,,2020-02-28 23:15,USD,False,2,2021-07-01 13:07,BACKER,Backers,46,ORGANIZATION,https://opencollective.com/remoteteamcom,https://twitter.com/remoteteamcom,https://github.com/remoteteamcom,https://www.remoteteam.com
+77287,,2020-02-29 03:18,USD,True,5,2020-02-29 03:18,BACKER,0,5,USER,https://opencollective.com/ryan-braganza,,,
+77298,,2020-02-29 04:47,USD,True,5,2020-02-29 04:47,BACKER,0,5,USER,https://opencollective.com/felix-gudehn,,,
+77344,,2020-02-29 10:08,USD,True,1,2020-02-29 10:08,BACKER,0,1,USER,https://opencollective.com/chris-colborne,,,
+77436,,2020-03-01 10:29,USD,True,5,2020-03-01 10:29,BACKER,0,5,USER,https://opencollective.com/terence-jeong,,,
+77513,,2020-03-02 00:28,USD,True,5,2020-03-02 00:28,BACKER,0,5,USER,https://opencollective.com/daniel-emery,,,
+77516,,2020-03-02 01:11,USD,True,5,2020-03-02 01:11,BACKER,0,5,USER,https://opencollective.com/fed,,,
+77519,,2020-03-02 01:53,USD,True,5,2020-03-02 01:53,BACKER,0,5,USER,https://opencollective.com/wenbo-jie,,,
+77750,@conversation,2020-03-03 08:42,USD,True,5,2020-03-03 08:42,BACKER,0,5,USER,https://opencollective.com/ags,,https://github.com/ag,
+77768,,2020-03-03 10:11,USD,True,5,2020-03-03 10:11,BACKER,0,5,USER,https://opencollective.com/zac-metin,,,
+77886,,2020-03-03 23:18,USD,True,5,2020-03-03 23:18,BACKER,0,5,USER,https://opencollective.com/james13,,,
+77899,,2020-03-04 01:47,USD,True,5,2020-03-04 01:47,BACKER,0,5,USER,https://opencollective.com/brian-chen,,,
+77915,,2020-03-04 04:43,USD,True,5,2020-03-04 04:43,BACKER,0,5,USER,https://opencollective.com/benjamin-doyle,,,
+77973,,2020-03-04 13:11,USD,True,5,2020-03-04 13:11,BACKER,0,5,USER,https://opencollective.com/lisa-tassone,,,
+78232,,2020-03-05 19:04,USD,True,12.5,2020-03-05 19:04,BACKER,0,12.5,USER,https://opencollective.com/jaime-mccandless,,,
+78237,,2020-03-05 20:01,USD,True,5,2020-03-05 20:01,BACKER,0,5,USER,https://opencollective.com/tim-redmond,,,
+78291,,2020-03-06 04:51,USD,True,5,2020-03-06 04:51,BACKER,0,5,USER,https://opencollective.com/karl-ringrose,,,
+78310,,2020-03-06 09:47,USD,True,5,2020-03-06 09:47,BACKER,0,5,USER,https://opencollective.com/josh6,,,
+78535,,2020-03-08 07:49,USD,True,5,2020-03-08 07:49,BACKER,0,5,USER,https://opencollective.com/kelvin-tan,,,
+78548,,2020-03-08 09:57,USD,True,5,2020-03-08 09:57,BACKER,0,5,USER,https://opencollective.com/sergey-stadnik,,,
+78643,,2020-03-09 01:58,USD,True,5,2020-03-09 01:58,BACKER,0,5,USER,https://opencollective.com/andrew4,,,
+78787,,2020-03-10 05:16,USD,True,5,2020-03-10 05:16,BACKER,0,5,USER,https://opencollective.com/ewan-horsburgh,,,
+78808,,2020-03-10 09:05,USD,True,5,2020-03-10 09:05,BACKER,0,5,USER,https://opencollective.com/bowen-li,,https://github.com/bowen31337,https://github.com/bowen31337
+79114,,2020-03-12 04:36,USD,True,5,2020-03-12 04:36,BACKER,0,5,USER,https://opencollective.com/benweier,https://twitter.com/benweier,https://github.com/benweier,
+79149,,2020-03-12 10:37,USD,False,500,2020-08-02 05:20,BACKER,Silver Sponsors,3000,ORGANIZATION,https://opencollective.com/nettikasinot-org,,,https://www.nettikasinot.org
+79668,,2020-03-15 09:43,USD,True,5,2020-03-15 09:43,BACKER,0,5,USER,https://opencollective.com/incognito-97fe8fa7,,,
+81127,,2020-03-22 22:53,USD,True,5,2020-03-22 22:53,BACKER,0,5,USER,https://opencollective.com/clement-paul,,,
+81328,,2020-03-23 23:11,USD,True,5,2020-03-23 23:11,BACKER,0,5,USER,https://opencollective.com/alex14,,,
+81448,,2020-03-24 14:07,USD,True,10,2020-03-24 14:07,BACKER,0,10,USER,https://opencollective.com/incognito-4dd76203,,,
+81464,,2020-03-24 16:02,USD,True,5,2020-03-24 16:02,BACKER,0,5,USER,https://opencollective.com/ben-hunt,,,
+81991,,2020-03-26 16:04,USD,True,25,2020-03-26 16:04,BACKER,0,25,USER,https://opencollective.com/mark-sauer-utley,,,
+82223,,2020-03-27 16:15,USD,False,2,2022-04-01 17:26,BACKER,Backers,76,USER,https://opencollective.com/juliojordan,,https://github.com/juliojordan,
+82353,,2020-03-28 12:43,USD,True,5,2021-03-01 02:11,BACKER,0,60,USER,https://opencollective.com/mattpilott,https://twitter.com/Matt_Pilott,https://github.com/mattpilott,https://matt.pilott.me/
+82645,,2020-03-29 21:53,USD,True,5,2020-03-29 21:53,BACKER,0,5,USER,https://opencollective.com/jon2,,,
+82871,,2020-03-30 17:49,USD,True,5,2020-03-30 17:49,BACKER,0,5,USER,https://opencollective.com/a-chau,,,
+82956,,2020-03-31 00:04,USD,True,5,2020-03-31 00:04,BACKER,0,5,USER,https://opencollective.com/lb,,,
+83194,,2020-03-31 16:25,USD,True,5,2020-03-31 16:25,BACKER,0,5,USER,https://opencollective.com/tristan-rasmussen,,,
+83598,,2020-04-02 05:28,USD,True,25,2020-04-02 05:28,BACKER,0,25,USER,https://opencollective.com/kevin-jeong,,,
+83731,,2020-04-02 13:41,USD,True,-2000,2021-01-14 21:08,CONTRIBUTOR,0,0,USER,https://opencollective.com/existentialism,https://twitter.com/existentialism,https://github.com/existentialism,https://brian.ng
+84020,,2020-04-03 03:43,USD,True,20,2020-04-03 03:43,BACKER,0,20,USER,https://opencollective.com/max-sadrieh1,,,
+84511,,2020-04-04 20:07,USD,True,25,2020-04-04 20:07,BACKER,0,25,USER,https://opencollective.com/sean-w-lawrence,,,
+84600,,2020-04-05 10:12,USD,True,2,2020-04-05 10:12,BACKER,0,2,USER,https://opencollective.com/aleksandr-shestakov,,,
+85455,,2020-04-08 03:26,USD,True,927.78,2020-04-08 03:26,BACKER,0,927.78,ORGANIZATION,https://opencollective.com/skyscanner,https://twitter.com/SkyscannerEng,https://github.com/skyscanner,https://www.skyscanner.net
+86156,,2020-04-09 21:52,USD,True,10,2024-08-01 02:03,BACKER,0,530,ORGANIZATION,https://opencollective.com/rstudio,https://twitter.com/rstudio,https://github.com/posit-dev,https://posit.co/
+86604,,2020-04-11 13:24,USD,True,5,2020-04-11 13:24,BACKER,0,5,USER,https://opencollective.com/samuel-norris,,,
+86780,,2020-04-12 09:36,USD,False,2,2023-07-01 04:06,BACKER,Backers,80,USER,https://opencollective.com/mattmanuel90,,https://github.com/mattmanuel90,
+87143,,2020-04-13 16:51,USD,True,15,2020-04-13 16:51,BACKER,0,15,USER,https://opencollective.com/alexis-quintal,,,
+87193,,2020-04-13 18:27,USD,False,2,2020-06-03 05:24,BACKER,Backers,6,USER,https://opencollective.com/sam-walsh,,,
+87285,,2020-04-14 07:20,USD,True,15,2020-04-14 07:20,BACKER,0,15,USER,https://opencollective.com/duck,,,
+87882,,2020-04-15 16:40,USD,True,5,2020-04-15 16:40,BACKER,0,5,USER,https://opencollective.com/garrett-mccullough,,,
+88374,,2020-04-16 23:28,USD,True,50,2022-04-01 07:06,BACKER,0,1200,ORGANIZATION,https://opencollective.com/underbelly,https://twitter.com/underbelly,https://github.com/underbelly,https://www.underbelly.is
+88668,,2020-04-17 18:39,USD,True,5,2020-04-17 18:39,BACKER,0,5,USER,https://opencollective.com/incognito-f1733f0b,,,
+89720,,2020-04-20 15:16,USD,True,10,2020-04-20 15:16,BACKER,0,10,USER,https://opencollective.com/bryan-spearman,,,
+89922,,2020-04-21 00:12,USD,False,500,2022-11-01 11:22,BACKER,Silver Sponsors,11500,ORGANIZATION,https://opencollective.com/turtlebet-nettikasinot,,,https://www.turtlebet.com/fi/kaikki-nettikasinot.html
+91110,,2020-04-23 22:27,USD,True,40,2024-04-01 01:08,BACKER,0,200,USER,https://opencollective.com/roman-nazarenko,,,
+91903,,2020-04-27 05:45,USD,True,5,2020-04-27 05:45,BACKER,0,5,USER,https://opencollective.com/davidkhala,,https://github.com/davidkhala,
+92087,,2020-04-27 16:41,USD,True,50,2020-04-27 16:41,BACKER,0,50,USER,https://opencollective.com/kanchanna-balraj1,,,
+92329,,2020-04-28 11:40,USD,False,2,2021-03-01 12:11,BACKER,Backers,22,ORGANIZATION,https://opencollective.com/vpndo,https://twitter.com/vpndoc,,https://vpndo.com/
+95172,,2020-05-06 11:19,USD,True,1,2020-05-06 11:19,BACKER,0,1,ORGANIZATION,https://opencollective.com/life_bassrashka,https://twitter.com/life_bassrashka,,https://reviewcart.us/
+95848,,2020-05-08 07:35,USD,False,5,2020-08-03 05:20,BACKER,Backers,20,USER,https://opencollective.com/briwa,,,
+97329,,2020-05-13 22:00,USD,True,500,2020-05-13 22:00,BACKER,0,500,ORGANIZATION,https://opencollective.com/staffbasehq,https://twitter.com/staffbasehq,https://github.com/taffbase,https://www.staffbase.com
+97991,,2020-05-16 07:23,USD,False,5,2020-11-01 13:12,BACKER,Backers,30,USER,https://opencollective.com/janmyler,https://twitter.com/janmyler,https://github.com/janmyler,
+98247,,2020-05-17 14:38,USD,False,5,2022-12-03 00:03,BACKER,Backers,155,ORGANIZATION,https://opencollective.com/touchless,https://twitter.com/touchlesscode,https://github.com/touchleslesscode,
+98796,,2020-05-19 12:40,USD,False,500,2020-08-03 05:22,BACKER,Silver Sponsors,1500,ORGANIZATION,https://opencollective.com/netticasinohex-com,,,https://netticasinohex.com/
+98797,,2020-05-19 12:41,USD,False,500,2020-08-03 05:22,BACKER,Silver Sponsors,1500,ORGANIZATION,https://opencollective.com/casinohex-se,,,https://casinohex.se/
+100282,,2020-05-25 09:31,USD,False,500,2020-08-03 05:23,BACKER,Silver Sponsors,1500,ORGANIZATION,https://opencollective.com/casinohex-co-za,,,https://casinohex.co.za/
+100647,,2020-05-26 16:54,USD,True,2,2024-08-01 01:09,BACKER,Backers,102,ORGANIZATION,https://opencollective.com/standard-resume,https://twitter.com/standardresume,https://github.com/StandardResumeSponsors,https://standardresume.co
+100785,,2020-05-27 07:14,USD,False,2,2024-06-01 02:02,BACKER,Backers,98,ORGANIZATION,https://opencollective.com/radically-digital,,https://github.com/radically-digital,https://radically.digital
+101058,,2020-05-28 07:19,USD,False,100,2020-10-08 09:05,BACKER,Backers,215,ORGANIZATION,https://opencollective.com/passport-photos,,,
+102091,,2020-06-01 13:20,USD,False,500,2020-08-01 10:59,BACKER,Silver Sponsors,1500,ORGANIZATION,https://opencollective.com/casinot-net,,,https://www.casinot.net
+103938,,2020-06-07 14:17,USD,False,2,2020-09-01 09:21,BACKER,Backers,8,ORGANIZATION,https://opencollective.com/bbsuk,,,https://bestbettingsitesuk.co.uk
+104160,,2020-06-08 13:17,USD,False,500,2021-08-01 19:13,BACKER,Silver Sponsors,7500,ORGANIZATION,https://opencollective.com/japanesecasino,,,https://www.japanesecasino.com/
+105337,,2020-06-12 18:36,USD,True,20,2020-06-12 18:36,BACKER,0,20,USER,https://opencollective.com/darasimi-ajewole,,,
+107504,,2020-06-21 12:40,USD,True,5,2024-08-01 00:08,BACKER,Backers,252,USER,https://opencollective.com/neal-lindsay,,,
+108396,,2020-06-25 06:34,USD,True,10,2020-06-25 06:34,BACKER,0,10,USER,https://opencollective.com/kenichiro-fukushima,,,
+109551,,2020-06-28 09:32,USD,False,2,2022-11-01 21:10,BACKER,Backers,58,ORGANIZATION,https://opencollective.com/my-mobi-casino,,,https://www.mymobicasino.com
+110120,,2020-06-30 13:30,USD,True,25,2020-06-30 13:30,BACKER,0,25,USER,https://opencollective.com/incognito-411437d2,,,
+110614,,2020-07-02 11:48,USD,True,30,2020-07-02 11:48,BACKER,0,30,USER,https://opencollective.com/mcha,,,
+110730,@herodevs,2020-07-02 19:42,USD,False,5,2020-09-01 09:32,BACKER,Backers,15,USER,https://opencollective.com/ljharb,https://twitter.com/ljharb,https://github.com/ljharb,https://twitter.com/LJHarb
+110731,,2020-07-02 19:42,USD,False,1000,2024-05-01 10:06,BACKER,Backers,75266,FUND,https://opencollective.com/salesforce,https://twitter.com/salesforce,https://github.com/salesforce,https://engineering.salesforce.com
+110874,,2020-07-03 08:55,USD,True,1,2020-07-03 08:55,BACKER,0,1,USER,https://opencollective.com/sandeep-chakravartty,,,
+111015,,2020-07-03 21:18,USD,False,-3,2020-07-05 21:45,BACKER,Backers,0,ORGANIZATION,https://opencollective.com/deal-empire,,,https://dealempire.com/
+111708,,2020-07-07 15:17,USD,True,110,2020-07-07 15:17,BACKER,0,110,ORGANIZATION,https://opencollective.com/shogun,https://twitter.com/shogun,https://github.com/getshogun,https://getshogun.com
+112255,,2020-07-09 18:53,USD,True,5,2024-07-01 03:03,BACKER,0,21,USER,https://opencollective.com/francescrosas,,,
+112318,,2020-07-09 22:13,USD,False,2,2020-10-01 07:03,BACKER,Backers,8,ORGANIZATION,https://opencollective.com/cryptogambletip,https://twitter.com/cryptogambletip,,https://cryptogamble.tips
+114498,,2020-07-20 00:27,USD,False,100,2024-01-03 00:03,BACKER,Bronze Sponsors,6075,ORGANIZATION,https://opencollective.com/principal,https://twitter.com/Principal,https://github.com/PrincipalFinancialGroup,https://www.principal.com/about-us
+115193,,2020-07-23 12:08,USD,True,10,2022-08-01 23:19,BACKER,0,260,ORGANIZATION,https://opencollective.com/simedia,https://twitter.com/SiMedia,https://github.com/simedia-tech,https://www.simedia.com/
+115468,,2020-07-25 00:31,USD,True,3,2020-07-25 00:31,BACKER,0,3,USER,https://opencollective.com/mike-healy,,,
+116201,,2020-07-29 14:47,USD,True,5,2020-07-29 14:47,BACKER,0,5,USER,https://opencollective.com/se-jin-kim,,,
+116999,,2020-08-01 18:44,USD,False,2,2021-12-01 11:15,BACKER,Backers,34,ORGANIZATION,https://opencollective.com/marcotedone,https://twitter.com/marcotedone,https://github.com/techwings-io,https://techwings.io
+117903,@dazn,2020-08-05 19:07,USD,True,2,2021-12-01 08:10,BACKER,0,43,USER,https://opencollective.com/beraliv,https://twitter.com/beraliv,https://github.com/beraliv,https://blog.beraliv.dev
+119188,,2020-08-12 13:15,USD,False,500,2022-10-05 00:10,BACKER,Silver Sponsors,13500,ORGANIZATION,https://opencollective.com/nettikasinot-media,,,https://www.nettikasinot.media/
+120495,,2020-08-18 23:49,USD,True,5,2020-08-18 23:49,BACKER,0,5,ORGANIZATION,https://opencollective.com/dltxio,https://twitter.com/dltxio,https://github.com/dltxio,https://dltx.io/
+120816,,2020-08-20 18:20,USD,True,2,2020-08-20 18:20,BACKER,0,2,ORGANIZATION,https://opencollective.com/next-rekruttering,,,https://nextrekruttering.dk/
+121008,@dazn,2020-08-21 13:23,USD,False,2,2021-11-01 18:13,BACKER,Backers,43,USER,https://opencollective.com/beraliv,https://twitter.com/beraliv,https://github.com/beraliv,https://blog.beraliv.dev
+121162,,2020-08-21 23:29,USD,True,5,2021-07-01 11:12,BACKER,0,205,ORGANIZATION,https://opencollective.com/loyalty-leo,,https://github.com/L2-inc,https://www.loyaltyleo.com
+121163,,2020-08-21 23:31,USD,False,5,2021-06-01 06:04,BACKER,Backers,205,ORGANIZATION,https://opencollective.com/loyalty-leo,,https://github.com/L2-inc,https://www.loyaltyleo.com
+121229,,2020-08-22 04:24,USD,False,5,2022-05-02 03:13,BACKER,Backers,105,USER,https://opencollective.com/jennie-ji,,,
+121257,,2020-08-22 10:49,USD,False,10,2020-08-22 10:49,BACKER,Backers,10,ORGANIZATION,https://opencollective.com/hollandsegokken-nl,,,https://hollandsegokken.nl/
+121597,,2020-08-24 14:34,USD,True,5,2024-08-01 07:02,BACKER,Backers,240,USER,https://opencollective.com/mark-kauffman,,,
+122727,,2020-08-28 20:21,USD,False,100,2020-08-28 20:21,BACKER,Bronze Sponsors,215,ORGANIZATION,https://opencollective.com/passport-photos,,,
+123679,Mountain Stream Software,2020-09-02 17:17,USD,True,2,2023-04-01 00:21,BACKER,0,302,USER,https://opencollective.com/martinajackson,,,
+123878,,2020-09-03 14:53,USD,True,1000,2020-09-03 14:53,BACKER,0,1000,ORGANIZATION,https://opencollective.com/kendoui,https://twitter.com/KendoUI,https://github.com/telerik,https://www.telerik.com/kendo-ui
+124174,,2020-09-04 16:12,USD,False,2,2020-10-01 02:13,BACKER,Backers,14,USER,https://opencollective.com/lars-roettig,,https://github.com/larroettig,https://larsroettig.dev
+124175,,2020-09-04 16:14,USD,True,10,2020-09-04 16:14,BACKER,0,14,USER,https://opencollective.com/lars-roettig,,https://github.com/larroettig,https://larsroettig.dev
+125005,,2020-09-08 16:58,USD,True,5,2020-09-08 16:58,BACKER,0,5,ORGANIZATION,https://opencollective.com/czerwona-skarbonka,,,https://www.czerwona-skarbonka.pl/
+125070,,2020-09-08 22:28,USD,True,5,2020-09-08 22:28,BACKER,0,5,USER,https://opencollective.com/joshua-wu,,https://github.com/jwu910,https://joshuawu.me
+125463,,2020-09-10 08:21,USD,True,2,2020-09-10 08:21,BACKER,0,2,USER,https://opencollective.com/lin-xb,,,
+125782,,2020-09-11 11:09,USD,True,200,2020-09-11 11:09,BACKER,0,200,ORGANIZATION,https://opencollective.com/wetransfer,,,
+128455,,2020-09-24 17:24,USD,False,2,2020-11-01 04:07,BACKER,Backers,4,USER,https://opencollective.com/peter-riley-osborne,,,
+129764,,2020-10-01 13:45,USD,False,2,2021-08-01 15:17,BACKER,Backers,22,ORGANIZATION,https://opencollective.com/commithub,https://twitter.com/CommitHub,https://github.com/CommitHub,https://commithub.com
+130138,,2020-10-02 17:56,USD,True,1,2023-08-01 05:03,BACKER,0,35,USER,https://opencollective.com/incognito-db7870a5,,,
+130641,,2020-10-05 16:30,USD,False,2,2020-10-05 16:30,BACKER,Backers,2,USER,https://opencollective.com/raviraj1,,,
+132778,,2020-10-13 09:12,USD,True,20,2020-10-13 09:12,BACKER,0,20,USER,https://opencollective.com/christoph-wanja,,,
+134585,,2020-10-21 06:22,USD,True,350,2024-08-01 22:03,BACKER,0,15300,ORGANIZATION,https://opencollective.com/cybozu,https://twitter.com/cybozu,https://github.com/cybozu,https://cybozu.co.jp/
+134929,,2020-10-22 10:01,USD,True,5,2020-10-22 10:01,BACKER,0,5,USER,https://opencollective.com/qifeng-cao,,,
+135446,,2020-10-23 19:56,USD,False,5,2023-07-01 07:02,BACKER,Backers,165,USER,https://opencollective.com/oleksandr-korniienko,,,
+139114,,2020-11-09 05:31,USD,False,50,2024-06-01 15:01,BACKER,Backers,2200,ORGANIZATION,https://opencollective.com/easyagile,https://twitter.com/EasyAgile,https://github.com/Easy-Agile,https://easyagile.com
+139740,,2020-11-11 14:08,USD,True,1,2020-11-11 14:08,BACKER,0,1,ORGANIZATION,https://opencollective.com/askyt-robotics2,,,https://askyt.ru/buydoll
+141270,,2020-11-17 12:12,USD,True,5,2020-11-17 12:12,BACKER,0,5,USER,https://opencollective.com/guest-6d30e359,,,
+146651,,2020-12-03 14:29,USD,True,2,2020-12-03 14:29,BACKER,0,2,ORGANIZATION,https://opencollective.com/paypal-online-casino,,,https://paypalonline.casino
+148463,,2020-12-09 07:12,USD,False,5,2024-04-01 03:04,BACKER,Backers,205,ORGANIZATION,https://opencollective.com/datawrapper,https://twitter.com/Datawrapper,https://github.com/datawrapper,https://www.datawrapper.de
+148722,,2020-12-09 22:00,USD,True,500,2024-08-01 00:11,BACKER,Silver Sponsors,22500,ORGANIZATION,https://opencollective.com/codecademy,https://twitter.com/Codecademy,https://github.com/Codecademy,https://codecademy.com
+150094,,2020-12-15 11:16,USD,True,20,2020-12-15 11:16,BACKER,0,20,USER,https://opencollective.com/ravi-teja-pothana,,,
+152646,,2020-12-22 14:44,USD,True,5,2024-08-01 05:04,BACKER,Backers,220,ORGANIZATION,https://opencollective.com/strategyzer,https://twitter.com/strategyzer,,https://www.strategyzer.com/
+153452,,2020-12-25 07:23,USD,True,50,2020-12-25 07:23,BACKER,0,50,USER,https://opencollective.com/incognito-3adc11d3,,,
+153844,,2020-12-27 19:45,USD,True,1414.56,2024-07-25 09:17,BACKER,0,118859.36,ORGANIZATION,https://opencollective.com/github-sponsors,,,https://github.com/sponsors/
+153924,,2020-12-28 07:34,USD,False,10,2021-04-01 12:14,BACKER,Backers,40,ORGANIZATION,https://opencollective.com/squeeble,https://twitter.com/SqueebleInk,https://github.com/squeeble-ink,https://www.squeeble.ink
+154582,,2020-12-30 14:29,USD,True,10,2021-03-01 15:09,BACKER,0,40,ORGANIZATION,https://opencollective.com/squeeble,https://twitter.com/SqueebleInk,https://github.com/squeeble-ink,https://www.squeeble.ink
+154593,,2020-12-30 15:16,USD,False,5,2021-05-01 22:16,BACKER,Backers,25,COLLECTIVE,https://opencollective.com/cocnvim,https://twitter.com/chemzqm,https://github.com/chemzqm,
+154631,,2020-12-30 17:41,USD,True,100,2020-12-30 17:41,BACKER,0,100,ORGANIZATION,https://opencollective.com/opencraft3,https://twitter.com/OpenCraft3,,https://opencraft.com/
+154807,@pipedrive,2020-12-31 04:54,USD,False,5,2022-03-02 05:11,BACKER,Backers,75,USER,https://opencollective.com/ayush000,https://twitter.com/ayush000,https://github.com/ayush000,
+155333,,2021-01-01 18:30,USD,True,1,2021-05-01 11:09,BACKER,0,5,USER,https://opencollective.com/sashasushko,https://twitter.com/sashasushko,https://github.com/sashasushko,https://sushko.me
+155636,,2021-01-03 14:00,USD,False,2,2022-07-01 04:08,BACKER,Backers,38,USER,https://opencollective.com/jed,,,
+157310,,2021-01-07 10:25,USD,False,2,2021-04-03 00:13,BACKER,Backers,8,USER,https://opencollective.com/gander,https://twitter.com/GanderPL,https://github.com/gander,https://gander.dev
+157891,@salesforce,2021-01-08 19:00,USD,True,50,2021-01-08 19:00,BACKER,0,50,USER,https://opencollective.com/swati-kothari,,,
+160428,,2021-01-18 10:40,USD,True,5,2021-01-18 10:40,BACKER,0,5,USER,https://opencollective.com/andreas-knab,,,
+160801,,2021-01-19 12:25,USD,True,25,2024-08-01 00:12,BACKER,Backers,815,ORGANIZATION,https://opencollective.com/raiderio_wow,https://twitter.com/RaiderIO_WoW,,https://raider.io
+162034,,2021-01-23 21:34,USD,True,20,2021-01-23 21:34,BACKER,0,20,USER,https://opencollective.com/swrobel,https://twitter.com/swrobel,https://github.com/swrobel,https://stefanwrobel.com
+162878,@casinority_australia,2021-01-26 21:18,USD,False,500,2022-04-10 00:03,BACKER,Silver Sponsors,7500,USER,https://opencollective.com/casinority-australia,https://twitter.com/casinority,,https://casinority.com/au/
+162996,,2021-01-27 10:59,USD,True,5,2024-07-01 03:07,BACKER,0,210,ORGANIZATION,https://opencollective.com/batch,https://twitter.com/batch,https://github.com/batchlabs,https://batch.com
+163127,,2021-01-27 17:52,USD,False,100,2023-07-01 07:06,BACKER,Bronze Sponsors,12200,ORGANIZATION,https://opencollective.com/retool,https://twitter.com/retool,https://github.com/dvdhsu,https://retool.com/
+163928,,2021-01-30 08:24,USD,True,50,2021-01-30 08:24,BACKER,0,50,USER,https://opencollective.com/michael-ryan-dempsey,,,
+165044,,2021-02-03 13:21,USD,False,10,2023-09-01 07:09,BACKER,Backers,330,ORGANIZATION,https://opencollective.com/xh,,https://github.com/xh,https://xh.io
+167568,,2021-02-08 22:12,USD,True,100,2024-08-01 02:07,BACKER,Bronze Sponsors,4300,ORGANIZATION,https://opencollective.com/moderntreasury,https://twitter.com/moderntreasury,https://github.com/Modern-Treasury,https://www.moderntreasury.com
+168454,,2021-02-11 02:27,USD,True,1,2021-02-11 02:27,BACKER,0,1,USER,https://opencollective.com/guest-a8471535,,,
+169552,,2021-02-14 23:28,USD,True,1,2021-02-14 23:28,BACKER,0,2,USER,https://opencollective.com/guest-58e326a6,,,
+170272,,2021-02-17 04:59,USD,True,-0.5,2021-07-14 01:19,BACKER,0,0,USER,https://opencollective.com/guest-edf01ea8,,,
+170540,,2021-02-17 22:00,USD,True,50,2021-02-17 22:00,BACKER,0,50,USER,https://opencollective.com/matthew-ma,,,
+171510,,2021-02-20 14:35,USD,False,5,2021-11-01 11:18,BACKER,Backers,45,USER,https://opencollective.com/joealden,https://twitter.com/joealden_,https://github.com/joealden,https://joealden.com
+173234,,2021-02-26 07:48,USD,False,5,2022-10-01 05:03,BACKER,Backers,100,USER,https://opencollective.com/baekilda,,,
+175074,,2021-02-28 19:05,USD,False,100,2022-06-01 04:05,BACKER,Bronze Sponsors,1600,ORGANIZATION,https://opencollective.com/tesorio,https://twitter.com/usetesorio,https://github.com/Tesorio,https://www.tesorio.com
+175179,,2021-03-01 05:09,USD,True,10,2021-03-01 05:09,BACKER,0,10,USER,https://opencollective.com/donaldpipowitch,https://twitter.com/PipoPeperoni,https://github.com/donaldpipowitch,
+175489,,2021-03-02 01:19,USD,False,2,2022-09-01 22:17,BACKER,Backers,38,ORGANIZATION,https://opencollective.com/tripwire,,https://github.com/tripwire,https://tripwire.com
+175793,,2021-03-03 02:24,USD,False,2,2021-12-01 20:18,BACKER,Backers,20,ORGANIZATION,https://opencollective.com/jellypepperhq,https://twitter.com/jellypepperhq,https://github.com/jellypepper,https://jellypepper.com/
+178217,Pure Luck ,2021-03-12 05:47,USD,False,2,2021-05-01 22:05,BACKER,Backers,6,USER,https://opencollective.com/bigcook12345eth-net,,https://github.com/bigcook12345,
+180418,,2021-03-19 07:05,USD,True,10,2021-03-19 07:05,BACKER,0,10,USER,https://opencollective.com/guest-ace991e8,,,
+180974,,2021-03-21 07:24,USD,False,5,2021-03-21 07:24,BACKER,Backers,5,USER,https://opencollective.com/nishant-singh,https://twitter.com/inishant,https://github.com/inihant,https://nishant-singh.com
+181953,,2021-03-24 13:34,USD,False,2,2021-04-01 09:18,BACKER,Backers,4,ORGANIZATION,https://opencollective.com/gomage,,,https://www.gomage.com/
+182210,,2021-03-25 09:06,USD,True,10,2021-03-25 09:06,BACKER,0,10,USER,https://opencollective.com/yangjiao,,,
+182543,neptium,2021-03-26 09:44,USD,False,2,2021-09-01 20:03,BACKER,Backers,12,USER,https://opencollective.com/crbast,https://twitter.com/_crbast,https://github.com/crbast,https://hello.crbast.ch
+183953,,2021-03-31 19:23,USD,False,500,2022-03-10 00:03,BACKER,Silver Sponsors,6187,ORGANIZATION,https://opencollective.com/strapijs,https://twitter.com/strapijs,https://github.com/strapi/strapi,https://strapi.io/
+184129,,2021-04-01 09:18,USD,True,2,2021-03-24 13:34,BACKER,0,4,ORGANIZATION,https://opencollective.com/gomage,,,https://www.gomage.com/
+186323,,2021-04-08 06:03,USD,False,5,2024-01-01 08:03,BACKER,Backers,170,ORGANIZATION,https://opencollective.com/balsa,https://twitter.com/balsa,https://github.com/balsa,https://balsa.com/
+186566,,2021-04-09 00:17,USD,False,1000,2021-07-01 11:09,BACKER,Gold Sponsors,4000,ORGANIZATION,https://opencollective.com/gitpod,https://twitter.com/gitpod,https://github.com/gitpod-io/gitpod,https://www.gitpod.io/?utm_source=OpenCollective&utm_medium=social&utm_campaign=OpenCollective-profile
+186851,,2021-04-10 01:30,USD,True,5,2024-08-01 03:07,BACKER,Backers,205,USER,https://opencollective.com/user-ff1f8254,,,
+187573,,2021-04-13 08:43,USD,False,2,2021-04-13 08:43,BACKER,Backers,2,USER,https://opencollective.com/guest-171ab0ba,,,
+189648,,2021-04-22 01:57,USD,True,5,2021-04-22 01:57,BACKER,0,5,USER,https://opencollective.com/soracha-thammasit1,,,
+189924,,2021-04-23 05:19,USD,False,500,2021-07-02 07:31,BACKER,Silver Sponsors,1500,USER,https://opencollective.com/slotxo,,,https://slot-xo888.com/
+190101,,2021-04-23 20:35,USD,False,500,2021-06-02 03:10,BACKER,Silver Sponsors,1000,USER,https://opencollective.com/ufabet,,,https://ufa96bet.com
+190172,,2021-04-24 05:55,USD,False,500,2021-07-02 08:04,BACKER,Silver Sponsors,1500,USER,https://opencollective.com/slotbar,,,https://www.slotbar888.com/
+192480,@codeseeio,2021-04-29 20:18,USD,True,1000,2021-12-01 23:08,BACKER,0,8000,USER,https://opencollective.com/shanea-leven,https://twitter.com/codeseeio,,https://www.codesee.io
+194344,,2021-05-06 15:38,USD,True,5,2021-05-06 15:38,BACKER,0,5,USER,https://opencollective.com/evelynhathaway,https://twitter.com/eeveedev,https://github.com/evelynhathaway,https://evelyn.dev
+195279,,2021-05-11 00:13,USD,True,1000,2020-02-02 05:03,BACKER,0,34000,FUND,https://opencollective.com/fbopensource,https://twitter.com/MetaOpenSource,https://github.com/facebook,https://opensource.facebook.com/
+195316,,2021-05-11 06:58,USD,True,10,2021-05-11 06:58,BACKER,0,10,USER,https://opencollective.com/guest-003878bb,,,
+195318,,2021-05-11 07:07,USD,True,2,2021-05-11 07:07,BACKER,0,2,USER,https://opencollective.com/guest-3a3ff3fd,,,
+195323,,2021-05-11 07:18,USD,False,2.5,2024-03-01 08:03,BACKER,Backers,87.5,USER,https://opencollective.com/alex-eden,,https://github.com/alexeden,https://github.com/alexeden
+195332,,2021-05-11 08:12,USD,True,10,2021-05-11 08:12,BACKER,0,10,USER,https://opencollective.com/guest-383dd5d7,,,
+195334,,2021-05-11 08:17,USD,True,50,2021-05-11 08:17,BACKER,0,50,USER,https://opencollective.com/guest-3c966efa,,,
+195335,,2021-05-11 08:30,USD,True,20,2021-05-11 08:30,BACKER,0,20,USER,https://opencollective.com/guest-cdc55c7d,,,
+195336,,2021-05-11 08:31,USD,True,5,2021-05-11 08:31,BACKER,0,5,USER,https://opencollective.com/guest-31bc820b,,,
+195347,,2021-05-11 08:59,USD,True,100,2021-05-11 08:59,BACKER,0,100,ORGANIZATION,https://opencollective.com/metabrainz,https://twitter.com/metabrainz,,https://metabrainz.org
+195354,,2021-05-11 09:12,USD,False,5,2022-07-01 13:04,BACKER,Backers,75,USER,https://opencollective.com/tkdn,https://twitter.com/tkdn,https://github.com/tkdn,
+195357,,2021-05-11 09:17,USD,True,10,2021-05-11 09:17,BACKER,0,10,USER,https://opencollective.com/guest-58ca3695,,,
+195361,,2021-05-11 09:33,USD,True,10,2021-09-01 22:09,BACKER,0,50,USER,https://opencollective.com/gauthamr,,https://github.com/peek4y,
+195368,,2021-05-11 09:48,USD,True,20,2021-05-11 09:48,BACKER,0,20,USER,https://opencollective.com/guest-f3a53714,,,
+195369,,2021-05-11 09:51,USD,True,50,2021-05-11 09:51,BACKER,0,50,USER,https://opencollective.com/guest-9b03c3b1,,,
+195373,,2021-05-11 10:15,USD,True,10,2021-06-04 20:47,BACKER,0,15,USER,https://opencollective.com/user-6313a287,,,
+195386,,2021-05-11 11:50,USD,True,50,2021-05-11 11:50,BACKER,0,50,USER,https://opencollective.com/guest-aaa6b2a4,,,
+195387,,2021-05-11 12:06,USD,True,20,2021-05-11 12:06,BACKER,0,20,USER,https://opencollective.com/guest-3be5fee3,,,
+195391,,2021-05-11 12:16,USD,True,50,2021-05-11 12:16,BACKER,0,50,USER,https://opencollective.com/guest-39d6545a,,,
+195396,,2021-05-11 12:55,USD,True,10,2024-08-01 02:10,BACKER,Backers,400,ORGANIZATION,https://opencollective.com/2metz,https://twitter.com/francois2metz,https://github.com/francois2metz,https://2metz.fr/
+195399,,2021-05-11 12:59,USD,True,5,2022-02-01 13:18,BACKER,0,50,USER,https://opencollective.com/colin-diesh,,,
+195408,,2021-05-11 13:34,USD,True,10,2021-05-11 13:34,BACKER,0,10,USER,https://opencollective.com/guest-0c6bfeab,,,
+195410,,2021-05-11 13:47,USD,True,20,2021-05-11 13:47,BACKER,0,20,USER,https://opencollective.com/tasuku-k,,,
+195412,,2021-05-11 13:48,USD,True,20,2023-03-01 12:09,BACKER,0,460,USER,https://opencollective.com/aaron-lee,,,
+195418,,2021-05-11 14:21,USD,True,50,2021-05-11 14:21,BACKER,0,50,ORGANIZATION,https://opencollective.com/kyrosdigital4,https://twitter.com/kyrosdigital,,https://www.facebook.com/kyrosdigital/
+195419,,2021-05-11 14:23,USD,True,100,2021-05-11 14:23,BACKER,0,100,USER,https://opencollective.com/guest-a646f40a,,,
+195420,,2021-05-11 14:25,USD,True,50,2022-05-01 15:09,BACKER,0,100,USER,https://opencollective.com/guest-9761f032,,,
+195424,,2021-05-11 14:32,USD,True,10,2021-05-11 14:32,BACKER,0,10,USER,https://opencollective.com/guest-7936aecb,,,
+195425,,2021-05-11 14:32,USD,True,20,2021-05-11 14:32,BACKER,0,20,USER,https://opencollective.com/guest-3f423988,,,
+195427,,2021-05-11 14:42,USD,True,5,2021-05-11 14:42,BACKER,0,5,USER,https://opencollective.com/guillermo-siliceo-trueba,,,
+195430,,2021-05-11 14:47,USD,True,5,2022-02-02 04:11,BACKER,0,50,USER,https://opencollective.com/guest-d2ff1a91,,,
+195431,,2021-05-11 14:50,USD,True,50,2021-05-11 14:50,BACKER,0,50,USER,https://opencollective.com/guest-fee53948,,,
+195436,,2021-05-11 14:59,USD,True,10,2021-05-11 14:59,BACKER,0,10,USER,https://opencollective.com/guest-361f8619,,,
+195437,,2021-05-11 15:01,USD,True,30,2021-05-11 15:01,BACKER,0,30,USER,https://opencollective.com/guest-50bbad73,,,
+195440,,2021-05-11 15:05,USD,True,20,2021-05-11 15:05,BACKER,0,20,USER,https://opencollective.com/guest-230eb791,,,
+195444,,2021-05-11 15:11,USD,True,20,2021-05-11 15:11,BACKER,0,20,USER,https://opencollective.com/raohai,,,https://decltype.net/
+195451,,2021-05-11 15:18,USD,True,20,2021-05-11 15:18,BACKER,0,20,USER,https://opencollective.com/guest-ad1a59f2,,,
+195457,,2021-05-11 15:29,USD,True,20,2021-05-11 15:29,BACKER,0,20,USER,https://opencollective.com/pierre-henri-trivier,,,
+195463,,2021-05-11 15:47,USD,True,200,2021-05-11 15:47,BACKER,0,200,COLLECTIVE,https://opencollective.com/ant-design,,https://github.com/ant-design/ant-design,https://ant.design/
+195464,,2021-05-11 15:51,USD,True,10,2021-08-02 07:29,BACKER,0,40,USER,https://opencollective.com/christian-bromann,https://twitter.com/bromann,https://github.com/christian-bromann,https://bromann.dev
+195469,,2021-05-11 16:21,USD,True,10,2021-05-11 16:21,BACKER,0,10,USER,https://opencollective.com/guest-134c2ec9,,,
+195474,,2021-05-11 17:16,USD,True,20,2021-05-11 17:16,BACKER,0,20,USER,https://opencollective.com/guest-867c8d73,,,
+195482,,2021-05-11 17:40,USD,True,5,2021-05-11 17:40,BACKER,0,5,USER,https://opencollective.com/guest-22cc2b96,,,
+195485,,2021-05-11 17:45,USD,True,100,2021-05-11 17:45,BACKER,0,100,USER,https://opencollective.com/drake-costa,,,
+195500,,2021-05-11 18:53,USD,True,10,2022-06-01 13:28,BACKER,0,140,USER,https://opencollective.com/benchociej,,https://github.com/bchociej,https://github.com/bchociej
+195504,,2021-05-11 19:16,USD,True,5,2021-05-11 19:16,BACKER,0,5,USER,https://opencollective.com/eddiesigner,,https://github.com/eddieigner,https://eduardogomez.io
+195505,,2021-05-11 19:19,USD,False,5,2023-02-01 12:12,BACKER,Backers,110,USER,https://opencollective.com/wooojek1,,,
+195510,,2021-05-11 19:26,USD,True,20,2021-05-11 19:26,BACKER,0,20,USER,https://opencollective.com/guest-bc018ac6,,,
+195511,,2021-05-11 19:26,USD,True,6,2021-09-01 22:10,BACKER,0,29,USER,https://opencollective.com/user-074b9b3c,,,
+195521,Westwerk GmbH & Co. KG,2021-05-11 20:10,USD,False,2,2021-11-01 20:09,BACKER,Backers,14,USER,https://opencollective.com/alexander-classen1,https://twitter.com/nviokal,https://github.com/clexi,https://westwerk.ac
+195524,,2021-05-11 20:29,USD,False,5,2022-11-02 06:21,BACKER,Backers,95,USER,https://opencollective.com/victor-magalhaes,,,
+195528,,2021-05-11 20:44,USD,True,5,2022-08-01 12:16,BACKER,0,80,USER,https://opencollective.com/brianmcd,,,https://brianmcd.com
+195531,,2021-05-11 20:49,USD,True,100,2021-05-11 20:49,BACKER,0,100,USER,https://opencollective.com/coni2k,https://twitter.com/coni2k,https://github.com/coni2k,
+195532,@BitMEX,2021-05-11 20:52,USD,False,160,2021-10-01 21:07,BACKER,Backers,805,USER,https://opencollective.com/strml,https://twitter.com/strml_,https://github.com/strml,https://strml.net
+195537,,2021-05-11 21:00,USD,True,5,2024-08-01 02:10,BACKER,Backers,200,USER,https://opencollective.com/sean-perkins,,,
+195539,,2021-05-11 21:10,USD,True,20,2021-05-11 21:10,BACKER,0,20,USER,https://opencollective.com/guest-23ef2f8d,,,
+195540,,2021-05-11 21:19,USD,True,11,2021-05-11 21:19,BACKER,0,11,USER,https://opencollective.com/michael-le1,,,
+195542,,2021-05-11 21:57,USD,False,5,2022-09-01 23:22,BACKER,Backers,85,USER,https://opencollective.com/mikael-doverhag,,,
+195545,,2021-05-11 22:11,USD,True,5,2021-05-11 22:11,BACKER,0,5,USER,https://opencollective.com/guest-3439935f,,,
+195546,,2021-05-11 22:18,USD,True,50,2021-05-11 22:18,BACKER,0,50,USER,https://opencollective.com/guest-0c89abc9,,,
+195548,,2021-05-11 22:23,USD,True,50,2021-05-11 22:23,BACKER,0,50,USER,https://opencollective.com/ben-decker,,,
+195571,,2021-05-11 23:57,USD,False,5,2022-12-01 13:18,BACKER,Backers,100,USER,https://opencollective.com/diogo-neves,,,
+195573,,2021-05-12 00:05,USD,True,20,2021-05-12 00:05,BACKER,0,20,USER,https://opencollective.com/yoshihide-taniguchi,,,
+195574,,2021-05-12 00:08,USD,True,50,2021-05-12 00:08,BACKER,0,50,USER,https://opencollective.com/guest-f9316e03,,,
+195575,,2021-05-12 00:09,USD,True,5,2021-05-12 00:09,BACKER,0,5,USER,https://opencollective.com/guest-96e1fca0,,,
+195585,,2021-05-12 01:15,USD,True,5,2021-05-12 01:15,BACKER,0,5,USER,https://opencollective.com/masakazu-munenaga,,,
+195589,,2021-05-12 01:30,USD,True,50,2021-05-12 01:30,BACKER,0,50,USER,https://opencollective.com/guest-16045274,,,
+195590,,2021-05-12 01:31,USD,True,20,2021-05-12 01:31,BACKER,0,20,USER,https://opencollective.com/guest-c422857a,,,
+195598,,2021-05-12 02:04,USD,True,50,2021-05-12 02:04,BACKER,0,50,USER,https://opencollective.com/guest-173c1c41,,,
+195601,,2021-05-12 02:08,USD,False,10,2022-01-06 13:12,BACKER,Backers,90,USER,https://opencollective.com/guest-d350a22e,,,
+195612,,2021-05-12 03:14,USD,True,50,2021-05-12 03:14,BACKER,0,50,USER,https://opencollective.com/guest-58f07c14,,,
+195614,,2021-05-12 03:30,USD,True,20,2021-05-12 03:30,BACKER,0,20,USER,https://opencollective.com/tatsuya-itakura,,,
+195615,,2021-05-12 03:46,USD,False,5,2022-05-01 15:09,BACKER,Backers,65,USER,https://opencollective.com/kenta-suzuki,,,
+195647,,2021-05-12 05:26,USD,True,52,2021-05-12 05:26,BACKER,0,52,USER,https://opencollective.com/guest-d682065e,,,
+195651,,2021-05-12 06:23,USD,True,5,2021-05-12 06:23,BACKER,0,5,USER,https://opencollective.com/guest-c08803b6,,,
+195656,,2021-05-12 06:48,USD,True,20000,2021-05-12 12:26,BACKER,0,25000,USER,https://opencollective.com/nobuyoshi-hiraguri,,,
+195664,,2021-05-12 07:11,USD,True,2,2020-11-01 04:06,BACKER,0,86,COLLECTIVE,https://opencollective.com/verdaccio,https://twitter.com/verdaccio_npm,https://github.com/verdaccio,https://verdaccio.org/
+195670,,2021-05-12 07:35,USD,True,8000,2021-05-12 11:03,BACKER,0,18000,USER,https://opencollective.com/ryu-yokoji,,,
+195672,,2021-05-12 07:49,USD,True,10,2021-05-12 07:49,BACKER,0,10,USER,https://opencollective.com/him0,,,
+195674,,2021-05-12 08:09,USD,True,10,2021-05-12 08:09,BACKER,0,10,USER,https://opencollective.com/takumi-ohashi,,,
+195678,,2021-05-12 08:17,USD,True,10,2021-05-12 08:17,BACKER,0,10,USER,https://opencollective.com/kemuridama,https://twitter.com/_kemuridama,https://github.com/kemuridama,
+195680,,2021-05-12 08:23,USD,True,5,2021-05-12 08:23,BACKER,0,5,USER,https://opencollective.com/guest-e448bd57,,,
+195681,,2021-05-12 08:39,USD,True,100,2021-05-12 08:39,BACKER,0,100,ORGANIZATION,https://opencollective.com/soct,https://twitter.com/ikeda_soct,,https://soct.co.jp/
+195683,,2021-05-12 08:55,USD,True,10,2021-05-12 08:55,BACKER,0,10,USER,https://opencollective.com/mihyaeru21,,,
+195685,,2021-05-12 09:10,USD,True,5,2021-05-12 09:10,BACKER,0,5,USER,https://opencollective.com/guest-7c24710a,,,
+195691,,2021-05-12 09:23,USD,True,10,2021-05-12 09:23,BACKER,0,10,USER,https://opencollective.com/guest-4040e589,,,
+195692,@CSBiology,2021-05-12 09:28,USD,False,2,2022-08-01 12:05,BACKER,Backers,32,USER,https://opencollective.com/kevin-schneider,https://twitter.com/kMutagene,https://github.com/kMutagene,https://github.com/kMutagene
+195693,,2021-05-12 09:30,USD,True,10,2021-05-12 09:30,BACKER,0,10,USER,https://opencollective.com/jaxx2104,https://twitter.com/jaxx2104,https://github.com/jaxx2104,https://jaxx2104.info/
+195694,,2021-05-12 09:34,USD,True,20,2021-05-12 09:34,BACKER,0,20,USER,https://opencollective.com/yo_waka,https://twitter.com/yo_waka,https://github.com/waka,
+195697,,2021-05-12 09:52,USD,True,50,2021-05-12 09:52,BACKER,0,50,USER,https://opencollective.com/guest-0d7cd8a4,,,
+195720,,2021-05-12 11:36,USD,True,20,2021-05-12 11:36,BACKER,0,20,USER,https://opencollective.com/masami-asai,,,
+195721,,2021-05-12 11:39,USD,True,15,2021-05-12 11:39,BACKER,0,15,USER,https://opencollective.com/guest-21b71f8b,,,
+195726,,2021-05-12 12:03,USD,False,5,2021-10-01 21:08,BACKER,Backers,30,ORGANIZATION,https://opencollective.com/buildify,https://twitter.com/buildifydev,https://github.com/buildifydev,https://buildify.dev
+195735,,2021-05-12 13:33,USD,True,5,2021-05-12 13:33,BACKER,0,5,USER,https://opencollective.com/re-fort,,,
+195736,,2021-05-12 13:44,USD,False,10,2024-05-01 21:04,BACKER,Backers,70,USER,https://opencollective.com/tillsanders,https://twitter.com/tillsanders,https://github.com/tillsanders,https://till-sanders.de/
+195737,,2021-05-12 13:52,USD,True,20,2021-05-12 13:52,BACKER,0,20,USER,https://opencollective.com/guest-3fc1de9f,,,
