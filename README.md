@@ -17,10 +17,14 @@
 ## 使用说明
 
 1.**获取数据**：
-使用提供的脚本从 GitHub 或 Open Collective 下载数据。示例：
+使用提供的脚本从 Open Collective 或 github 下载数据。示例：
 
 ```bash
 python download_json.py
+python get_all_users.py
+python get_repo_contri.py
+python get_repo_info.py
+python get_user_info.py
 ```
 
 2.**处理数据**： 下载数据后，可以使用 `json_to_csv.py` 脚本将 JSON 数据转换为 CSV 格式，以便于进一步分析。 示例：
@@ -39,3 +43,7 @@ python json_to_csv.py
 ## 其他
 
 api均来自官网，官网还有其他类型的api，此仓库的代码仅用作演示。
+
+获取github信息时，别忘记在代码中配置自己的token。
+
+一般都有获取速度限制，编写代码时需要考虑获取信息速度限制。
